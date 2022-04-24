@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.3" title="Lune de miel" previous="3.2" next="3.4">
+<COMMENT>Alors qu'il sort du bureau de son supérieur, Jan se voit entouré par son équipe.</COMMENT>
+<DIALOG character="Michael">Félicitations!</DIALOG>
+<DIALOG character="Jan">Pourquoi?</DIALOG>
+<DIALOG character="Meris">Vos fiançailles bien évidemment!</DIALOG>
+<DIALOG character="Jan">Où est-ce que vous avez entendu parler de ça?</DIALOG>
+<DIALOG character="Michael">Capitaine? Nous sommes des enquêteurs des forces spéciales de la police de la Fédération, ne l'oubliez pas. Aucun secret ne nous échappe...</DIALOG>
+<DIALOG character="Lactis">C'est un peu de votre faute aussi, avec les méthodes d'investigation que vous nous avez inculquées... Alors, quand la cérémonie est-elle prévue?</DIALOG>
+<DIALOG character="Jan">Hé bien, c'est son deuxième mariage, alors quelque chose de discret me semblerait plus approprié...</DIALOG>
+<DIALOG character="Bagus">Dans les vieux films de ma banque de données, toutes les femmes rêvent de leur robe de mariée!</DIALOG>
+<DIALOG character="Meris">Absolument, ce serait une honte que de renoncer à la cérémonie sous prétexte d'un second mariage!</DIALOG>
+<DIALOG character="Jan">Vraiment? ... bien, dès que l'atmosphère sera plus calme, une fête sera...Ecoutez, s'il y a changement de programme, je vous le ferai savoir.</DIALOG>
+<COMMENT>Jan prend congé de son équipe, presque au pas de course.</COMMENT>
+<DIALOG character="Meris">Très franchement, je suis un peu jalouse!</DIALOG>
+<DIALOG character="Michael">Hé, et moi alors! Tu sais, si tu te mariais avec moi, on formerait une belle famille!</DIALOG>
+<DIALOG character="Meris">Je suis plus attirée par les hommes comme le Capitaine...le genre fort, ténébreux, tu vois?</DIALOG>
+<DIALOG character="Michael">Allez quoi...on se donne rencard? On profiterait de la vue d'Archon la nuit, un verre de vin à la main, à porter un toast.</DIALOG>
+<DIALOG character="Meris">Tu n'abandonnes donc jamais!! Ca doit être pour ça qu'aucune fille ne t'apprécie!</DIALOG>
+<DIALOG character="Lactis">Défaite honorable...</DIALOG>
+<DIALOG character="Michael">Aucun problème. C'est ce genre de relation houleuse qui fait naître les sentiments amoureux!</DIALOG>
+<DIALOG character="Lactis">Il est des fois où je ne saisi vraiment pas la pensée humaine...</DIALOG>
+<DIALOG character="Elrich">Ne cherche pas à comprendre l'incompréhensible, surtout quand les humains eux-mêmes n'arrivent pas à comprendre ce type...</DIALOG>
+<DIALOG character="Michael">Hé, ho!</DIALOG>
+<COMMENT>Premières vacances pour Jan après le mariage. Jan, Joaquin et Sharon sont assis autour d'une table.</COMMENT>
+<DIALOG character="Joaquin">Euh...um...papa?</DIALOG>
+<DIALOG character="Jan">Oui, Joaquin?</DIALOG>
+<DIALOG character="Joaquin">Hé hé...</DIALOG>
+<DIALOG character="Jan">Quoi?</DIALOG>
+<DIALOG character="Joaquin">J'ai vraiment un papa maintenant.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Sharon">Ca ne va pas?</DIALOG>
+<DIALOG character="Jan">C'est juste que...je me suis toujours considéré comme quelqu'un de peu émotif, mais...peut être que je me complaisais dans mon rôle d'homme sans coeur.</DIALOG>
+<DIALOG character="Sharon">Ce n'est pas vrai. Toi et mon ex-mari vous sentiez blessés parce que vous étiez trop sensibles. Parce qu'il y aussi trop de mauvaises choses en ce monde.</DIALOG>
+<COMMENT>La sonnette de l'entrée retentit.</COMMENT>
+<DIALOG character="Jan">Ca doit être le livreur.</DIALOG>
+<DIALOG character="Sharon">C'est quoi?</DIALOG>
+<DIALOG character="Jan">Chuuut, une surprise pour Joaquin.</DIALOG>
+<DIALOG character="Livreur">Un paquet pour Mr Sauer, au bon soin de la Nexus Corporation.</DIALOG>
+<DIALOG character="Sharon">Merci.</DIALOG>
+<DIALOG character="Livreur">A votre service.</DIALOG>
+<DIALOG character="Sharon">Qu'est ce qu'il y a la dedans?</DIALOG>
+<IMAGE src="03.gif"/>
+<DIALOG character="Jan">Joaquin...emmène ton paquet dehors et ouvres le.</DIALOG>
+<DIALOG character="Joaquin">C'est pour moi? Qu'est-ce que ça peut bien être?</DIALOG>
+<COMMENT>Dehors, Joaquin, le visage rempli de joie, tient dans ses bras un chien artificiel.</COMMENT>
+<IMAGE src="04.gif"/>
+<DIALOG character="Joaquin">Ouaiiis! Merci papa!</DIALOG>
+<DIALOG character="Jan">J'aurais voulu t'en trouver un authentique mais je n'ai pas pu t'en avoir un.</DIALOG>
+<DIALOG character="Joaquin">Génial! Il est si mignon! C'est quoi son nom? Il en a déjà un?</DIALOG>
+<DIALOG character="Jan">Nexus 6</DIALOG>
+<DIALOG character="Joaquin">Ca c'est le modèle. On dirait le nom d'un robot.</DIALOG>
+<DIALOG character="Jan">C'est vrai.</DIALOG>
+<DIALOG character="Joaquin">Hmmm...ça y est, je sais...Nex! Si je raccourcis Nexus 6, ça donne Nex! Qu'est-ce que tu en dis papa?</DIALOG>
+<DIALOG character="Jan">Oui, c'est un joli nom...</DIALOG>
+<DIALOG character="Joaquin">Vraiment? Ok, Nex! Viens ici mon chien!</DIALOG>
+<COMMENT>Le communicateur de Jan sonne.</COMMENT>
+<DIALOG character="Sharon">De qui ça vient?</DIALOG>
+<DIALOG character="Jan">On dirait bien que c'est le chef de la police.</DIALOG>
+<DIALOG character="McCollum">Jan, désolé de te déranger mais il y a du nouveau sur l'enquête. Je sais que c'est ton jour de congé, mais pourrais-tu te rendre au poste au plus tôt?</DIALOG>
+<DIALOG character="Jan">Compris. Ca a rapport avec Voyager ou bien?</DIALOG>
+<DIALOG character="McCollum">Je ne peux t'en dire plus pour l'instant. Viens dès que tu peux.</DIALOG>
+<DIALOG character="Jan">Ok.</DIALOG>
+<DIALOG character="Joaquin">...</DIALOG>
+<DIALOG character="Jan">Désolé. Je dois y aller.</DIALOG>
+<DIALOG character="Joaquin">Mais tu m'avais dit que tu resterais avec moi toute la journée...</DIALOG>
+<DIALOG character="Sharon">Joaquin...ton père a un travail très important.</DIALOG>
+<DIALOG character="Joaquin">C'est bon...même moi je sais que papa est quelqu'un de très occupé.</DIALOG>
+<DIALOG character="Jan">Joaquin, je voudrais que tu réfléchisses à la maison que nous pourrions construire pour Nex.</DIALOG>
+<DIALOG character="Joaquin">Une maison pour Nex...?</DIALOG>
+<DIALOG character="Jan">Oui. A mon prochain congé, on ira a Archon pour acheter ce qu'il faut afin de construire sa niche.</DIALOG>
+<DIALOG character="Joaquin">Ok, c'est promis!</DIALOG>
+<DIALOG character="Jan">Je ne te laisserai pas tomber cette fois.</DIALOG>
+<DIALOG character="Sharon">Cet appel de McCollum, il ne sonnait pas tout à fait normal.</DIALOG>
+<DIALOG character="Jan">Ouais. C'est aussi ce que je pense.</DIALOG>
+<DIALOG character="Sharon">J'ai un mauvais pressentiment...fais attention à toi.</DIALOG>
+<DIALOG character="Jan">Ne t'inquiètes pas...je serai de retour cette nuit.</DIALOG>
+
+</CHAPTER>
+

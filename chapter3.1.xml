@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.1" title="Veritas Liberabit Vos" previous="3.0" next="3.2">
+<COMMENT>Poste de police de la Fédération, salle de briefing</COMMENT>
+<DIALOG character="Elrich">Alors, comment ça se présente?</DIALOG>
+<DIALOG character="Michael">Pas une trace. J'ai regardé les livres de compte de chaque opérateur impliqué, même de loin, avec la Secte Taka. J'ai recherché tout lien avec  les trafiquants de programmes de drogue neurochimique...mais à chaque fois que je pensais avoir trouvé quelque chose, il n'y avait rien d'exploitable.</DIALOG>
+<DIALOG character="Jan">Comment est-ce possible?</DIALOG>
+<DIALOG character="Elrich">...</DIALOG>
+<DIALOG character="Michael">Plutôt étrange, non? D'une organisation aussi puissante, on s'attendrait logiquement à ce que son nom apparaisse quelque part, n'est-ce pas? Même l'enquête sur les réseaux n'a rien donné, sinon de vains bavardages. Si seulement je pouvais mettre la main sur un indice qui nous conduirait au coeur du sujet...</DIALOG>
+<DIALOG character="Jan">Et le réseau local? Si tu pouvais y accéder...</DIALOG>
+<DIALOG character="Lactis">Elrich et Michael ont essayé d'accéder au réseau local de la Fédération à maintes reprises, mais se sont systématiquement heurtés à un protocole hautement sécurisé. Avec du temps, Michael pourrait probablement en venir à bout, mais si nous prenions le temps pour le faire...</DIALOG>
+<DIALOG character="Jan">...Voyager tirerait avantage de notre retard.</DIALOG>
+<DIALOG character="Lactis">Que faire alors?</DIALOG>
+<DIALOG character="Meris">Capitaine, je repensais...a une des choses qu'une de mes sources m'avait dit alors...</DIALOG>
+<DIALOG character="Michael">"Une de tes sources"...attends, ce serait pas toi la source dès fois?</DIALOG>
+<DIALOG character="Meris">La ferme, Michael.</DIALOG>
+<DIALOG character="Michael">Si je veux, je me ...</DIALOG>
+<DIALOG character="Jan">Qu'est-ce que c'est? Parle Meris.</DIALOG>
+<DIALOG character="Meris">Veritas devrait savoir quelque chose. Si je pouvais me rapprocher d'eux, peut être...</DIALOG>
+<DIALOG character="Lactis">Veritas?</DIALOG>
+<DIALOG character="Jan">Veritas Liberabit Vos... V.L.V. pour faire court. "La vérité vous libèrera." Il s'agit d'une organisation anti-UMN.</DIALOG>
+<DIALOG character="Meris">Tout juste. Cette série d'incidents n'a pris place que dans la réalité virtuelle. En tenant compte de cela, je suis sûr qu'ils ont mené leur propre enquête. Surtout depuis que Voyager est connu pour ses crimes violents dans l'UMN. Je ne peux imaginer qu'ils ignorent cela!</DIALOG>
+<DIALOG character="Jan">Tu as raison. Ces derniers incidents conviendraient parfaitement pour démontrer les dangers de l'UMN au grand public...quoi qu'il en soit, Veritas a été constitué pour s'opposer à l'UMN, j'en conclu dès lors qu'il n'est pas possible de les contacter via le réseau...</DIALOG>
+<DIALOG character="Meris">...</DIALOG>
+<DIALOG character="Jan">Je suppose qu'il ne te reste plus qu'à employer les bonnes vieilles méthodes.</DIALOG>
+<DIALOG character="Meris">Alors ... j'ai votre approbation?</DIALOG>
+<DIALOG character="Jan">Pour autant que tu saches tenir ta langue, oui.</DIALOG>
+<DIALOG character="Meris">Compris. Un de mes amis de l'école de police est actuellement enrôlé dans la 3ème division. Selon un de ses messages, il semble qu'un officiel haut placé du gouvernement abraxien fasse partie de leurs membres. Etant donné la situation, nous devrions peut être étendre nos ressources.</DIALOG>
+<DIALOG character="Jan">La 3ème division...la division des gardiens de l'ordre public? Comme toujours, ils sont en avance sur nous... Ok, ça me va. Mais la situation actuelle reste ce qu'elle est. Je ne te laisserai pas t'embarquer la-dedans toute seule, Michael!!</DIALOG>
+<DIALOG character="Michael">Oui!</DIALOG>
+<DIALOG character="Jan">Accompagne Meris, fournis lui ton appui.</DIALOG>
+<DIALOG character="Michael">Compris...Est-ce vraiment une bonne idée de contacter Veritas?</DIALOG>
+<DIALOG character="Jan">Tu en as une meilleure?</DIALOG>
+<DIALOG character="Michael">N-non!</DIALOG>
+<DIALOG character="Jan">Bien. Elrich, pendant l'absence de Michael, te sens-tu capable de mener à bien ses tâches? </DIALOG>
+<DIALOG character="Elrich">Bien sûr. Bien que le rendement devrait baisser un peu.</DIALOG>
+<DIALOG character="Michael">Hah, écoutez le. Ca ne fait pas l'ombre d'un doute qu'il saura se débrouiller...Hé Dewey! Ecoute, tu peux prendre soin de ce gars pendant que je serai parti?</DIALOG>
+<DIALOG character="Dewey">Bien Monsieur.</DIALOG>
+<DIALOG character="Michael">Je te laisse les commandes! Voila, maintenant tu peux reporter toute l'attention voulue sur Bagus, pas vrai?</DIALOG>
+<DIALOG character="Elrich">J'imagine, oui...merci.</DIALOG>
+<DIALOG character="Michael">Je serais un petit peu nerveux s'il s'agissait d'une mission en réalité virtuelle, mais puisque nous allons dans le monde réel, Dewey devrait être capable de prendre les opérations en main. Hé, gamin, je compte sur toi, alors t'as pas intérêt à merder!</DIALOG>
+<DIALOG character="Jan">Meris, Michael, c'est une organisation secrète avec laquelle vous allez tenter d'entrer en contact. Ne vous sortez pas ça de la tête...de notre côté, on sera en stand-by. Si vous avez du nouveau, contactez nous immédiatement!</DIALOG>
+
+
+</CHAPTER>
+

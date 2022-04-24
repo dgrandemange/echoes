@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.3" title="Réalité virtuelle, parvis de la cathédrale" previous="1.2" next="1.4">
+   <COMMENT>Réalité virtuelle, parvis de la cathédrale : l'équipe de police d'Archon, ainsi que Meris, Lactis et Bagus viennent de se connecter.</COMMENT>
+
+   <DIALOG character="Meris">L'objectif de notre mission est de protéger les consciences des Ambassadeurs Bienveillants de la Fédération ainsi que ses diplomates. Des informations obtenues, il apparaît qu'ils sont retenus prisonniers au point NG-PP6-42T8. Ils ont été pris au piège au moment où les négociations ont démarrées. Lorsque nous atteindrons ce point, notez et surveillez les issues avoisinantes, et n'agissez qu'après m'en avoir fait la demande.</DIALOG>
+
+   <DIALOG character="Cordell">Une fois localisés, ne pourrait on pas simplement les forcer à se déconnecter? On ferait comme d'habitude pour ce genre de situation...</DIALOG>
+
+   <DIALOG character="Meris">Vous plaisantez? A votre avis, pourquoi a t'on fait particulièrement appel à NOS services. L'espace virtuel n'est pas le petit monde habituel que vous côtoyez tous les jours. Si vous endommagiez leur cerveau en tentant de contacter leur conscience en ne respectant pas le protocole habituel requis, alors tout le travail de diplomatie et de négociation ayant eu lieu jusqu'ici n'aura servi a rien.</DIALOG>
+
+   <DIALOG character="Cordell">Compris.</DIALOG>
+
+   <DIALOG character="Meris">Bien, confirmation de la situation actuelle de la cible. Point N6-PPG-42T8. Ce n'est pas loin d'ici. Nouvelle confirmation. Cet endroit a une logique complètement différente de celle d'un espace virtuel normal. Nous nous attendons à des cellules anti-intrusion très proches de celles des anticorps, mais leur algorithme basique de construction nous est inconnu. Restez donc sur vos gardes!</DIALOG>
+
+   <DIALOG character="Agent de police">Oui, Commandant</DIALOG>
+
+   <COMMENT>Les policiers saluent puis se précipitent à l'intérieur.</COMMENT>
+
+   <DIALOG character="Meris">Pfffou...</DIALOG>
+
+   <DIALOG character="Lactis">Ce petit soupir...Ne trahirait-il pas, par hasard, l'envie de troquer votre place avec celle plus confortable d'un travail de bureau?</DIALOG>
+
+   <DIALOG character="Meris">Arrêtes de me charrier!</DIALOG>
+
+   <DIALOG character="Bagus">Meris devient de plus en plus nerveuse. Respiration à 128%. Rythme cardiaque 160%. Température du corps 112%. Tous ses signes vitaux dépassent les valeurs normales.</DIALOG>
+
+   <DIALOG character="Meris">Laisse tomber toi aussi! Bordel, mais c'est quoi cette IA? Je vais en référer à Elrich, non mais.</DIALOG>
+
+   <DIALOG character="Bagus">Non, non! Je suis désolé.</DIALOG>
+
+   <DIALOG character="Lactis">Etes-vous vraiment si nerveuse?</DIALOG>
+
+   <DIALOG character="Meris">Probablement. Mais d'une manière ou d'une autre, je veux mener à bien cette mission. Etes-vous avec moi ?</DIALOG>
+
+   <DIALOG character="Lactis">Vous n'avez pas dit un mot lors de la plongée. Qu'est-ce qui vous inquiète autant?</DIALOG>
+
+   <DIALOG character="Meris">...</DIALOG>
+
+   <DIALOG character="Lactis">Bon si vous n'avez pas envie de parler, je ne peux rien faire pour vous...Passons donc à autre chose.</DIALOG>
+
+   <DIALOG character="Meris">Sais tu quand le Capitaine a été promu au rang qu'il tient aujourd'hui?</DIALOG>
+
+   <DIALOG character="Lactis">Je ne prête pas trop attention à ce genre de choses.</DIALOG>
+
+   <DIALOG character="Meris">C'était il y a 7 ans, il avait alors 23 ans, l'âge que j'ai aujourd'hui.</DIALOG>
+
+   <DIALOG character="Lactis">Ah, je vois. Ainsi vous pensez que si vous réussissez cette mission, vous serez vous aussi promue au grade de Capitaine? Ne vous faites pas d'illusions. Vous savez, on ne peut mettre sa fierté de côté qu'en laissant couler une fois de temps en temps.</DIALOG>
+
+   <DIALOG character="Meris">Je sais, je sais. Mais autant que possible, je veux essayer de résoudre cette affaire sans le concours du Capitaine. M'accorderas tu ton aide?</DIALOG>
+
+   <DIALOG character="Lactis">J'irai jusqu'au bout de cette mission. Le Realian que je suis a été conçu dans ce sens. Que ce soit avec vous ou avec le Capitaine, c'est de toute façon la charge qui m'a été assignée, suivre cette mission du début jusqu'à sa fin.</DIALOG>
+
+   <DIALOG character="Meris">Et toi Bagus?</DIALOG>
+
+   <DIALOG character="Bagus">M-moi?...Nous avons déjà parcouru tout ce chemin, et il n'y a plus moyen d'éviter les réprimandes du Capitaine...Je crois que nous nous ferons sermonner de toute manière. Réussir la mission nous permettra peut-être de nous en tirer à bon compte...Je m'inquiète surtout pour Elrich. Si le Capitaine apprend qu'il m'a utilisé sans sa permission...Non c'est trop affreux, je n'ose y penser.</DIALOG>
+
+   <DIALOG character="Meris">Ne t'inquiètes pas pour Elrich...J'assumerai la pleine responsabilité de cette décision...Je me sens mieux de vous avoir à mes côtés. Allons, dépêchons-nous de récupérer ces ambassadeurs!</DIALOG>
+
+   <COMMENT>Le groupe arrive finalement à rejoindre les policiers, regroupés autour d'une sorte de char de combat.</COMMENT>
+
+   <DIALOG character="Lactis">Qu'est-ce que c'est que ça?</DIALOG>
+
+   <DIALOG character="Meris">On dirait que les ravisseurs nous ont laissé une petite surprise rien que pour nous? Je me demande s'il n'était pas simplement là à nous attendre.</DIALOG>
+
+   <DIALOG character="Lactis">Bagus!</DIALOG>
+
+   <DIALOG character="Bagus">Accès en cours! Ah, j'y suis. Un char d'assaut des Industries Tao, le "Sleipnir" fabriqué en 4614 T.C. .Plutôt ancien pour une unité de sécurité.</DIALOG>
+
+   <DIALOG character="Lactis">Je n'aime pas l'idée qu'il puisse nous "attendre"...transmets-moi ces données. Meris! Allez dire aux autres agents de ne pas bouger tant que l'analyse de ce truc n'est pas terminée. Je ne pense pas qu'il s'agisse d'une simple unité.</DIALOG>
+
+   <DIALOG character="Meris">Ok. Votre attention! Une analyse de ce char de combat est en cours. N'approchez surtout pas tant que l'on en vous en a pas donné l'ordre.</DIALOG>
+
+   <DIALOG character="Marion">Rester là à ne rien faire avec l'ennemi juste en face? J'imagine qu'il est préférable de rester prudent lorsque la situation n'est pas maîtrisée.</DIALOG>
+
+   <DIALOG character="Mark">C'est surtout que les officiers sont très procéduriers. Ce char est probablement un leurre et sans danger. Allons-y et débarrassons nous en.</DIALOG>
+
+   <DIALOG character="Marion">Compris. Alpha, Dart, restez autour de lui. Bravo, encerclez-le et approchez-vous par le côté droit, assurez vous une bonne position de tir. Son point faible se situe sur la nuque. Ne déclenchez votre attaque qu'une fois ce point exposé...Bien, on y va.</DIALOG>
+
+   <DIALOG character="Meris">Attendez! Non!</DIALOG>
+
+   <DIALOG character="Lactis">Bon sang!</DIALOG>
+
+   <DIALOG character="Marion">Il nous a eus!</DIALOG>
+
+   <DIALOG character="Mark">Ce ... Comment un truc pareil peut-il bouger aussi vite?</DIALOG>
+
+   <COMMENT>Trois agents sont effacés sous leurs yeux. Le seul homme encore valide prend la fuite, son visage portant le masque de l'horreur.</COMMENT>
+
+   <DIALOG character="Lactis">Meris! Vous m'entendez! Meris, bougez-vous de là!</DIALOG>
+
+   <DIALOG character="Meris">D-désolée...je n'ai pas été capable de les stopper...</DIALOG>
+
+   <DIALOG character="Lactis">Pouvons-nous seulement nous en tirer sans le Capitaine? Et que sommes-nous supposés faire maintenant, avec vous et votre manque totale de lucidité?</DIALOG>
+
+   <DIALOG character="Bagus">Lactis! C'est un peu ...</DIALOG>
+
+   <DIALOG character="Lactis">Toi, restes en là, tu-veux? J'ai dit ce qui devait être dit, pas vrai? Meris, quoi que vous pensiez, je dois terminer la mission qui m'a été confié. Ne venez pas vous mettre en travers de mon chemin.</DIALOG>
+
+   <DIALOG character="Meris">Et les agents que le char d'assaut a effacés ...?</DIALOG>
+
+   <DIALOG character="Lactis">Fort probable qu'ils y soient restés.</DIALOG>
+
+   <DIALOG character="Meris">Par... mon manque d'autorité...</DIALOG>
+
+   <DIALOG character="Lactis">Dans les forces spéciales d'intervention, ce type d'événement est monnaie courante. Croyez-vous qu'une personne qui n'accepte pas cela soit taillée pour le commandement?</DIALOG>
+
+   <DIALOG character="Meris">...</DIALOG>
+
+   <DIALOG character="Lactis">Vous devriez vous déconnecter. Je prendrai le relais.</DIALOG>
+
+   <DIALOG character="Meris">...</DIALOG>
+
+   <DIALOG character="Lactis">Qu'y-a-t-il? De nouveau opérationnelle?</DIALOG>
+
+   <DIALOG character="Meris">Je pense que oui. Je vais continuer.</DIALOG>
+
+   <DIALOG character="Lactis">Entendu, bien, il nous faut nous débarrasser de ce "Sleipnir". Nous ne devrions pas être effacés en restant proche de sa coque. Nous avons cette chance qu'Elrich ai équipé Bagus de cet armement anti-terroriste. Même à trois, nous devrions pouvoir le battre. Alors, allons-y!</DIALOG>
+</CHAPTER>
+

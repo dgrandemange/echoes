@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.7" title="Epilogue" previous="2.6" next="3.0">
+<COMMENT>Dans une salle peu éclairée, un homme s'agenouille devant un autre homme semblant être son supérieur.</COMMENT>
+<IMAGE src="sergius.gif"/>
+<DIALOG character="Cardinal">Le pape Julius est mort, et le Zohar est presque entre nos mains...mais certains obstacles n'ont pas encore été complètement écartés. Que devrions-nous faire?</DIALOG>
+<DIALOG character="Sergius">Des obstacles? Vous parlez sans doute de Dimitri Yuriev?</DIALOG>
+<DIALOG character="Cardinal">Oui</DIALOG>
+<DIALOG character="Sergius">Ne vous inquiétez pas de la Fédération. Ils n'ont aucune idée de la manière d'utiliser ce pouvoir.</DIALOG>
+<DIALOG character="Cardinal">Et son avant-garde...devrions-nous la laisser agir à sa guise?</DIALOG>
+<DIALOG character="Sergius">L'homme de main qu'utilise Yuriev pour collecter les essences du peuple du Zohar?...quel est son nom déjà? Ah, oui, Voyager, n'est-ce pas? Sans intérêt.</DIALOG>
+<DIALOG character="Cardinal">Il n'est pas au courant de nos agissements?</DIALOG>
+<DIALOG character="Sergius">Non. Je suis certain que Voyager pense que l'incident lié à Julius n'était qu'une autre mission dictée par Yuriev.</DIALOG>
+<DIALOG character="Cardinal">Mais au sein de la Fédération, tout ce qui concerne le Zohar suscite de plus en plus d'agitation. Voyager devient de plus en plus indispensable à Yuriev, il est de facto possible qu'il découvre notre rôle.</DIALOG>
+<DIALOG character="Sergius">Même si c'était le cas, il n'est, à mes yeux, rien de plus qu'un chient errant. Je ne pense pas qu'il soit en son pouvoir de contrer nos actions...de plus, même si Yuriev venait à collecter suffisamment de ces essences, il ne saurait pas quoi en faire. Le contrôle du Zohar est un droit divin accordé au seul peuple du Zohar...à notre race de sang pur...c'est la raison pour laquelle Julius nous barrait le passage. Comprenez-vous ...?</DIALOG>
+<DIALOG character="Cardinal">Oui...je comprends.</DIALOG>
+<DIALOG character="Sergius">Tout devrait rentrer dans l'ordre. Au Conseil des Pèlerins, le peuple ignorant de la Fédération prendra pleinement conscience de la véritable grandeur de notre Flotte Immigrante. D'ici là, il est de notre devoir de protéger le Zohar. Vous pouvez disposer.</DIALOG>
+<DIALOG character="Cardinal">Bien.</DIALOG>
+
+   </CHAPTER>
+
+

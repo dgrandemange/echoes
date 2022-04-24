@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.4" title="Dans le bureau du Chef" previous="3.3" next="3.5">
+<COMMENT>Poste de police de la Fédération, bureau du chef de la police. Le corps des forces spéciales y a été convoqué.</COMMENT>
+<DIALOG character="Jan">...Vous fermez le dossier de l'enquête!?</DIALOG>
+<DIALOG character="McCollum">Oui, c'est un ordre qui me vient d'au-dessus. A 20:00 aujourd'hui, l'escadron détaché à Abraxas est prié de cesser complètement et pour une durée indéterminée ses investigations sur le dénommé Voyager. Toi et ton équipe restez en stand-by jusqu'à nouvel ordre.</DIALOG>
+<DIALOG character="Jan">Vous réalisez ce que vous êtes en train de nous dire?</DIALOG>
+<DIALOG character="McCollum">Je suis bien conscient des conséquences de la fermeture de l'enquête...Mais, c'est un ordre direct émanant du Directeur. Il m'a personnellement contacté pour cela...</DIALOG>
+<DIALOG character="Jan">Chef, vous devez savoir que ceci est le fruit d'une pression politique !!</DIALOG>
+<DIALOG character="McCollum">Je sais! J'en suis conscient! ...Mais sans aucune preuve  de qui cette personne est, même moi je suis impuissant...je suis navré. En cet instant, il n'est pas en mon pouvoir de vous aider.</DIALOG>
+<DIALOG character="Jan">Et si...</DIALOG>
+<DIALOG character="McCollum">?</DIALOG>
+<DIALOG character="Jan">Et si nous identifions la personne à l'origine de cette pression?</DIALOG>
+<DIALOG character="McCollum">Qu'est-ce que tu dis?</DIALOG>
+<DIALOG character="Jan">Si le patron des Descendants de Nestorius était Yuriev, membre éminent du Comité de Promotion des Communications, sous le contrôle direct du Conseil de la Fédération...serait-ce envisageable de réouvrir l'enquête?</DIALOG>
+<DIALOG character="McCollum">...Tu veux bien m'expliquer ça en détails?</DIALOG>
+<DIALOG character="Jan">Meris...</DIALOG>
+<DIALOG character="Meris">Je vais préciser tout cela. Nous savons de source sûre que les Descendants de Nestorius ne sont qu'une organisation fictive qui a été créée dans un certain but...Yuriev est en contact avec Voyager par le biais de cette organisation. Nous croyons qu'il essaie de rassembler de la drogue neurochimique.</DIALOG>
+<DIALOG character="McCollum">...un certain but?</DIALOG>
+<DIALOG character="Meris">Nous enquêtons sur ses véritables intentions, mais il subsiste un terme spécial...</DIALOG>
+<DIALOG character="McCollum">..."Zohar". En parlant de Dimitri Yuriev, son nom est apparu dans la composition du conseil d'administration de la Commission de la Sécurité Publique. Etes-vous en train de me dire qu'il est l'instigateur de tout ceci?</DIALOG>
+<DIALOG character="Jan">Je suis certain que la suspension de notre enquête est le fruit d'une pression destinée à protéger sa réputation...Chef, maintenant que vous savez cela, allez-vous maintenir vos ordres à notre égard?</DIALOG>
+<DIALOG character="McCollum">Je m'attendais à ce qu'il se trame quelque chose derrière ce jeu de pouvoir politique, mais Yuriev...ça poserait un sérieux problème. Ecoutes, Jan. Pour le moment, laisses moi m'occuper de ça. Reste chez toi jusqu'à ce que la situation évolue.</DIALOG>
+<DIALOG character="Jan">Mais...</DIALOG>
+<DIALOG character="McCollum">Ceci est un ordre! Compris? Si ce que vous dites s'avère exact, la Fédération toute entière est impliquée dans un très gros scandale. C'est pas le moment de jouer les téméraires.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="McCollum">...Fais une pause pour un moment. Avais-tu réellement l'intention de bosser en pleine lune de miel? Joaquin et Sharon seront ravis de t'avoir à la maison. ...J'ai pas raison?</DIALOG>
+<DIALOG character="Jan">M-mais c'est...</DIALOG>
+<DIALOG character="McCollum">Je me rends sur le champ dans le bureau du Directeur pour lui recommander de réorienter l'enquête vers Dimitri Yuriev. C'est tout ce que je peux faire pour l'instant. Compris?</DIALOG>
+<DIALOG character="Jan">...Je comprends.</DIALOG>
+<COMMENT>Un autre agent entre dans la pièce, croisant Jan et son équipe alors qu'ils en sortent.</COMMENT>
+<DIALOG character="McCollum">...Je dois voir le Directeur. Cela peut-il attendre?</DIALOG>
+<DIALOG character="Gary">Envie de raconter au directeur que Dimitri Yuriev a été un méchant garçon?</DIALOG>
+<DIALOG character="McCollum">...!! Comment diable savez-vous cela!?</DIALOG>
+<DIALOG character="Gary">Je n'ai rien contre vous, bien sûr, mais je ne peux vous permettre de perturber l'agenda de Yuriev...Mes sincères excuses.</DIALOG>
+<DIALOG character="McCollum">!!</DIALOG>
+<COMMENT>Yuriev se penche, les coudes sur la table, l'air pensif. A côté de lui se tient une femme.</COMMENT>
+<IMAGE src="05.gif"/>
+<DIALOG character="Zora">Cette chienne de police ... on dirait bien qu'ils vous ont dans le nez.</DIALOG>
+<DIALOG character="Yuriev">En effet, il me semble les avoir sous-estimés. Je pensais qu'en laissant Voyager se faire prendre, ça serait suffisant pour les tenir en échec, mais même en arrosant les plus hautes instances de la police, ils l'ont quand même découvert.</DIALOG>
+<DIALOG character="Zora">La collecte des drogues neurochimique...ne devrait-on pas la suspendre pour un moment?</DIALOG>
+<DIALOG character="Yuriev">Ne soyez pas stupide. La puissance de la Flotte Immigrante, voilà le problème. Leur supériorité numérique suffit pour obtenir une victoire écrasante sur la Fédération...même si la rivalité qui nous oppose n'est rien de plus qu'un prétexte pour s'emparer du Zohar...Maintenant que Julius est mort, Sergius va très certainement tenter quelque chose au Conseil des Pèlerins. D'ici là, nous devons produire un maximum de spécimens du peuple du Zohar...les Salvateurs...</DIALOG>
+<DIALOG character="Zora">Que je vous parle à vous ou à tout autre membre de la Flotte, on en revient d'une manière ou d'une autre à parler du Zohar. Si vous me posiez la question, je vous dirais que Sergius et vous-même ne semblez pas si différent ...</DIALOG>
+<DIALOG character="Yuriev">Insinueriez-vous que je veux m'accaparer le Zohar à des fins personnelles? Ha, je suis un incompris..Il a le pouvoir de montrer le chemin vers Lost Jerusalem...Après m'être échappé de "l'horreur", je n'ai pas d'autre choix que de m'accrocher à ce pouvoir. Seul lui peut me sauver d'une prison dont les barreaux seraient mes propres peurs!</DIALOG>
+<DIALOG character="Zora">Ok, ok, vous n'avez pas à vous mettre dans de tels états. Je comprends votre décision de continuer la collecte des drogues. Je voulais juste m'en assurer avant que le grand spectacle ne commence... A part ça, voulez-vous que je m'occupe du sort de ces policiers?</DIALOG>
+<DIALOG character="Yuriev">Ne vous gênez surtout pas. Vous avez carte blanche. Il est temps de leur boucler le clapet.</DIALOG>
+<DIALOG character="Zora">Ah, des mots si durs de votre part. ...Bien. Je vous préparerai un spectacle qui devrait dépasser vos attentes les plus bestiales. Vous pouvez vous préparez au Conseil des Pèlerins sans vous soucier de quoi que ce soit. I l ne me faudra pas beaucoup de temps pour prendre soin de ces jeunes impétueux, combien même ils se défendraient bec et ongles.</DIALOG>
+<DIALOG character="Yuriev">Bien</DIALOG>
+</CHAPTER>
+

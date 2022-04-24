@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.0" title="Temps mort" previous="2.7" next="3.1">
+<COMMENT>Poste de police de la Fédération, quartier général des forces spéciales d'intervention</COMMENT>
+<DIALOG character="Michael">...Alors, comment ça s'est passé cette nuit?</DIALOG>
+<DIALOG character="Jan">Cette nuit ... ?</DIALOG>
+<DIALOG character="Michael">Vous ne vous souvenez pas? Ou vous faites semblant de ne pas vous souvenir...même si ce n'est pas dans vos habitudes de boire. Le Capitaine était assez charmant, n'est-ce pas Meris?</DIALOG>
+<DIALOG character="Meris">Oh, oui...c'est rare de vous entendre parler autant. Au fait, cette nuit...vous êtes allé où avec le Docteur Rosas?</DIALOG>
+<DIALOG character="Jan">Ce n'était pas grand chose, mais...pour la remercier...je l'ai raccompagné chez elle.</DIALOG>
+<DIALOG character="Elrich">Bien sûr. M'est avis que vous lui faisiez plutôt la cour.</DIALOG>
+<DIALOG character="Jan">Hé, qu'est-ce ça veut dire...</DIALOG>
+<DIALOG character="Lactis">...C'est bon, ça suffit...Capitaine, le mot utilisé par Klaus - 'Zohar'. Je crois que l'organisation qui se cache derrière le trafic de programmes de drogues neurochimiques est les Descendants de Nestorius. Maintenant que le but de Voyager est clair, si nous pouvions en finir avec ces Descendants, le prochain incident serait plus facile à gérer. Mais comment faire?</DIALOG>
+<DIALOG character="Jan">Ah, oui...tu as raison. Nous devrions commencer par enquêter sur ces Descendants, mais...</DIALOG>
+<DIALOG character="Lactis">?</DIALOG>
+<DIALOG character="Jan">...Nous avons enchaîné mission sur mission depuis notre arrivée sur Abraxas. Vous devez tous être fatigués. Pourquoi ne pas faire un break?</DIALOG>
+<DIALOG character="Lactis">Merci, j'apprécie votre intérêt.</DIALOG>
+<DIALOG character="Michael">Vraiment? Alors qui a une petite faim? Capitaine! Vous nous accompagnez?</DIALOG>
+<DIALOG character="Jan">En fait, j'ai déjà pris mes dispositions...</DIALOG>
+<DIALOG character="Michael">Des dispositions? Ca devient de plus en plus suspect tout ça... peut-être que la Capitaine a un penchant pour les veuves?</DIALOG>
+<DIALOG character="Lactis">Michael!</DIALOG>
+<DIALOG character="Michael">Je plaisante, je plaisante! Hé Elrich, tu viens?</DIALOG>
+<DIALOG character="Elrich">Moi? Bagus a besoin de maintenance vu comment nous l'avons sollicité ces derniers temps...Je vais rester.</DIALOG>
+<DIALOG character="Bagus">Désolé du dérangement!</DIALOG>
+<DIALOG character="Meris">C'est bon, Bagus. Ca te dérangerait de rester seul si Elrich nous accompagnait?</DIALOG>
+<DIALOG character="Bagus">Non...mais ce serait fun que je puisse un jour sortir avec vous tous!!</DIALOG>
+<DIALOG character="Meris">Bon, moi je suis partante. Et toi Lactis?</DIALOG>
+<DIALOG character="Lactis">Je vous accompagne aussi. Pour m'assurer que vous reviendrez tous à votre poste après ça.</DIALOG>
+<DIALOG character="Meris">Hein?</DIALOG>
+<DIALOG character="Michael">Tch! Moi qui voulait me mettre une bonne cuite et m'éclater toute la nuit...</DIALOG>
+<COMMENT>Dans la maison de Sharon, Jan et Joaquin finissent de dîner.</COMMENT>
+<DIALOG character="Joaquin">Hé, Capitaine!</DIALOG>
+<DIALOG character="Jan">Tu peux m'appeler Jan, tu sais. Ca ne me dérange pas.</DIALOG>
+<DIALOG character="Joaquin">Non, Capitaine, ça fait plus cool! Alors...qu'est-ce que vous pensez de maman?</DIALOG>
+<DIALOG character="Jan">...!</DIALOG>
+<DIALOG character="Joaquin">A votre avis, c'est pas la plus adorable des maman de tout l'univers?</DIALOG>
+<DIALOG character="Jan">Certainement. Ta maman est vraiment formidable.</DIALOG>
+<DIALOG character="Joaquin">Je voulais dire, en fait j'espérais que vous soyez tombé amoureux d'elle.</DIALOG>
+<DIALOG character="Jan">Pourquoi ça?</DIALOG>
+<DIALOG character="Joaquin">...</DIALOG>
+<DIALOG character="Jan">Joaquin...tu voudrais avoir un papa?</DIALOG>
+<DIALOG character="Joaquin">...Oui</DIALOG>
+<DIALOG character="Jan">Je comprend ce que tu ressens, mais...c'est plus compliqué que tu ne le crois.</DIALOG>
+<DIALOG character="Joaquin">On est pas assez bien pour vous?</DIALOG>
+<DIALOG character="Jan">C'est pas ce que je voulais dire. Vous êtes merveilleux tous les deux...si merveilleux que ça ne m'embêterait pas du tout si tu me considérais comme ton papa.</DIALOG>
+<DIALOG character="Joaquin">Alors, c'est quoi le problème? Oui, je veux un papa. Mais je veux aussi qu'il protège ma maman.</DIALOG>
+<DIALOG character="Jan">Qu'il la protège?</DIALOG>
+<DIALOG character="Joaquin">Moi, je peux pas la protéger, pas encore.</DIALOG>
+<DIALOG character="Jan">Joaquin...ce n'est pas vrai. En étant simplement avec elle, tu rends ta mère très heureuse.</DIALOG>
+<DIALOG character="Joaquin">Non, elle essaie de me le cacher, mais ... je l'entends crier dès fois.</DIALOG>
+<DIALOG character="Jan">Bon mais quand même, ce n'est pas le premier venu qui pourra la protéger.</DIALOG>
+<DIALOG character="Joaquin">Mais de tous ceux que j'ai vus ici, vous êtes le meilleur!</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Sharon">Hé bien, qu'est-ce que c'est que cette conversation secrète entre vous deux?</DIALOG>
+<DIALOG character="Joaquin">Rien, rien! Une discussion entre garçons. Capitaine, ne dites rien à maman!</DIALOG>
+<DIALOG character="Sharon">Joaquin. Est-ce que tu ennuies le Capitaine?</DIALOG>
+<DIALOG character="Jan">Non, pas du tout...On a juste une petite discussion...d'homme à homme.</DIALOG>
+<DIALOG character="Sharon">Ah, interdite aux filles alors?</DIALOG>
+<DIALOG character="Joaquin">Ouaip!</DIALOG>
+<DIALOG character="Sharon">Je vois. Bon, ben j'ai plus qu'à manger mon dessert toute seule alors.</DIALOG>
+<DIALOG character="Joaquin">Hé, c'est pas du jeu!</DIALOG>
+
+</CHAPTER>
+

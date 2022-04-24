@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.2" title="Poste de police d'Archon" previous="1.1" next="1.3">
+   <COMMENT>Poste de police de la Fédération Galactique, division d'Archon. Sur une aire d'atterrissage, un avion de transport se pose et un homme en sort. Un autre homme vient à sa rencontre, arrangeant sa tenue et saluant.</COMMENT>
+   
+   <IMAGE src="elrich_salue_jan.jpg"/>
+
+   <DIALOG character="Elrich">Capitaine Sauer, par ici s'il vous plait.</DIALOG>
+
+   <DIALOG character="Jan">Quelle est la situation?</DIALOG>
+
+   <DIALOG character="Elrich">Vous savez déjà sûrement qu'une réunion de la plus haute importance est prévue entre la Fédération Galactique et la Flotte Immigrante.</DIALOG>
+
+   <DIALOG character="Jan">... Le Conseil des Pèlerins?</DIALOG>
+
+   <DIALOG character="Elrich">...Oui. J'ai appris des nouvelles locales que le délégué spécial de cette zone, Donald Marquant, est suspecté de tirer les ficelles dans une organisation de l'aile droite.</DIALOG>
+
+   <DIALOG character="Jan">Vraiment? Donald Marquant est relié à la Fondation Thole et candidat à un bel avenir politique. L'aide aux réfugiés de la Fondation et la reconnaissance en tant que telle de la Flotte Immigrante les ont placés devant les modérés. Ne sont-ils pas en train de s'allier à la secte Taka?</DIALOG>
+
+   <DIALOG character="Elrich">Oui. En conséquence de quoi ils ont formé un groupe d'Ambassadeurs Bienveillants pour attirer le public. Avec cette façade, ils pourraient utiliser Archon comme terrain neutre pour leurs réunions. Quoi qu'il en soit, les ambassadeurs ont été kidnappés.</DIALOG>
+
+   <DIALOG character="Jan">Alors leur petite démonstration destinée au public a tourné au vinaigre. Quelle ironie. Et le rapport d'enquête de la police d'Archon?</DIALOG>
+
+   <DIALOG character="Elrich">Nous connaissons l'endroit où les ambassadeurs et les diplomates sont retenus prisonniers. Point NG-PP6-42T8. La police d'Archon pense que cet acte est perpétré par une organisation marginale sous l'influence de la Flotte Immigrante.</DIALOG>
+
+   <DIALOG character="Jan">La Flotte Immigrante a-t-elle fait des déclarations à ce sujet?</DIALOG>
+
+   <DIALOG character="Elrich">Oui. Aujourd'hui, à 22 heures, le Pape Julius a annoncé dans un discours officiel qu'ils n'étaient en aucun cas reliés à ces événements. Il prétend que la Flotte Immigrante est une victime dans cette affaire, et que si la Fédération Galactique ne lève pas ses accusations, il est probable que le Conseil des Pèlerins soit annulé. Qu'est-ce que vous en pensez?</DIALOG>
+
+   <DIALOG character="Jan">Je crois que le Pape Julius a dans l'intention de diviser pour mieux régner et conquérir Abraxas, et cela depuis le début. Est-ce que les ravisseurs ont émis des revendications ?</DIALOG>
+
+   <DIALOG character="Elrich">Non</DIALOG>
+
+   <DIALOG character="Jan">Réfléchissons une seconde. Leur objectif est de prendre Donald Marquant au piège, pas de demander une rançon pour la libération du groupe des Ambassadeurs. Si leur intention véritable est de pourrir les relations entre la Fédération et la Flotte Immigrante, alors on peut dire que ça roule pas mal pour eux.</DIALOG>
+
+   <DIALOG character="Elrich">...</DIALOG>
+
+   <DIALOG character="Jan">J'ai entendu qu'il y avait un lien entre la Fondation Thole et le projet de construction du programme de la Grande Assemblée [espace virtuel où les ambassadeurs sont pris au piège]. Naturellement, ils ont des systèmes anti-intrusion du plus haut niveau. Un pare-feu de classe AAA comme celui-ci ne peut être franchi que par notre propre organisation, ou alors par ...</DIALOG>
+
+   <DIALOG character="Elrich">Voyager?</DIALOG>
+
+   <DIALOG character="Jan">Peut être. Tu te souviens de l'incident impliquant la Flotte Immigrante stationnée dans l'espace Miltian? Lorsque les documents de la médiation furent falsifiés?</DIALOG>
+
+   <DIALOG character="Elrich">Bien sûr...Si je me souviens bien, l'équipe de Gloria était en charge de l'affaire, non? J'ai aussi entendu qu'il n'y avait pas eu de résultats concrets suite à l'enquête.</DIALOG>
+
+   <DIALOG character="Jan">Cet incident... Ils disaient à l'époque qu'une organisation de l'extrême aile-droite côté Fédération, les Descendants de Nestorius, avaient employé Voyager pour ses compétences en hacking. Maintenant que j'y pense, je n'ai plus aucun doute sur l'implication des Descendants et de Voyager dans l'affaire qui nous concerne aujourd'hui.</DIALOG>
+
+   <DIALOG character="Elrich">Mais s'ils ont demandé l'aide de Voyager, on peut penser qu'ils veuillent lui faire porter le chapeau, non?</DIALOG>
+
+   <DIALOG character="Jan">Pas forcément. Jusqu'à maintenant, beaucoup d'actes terroristes ont été attribués à Voyager. Nous ne sommes pas sûr du type de bénéfice qu'il a pu en tirer. Pour l'instant, nous allons nous connecter et jeter un oeil. Jusqu'à ce que ce boulot soit fini, notre priorité est de récupérer les diplomates et les ambassadeurs. Où en sont les préparatifs de la plongée ?</DIALOG>
+
+   <DIALOG character="Elrich">En parlant de ça ...</DIALOG>
+
+   <DIALOG character="Jan">Je t'écoute. Pas de rétention d'informations, tu veux bien.</DIALOG>
+
+   <DIALOG character="Elrich">Lactis et Meris se sont déjà connectés avec des membres de la police d'Archon. Michael suit actuellement leurs traces. Et vu les circonstances, ils ont emmenés Bagus avec eux. Il est équipé d'un armement BT-278 de contre-mesures terroristes de niveau 3. Si vous êtes prêts, on peut y aller.</DIALOG>
+
+   <DIALOG character="Jan">Ils y sont allés sans mon approbation ? Est-ce Meris qui en est l'initiatrice ?</DIALOG>
+
+   <DIALOG character="Elrich">Oui</DIALOG>
+
+   <DIALOG character="Jan">Bon, je vais y aller. Prépare l'interface de connexion immédiatement.</DIALOG>
+
+   <COMMENT>Dans la salle de contrôle du poste de police d'Archon</COMMENT>
+
+   <DIALOG character="Elrich">Nous y voilà. Désolé de vous avoir fait attendre.</DIALOG>
+
+   <DIALOG character="Jan">Lactis et les autres sont partis en éclaireurs?</DIALOG>
+
+   <DIALOG character="Michael">Ah, Capitaine!</DIALOG>
+
+   <DIALOG character="Jan">Où en est Meris? Selon le rapport d'Elrich, elle ne devrait plus être loin de l'objectif...</DIALOG>
+
+   <DIALOG character="Michael">En effet... Bon sang, le mec qui a conçu l'architecture logicielle de la Grande Assemblée était sacrément doué.</DIALOG>
+
+   <DIALOG character="Elrich">...</DIALOG>
+
+   <DIALOG character="Jan">Des interférences ?</DIALOG>
+
+   <DIALOG character="Michael">Ouais...Recevez-vous l'image?</DIALOG>
+
+   <DIALOG character="Jan">Alors voilà le fameux processus de construction "Carnegie"...</DIALOG>
+
+   <DIALOG character="Michael">Vous connaissez ?</DIALOG>
+
+   <DIALOG character="Jan">Mmmm. De nom. Ca date de mes classes à l'école de police, il y a de ça à peu près 10 ans.</DIALOG>
+
+   <DIALOG character="Elrich">Au passage à l'an T.C. 4400, Vector Industries avait alors un département de gestion et d'administration de l'UMN. Aujourd'hui, il a été fusionné avec la Première Division. C'est là que furent établies les premières théories de construction de réalité virtuelle au sein du nouvel UMN. "Carnegie" était le nom du mathématicien qui officia au poste de chef de l'organisation à l'époque. Ses idées furent à l'origine du bond phénoménal des progrès scientifiques de ces 200 dernières années. Sans ses recherches, la réalité virtuelle aurait un siècle de retard.</DIALOG>
+
+   <DIALOG character="Michael">Pas mal Elrich.C'est exact. Il a fallu un programmeur de génie pour venir à bout d'un tel projet..., il se faisait appeler l'"original". Vous le voyez maintenant ?</DIALOG>
+
+   <DIALOG character="Jan">Qu'est-ce ... que c'est ?</DIALOG>
+
+   <DIALOG character="Michael">Il s'agit du programme où les ambassadeurs sont retenus. Pour l'instant, nous entrerons via ce point d'entrée. Le processus de construction "Carnegie" est un tout. L'espace virtuel est construit par sa propre logique distinctive. Oh, et attendez-vous à faire face à un système anti-intrusion de haut niveau. Mais pourquoi diable un pirate voudrait-il s'embarquer dans ce genre d'endroit ?</DIALOG>
+
+   <DIALOG character="Jan">...</DIALOG>
+
+   <DIALOG character="Michael">Peu importe. Lactis et Meris y ont été envoyés sans problème. Et grâce à la police locale, nous savons au moins où les ambassadeurs sont retenus. Il semble qu'ils aient trouvé une faille dans le système de sécurité, ce qui est un bon point pour nous.</DIALOG>
+
+   <DIALOG character="Jan">Même si Bagus est avec eux, y aller avec seulement un éclaireur et sans attendre de renforts est un pur suicide!</DIALOG>
+
+   <DIALOG character="Michael">Je...Désolé. Meris m'a...</DIALOG>
+
+   <DIALOG character="Jan">Une fois cette affaire résolue, j'exigerai une déclaration écrite et des excuses de votre part à tous les deux. Pour le moment, occupe-toi de préparer la connexion. Tu peux me faire ça ?</DIALOG>
+
+   <DIALOG character="Michael">O-oui. J'ai grappillé quelques infos avant votre connexion. Notamment le point de progression de Meris. Ainsi en vous connectant dans un espace virtuel proche du leur, vous devriez être en mesure de les croiser. C'est habituellement sans danger, mais je dois vous prévenir que la zone est hautement sécurisée. Des unités anti-intrusion pourrait rappliquer, alors soyez prudents.</DIALOG>
+
+   <DIALOG character="Jan">Compris</DIALOG>
+
+   <DIALOG character="Michael">Les préparatifs de la connexion étaient déjà prêts avant votre arrivée.</DIALOG>
+
+   <DIALOG character="Jan">Parfait. Alors allons-y.</DIALOG>
+
+   <DIALOG character="Michael">Capitaine...</DIALOG>
+
+   <DIALOG character="Jan">Quoi encore?</DIALOG>
+
+   <DIALOG character="Michael">En fait, il y une toute petite chose...</DIALOG>
+
+   <DIALOG character="Jan">Laquelle ?</DIALOG>
+
+   <DIALOG character="Michael">Hé bien, après l'incident, les enregistrements de la présence des ambassadeurs ont été effacés, et aucune trace électrique de résistance n'a pu être décelée.</DIALOG>
+
+   <DIALOG character="Jan">Ce qui signifie?</DIALOG>
+
+   <DIALOG character="Michael">Quand une personne est séquestrée dans un espace virtuel, ses ondes cérébrales laissent généralement une sorte de résidu électrique comme preuve de résistance. Dans le cas qui nous concerne, on en a constaté aucune. La seule explication plausible est que ...</DIALOG>
+
+   <DIALOG character="Jan">Ridicule! Tu es en train de me dire que ces ambassadeurs restent dans cet espace virtuel de leur plein gré ?</DIALOG>
+
+   <DIALOG character="Michael">Une disparité dans la construction de l'espace virtuel aurait pu causer une erreur dans les traces, mais tout de même...il n'y a aucun programme, à ma connaissance, qui puisse provoquer une anomalie comme celle-ci!</DIALOG>
+
+   <DIALOG character="Jan">Qu'en penses-tu Elrich?</DIALOG>
+
+   <DIALOG character="Elrich">Je ne sais pas. Je n'imagine pas la raison qui pousserait les ambassadeurs à rester là dedans. Pourquoi ne pas les forcer à se déconnecter?</DIALOG>
+
+   <DIALOG character="Michael">Si nous avions pu, nous l'aurions déjà fait. Mais une déconnexion forcée de l'extérieur pourrait endommager leurs nerfs crâniens. Pour des raisons de sécurité, il vaut mieux se connecter dans leur espace personnel, et prendre contact avec eux avant d'enclencher une déconnexion forcée.</DIALOG>
+
+   <DIALOG character="Jan">Je comprends. Bien, gardez précieusement tout l'enregistrement de ma session.</DIALOG>
+
+   <DIALOG character="Michael">Restez sur vos gardes. Il se passe quelque chose d'étrange...j'ai un mauvais pressentiment.</DIALOG>
+</CHAPTER>
+

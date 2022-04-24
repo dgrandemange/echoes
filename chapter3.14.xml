@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.14" title="Voyager" previous="3.13" next="3.15">
+<COMMENT>Cathédrale, Conseil des Pèlerins.</COMMENT>
+<COMMENT>Jan et les autres parviennent à la cathédrale complètement effondrée.</COMMENT>
+<DIALOG character="Jan">Arrivons-nous ... trop tard?</DIALOG>
+<DIALOG character="Meris">Il devrait se trouver là plus de 10000 personnes. Comment ont-ils pu partir en si peu de temps?</DIALOG>
+<DIALOG character="Jan">Où est le Pape? Est-il parti lui aussi?</DIALOG>
+<DIALOG character="Lactis">Soit il est parti, soit il a été lui aussi victime de ce désastre...</DIALOG>
+<DIALOG character="Jan">Est-ce encore là l'oeuvre de Voyager? Où est-il!?</DIALOG>
+<DIALOG character="Meris">Je ne détecte pas sa présence alentour.</DIALOG>
+<DIALOG character="Jan">Mais comment ...!</DIALOG>
+<COMMENT>Soudain, la cathédrale commence à trembler.</COMMENT>
+<DIALOG character="Meris">!!</DIALOG>
+<DIALOG character="Jan">Qu'est-ce qui se passe?</DIALOG>
+<DIALOG character="Lactis">Un changement de paradigme local est en train de se produire. Cet espace ... l'espace normal ne peut maintenir la situation courante!</DIALOG>
+<DIALOG character="Jan">Tu es en train de me dire que l'espace normal s'aligne avec l'espace virtuel?</DIALOG>
+<DIALOG character="Meris">L'église toute entière...Non, le Zohar, répondrait-il à U-DO?</DIALOG>
+<COMMENT>L'espace les entourant commence à violemment vaciller. Lorsque la lumière revient, l'intérieur de l'église a changé.</COMMENT>
+<DIALOG character="Jan">On dirait que ça s'est arrêté. Mais...</DIALOG>
+<DIALOG character="Meris">Le Docteur Rosas et son enfant ...</DIALOG>
+<DIALOG character="Jan">O-oui...Non. Pour l'instant nous devons nous concentrer sur la capture de Voyager...</DIALOG>
+<DIALOG character="Meris">Qu'est-ce que vous dites!?</DIALOG>
+<DIALOG character="Jan">!?</DIALOG>
+<DIALOG character="Meris">Nous...Non, VOUS devez pensez d'abord à Sharon et Joaquin!! Comment travailler avec une personne si froide, si mécanique, qui ne pense qu'en termes tactiques à un moment pareil... Je ne pourrais suivre un leader comme celui-là!!</DIALOG>
+<DIALOG character="Jan">Meris...Merci. J'ai de bons subordonnés...</DIALOG>
+<COMMENT>Jan et les autres ouvrent un passage à travers les ruines de la cathédrale.</COMMENT>
+<DIALOG character="Bagus">Capitaine, attendez! Je détecte un grand nombre d'unités anti-intrusion droit devant! Et leur taille est ...!!</DIALOG>
+<DIALOG character="Jan">Qu'est-ce qui cloche?</DIALOG>
+<DIALOG character="Bagus">C-ce n'est pas possible...! Je détecte ...Sleipnir, Aduhmla, Baldur, Garm, Egil, Loi... un groupe comme celui-là pourrait facilement nous battre!</DIALOG>
+<DIALOG character="Lactis">Bon sang! Autant d'unités de cette taille qui apparaissent d'un seul coup ...</DIALOG>
+<DIALOG character="Jan">Très bien. Nous les avons déja battues une fois. Nous pouvons le refaire.</DIALOG>
+<DIALOG character="Meris">De plus, Sharon et Joaquin attendent sûrement notre aide... Allons-y!</DIALOG>
+<COMMENT>Après la destruction des unités, l'espace environnant commence à se distordre.</COMMENT>
+<DIALOG character="Meris">Une modification de l'espace!?</DIALOG>
+<DIALOG character="Bagus">!!</DIALOG>
+<COMMENT>Une importante unité anti-intrusion apparaît.</COMMENT>
+<DIALOG character="Lactis">On dirait bien qu'il nous faut combattre cette chose si on veut passer.</DIALOG>
+<DIALOG character="Jan">Sûrement oui...allez, on y va!</DIALOG>
+<COMMENT>Combat contre Alkyoneus.</COMMENT>
+<DIALOG character="Voyager">...Alors voilà le Zohar. Il est magnifique...Quel endroit approprié pour parachever mon oeuvre! Regardez-ça, vous âmes qui êtes emprisonnées dans mon esprit! Oh, n'ayez pas le coeur lourd...nous sommes sur le point de devenir une existence au delà de votre imagination! ...Mes préparatifs sont terminés! Regarde, oh Seigneur très haut! Toi grand U-DO! Accordes moi ton pouvoir par les termes de notre contrat!</DIALOG>
+<COMMENT>Sharon et Joaquin sont agenouillés devant le Zohar. Une barrière infranchissable les entoure.</COMMENT>
+<DIALOG character="Jan">Sharon!! Tu m'entends? Bon sang! ...Sharon!! Ecoutes-moi, Sharon!</DIALOG>
+<DIALOG character="Voyager">"le sixième répandit sa coupe sur le grand fleuve Euphrate, et ses eaux s'asséchèrent pour préparer la route des rois qui viennent d'Orient" ...Etes-vous prêts à accepter la voie de Dieu?</DIALOG>
+<DIALOG character="Sharon">Oui. Si c'est pour tisser l'éternité...si c'est pour accomplir la destinée pour laquelle le peuple du Zohar est née...notre sang ne pourra être mieux employé. Pourtant...</DIALOG>
+<DIALOG character="Voyager">...? Parlez, je vous en prie.</DIALOG>
+<DIALOG character="Sharon">En échange de nos vies ... est-il vrai que vous apporterez paix et prospérité aux êtres qui nous sont chers?</DIALOG>
+<DIALOG character="Voyager">Je vous l'affirme...</DIALOG>
+<DIALOG character="Jan">Sharon! Il te manipule! C'est encore un des tours de Voyager! Il a piraté son esprit...!</DIALOG>
+<DIALOG character="Joaquin">Maman... alors comme ça, on aura toujours papa avec nous, hein ?</DIALOG>
+<DIALOG character="Sharon">Oui, toujours... on ne le perdra plus jamais...</DIALOG>
+<DIALOG character="Joaquin">Je suis content...Maman, je suis vraiment content.</DIALOG>
+<DIALOG character="Jan">Joaquin! Sauve Sharon! Sharon! Tu veux que Joaquin meurt!? Ce rêve, cette illusion, c'est un mensonge! Il n'y a aucun bonheur derrière tout cela!</DIALOG>
+<DIALOG character="Voyager">Bien, alors allons-y ...</DIALOG>
+<DIALOG character="Sharon">Désormais, nous n'aurons plus à porter le deuil de qui que ce soit...</DIALOG>
+<COMMENT>Sharon et Joaquin sont pénétrés d'une lumière émanant de Voyager. Du sang s'écoule de leur corps sans vie.</COMMENT>
+<DIALOG character="Jan">Sharon... Joaquin...</DIALOG>
+<DIALOG character="Voyager">Hé bien, hé bien Capitaine. Vous avez échoué en fin de compte, n'est-ce pas?</DIALOG>
+<DIALOG character="Jan">Pourquoi!? Lorsque Yuriev t'a trahi, plus rien ne t'obligeait à rechercher de drogues cérébrales! ...Pourquoi faire une chose aussi futile?</DIALOG>
+<DIALOG character="Voyager">Yuriev? Je n'ai plus rien à faire avec ses semblables! Si je m'acquitte de mon contrat avec U-DO, je n'aurai plus rien à craindre. Alors ...</DIALOG>
+<DIALOG character="Jan">!?</DIALOG>
+<DIALOG character="Voyager">Je veux te donner mon pouvoir!</DIALOG>
+<DIALOG character="Jan">Comment!?</DIALOG>
+<DIALOG character="Voyager">Avec ton âme je pourrai réaliser mon voeu le plus cher. ...Une si seule et si noble âme me semble parfaite pour parachever mon offrande...</DIALOG>
+<DIALOG character="Jan">Voyager-!</DIALOG>
+<DIALOG character="Meris">Capitaine, attention! La barrière s'étend!!</DIALOG>
+<DIALOG character="Jan">...Bon sang!</DIALOG>
+<DIALOG character="Voyager">...Je suppose que tu ne seras pas assez aimable pour en rester là?...Je comprends. Ca risque d'être un peu violent, mais il semble que le temps soit venu pour nous de régler ça personnellement.</DIALOG>
+<COMMENT>Combat contre Voyager</COMMENT>
+
+</CHAPTER>
+

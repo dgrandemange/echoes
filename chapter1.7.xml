@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.7" title="Quartier général de la police de la Fédération" previous="1.6" next="1.8">
+   <COMMENT>Quartier général des forces spéciales d'intervention de la police de la Fédération. Elrich est entouré de ses coéquipiers.</COMMENT>
+
+   <DIALOG character="Bagus">Elrich! Tu es sain et sauf!</DIALOG>
+
+   <DIALOG character="Meris">Nous t'avons cherché partout lorsque nous avons appris que tu étais parti de l'hôpital! Tu n'es même pas rentré chez toi...où étais-tu donc passé tout ce temps?</DIALOG>
+
+   <DIALOG character="Elrich">Je suis désolé. Je voulais être seul pour faire le point. J'étais ... angoissé.</DIALOG>
+
+   <DIALOG character="Lactis">N'est-il pas de votre devoir de policier de rapporter votre situation au quartier général? Ce genre de comportement ne vous ressemble pas.</DIALOG>
+
+   <DIALOG character="Elrich">Désolé. Je tâcherai d'être plus scrupuleux à l'avenir.</DIALOG>
+
+   <DIALOG character="Michael">Vous ne pourriez pas montrer un peu plus d'entrain? Notre héroïque guerrier est de retour! Qu'est-ce que vous diriez d'aller boire un verre ce soir pour fêter ça? Je connais un bar sympa à deux pas d'ici.</DIALOG>
+   
+   <IMAGE src="groupelrich.gif"/>
+
+   <DIALOG character="Lactis">Pas si vite Michael. Il a peut-être survécu, mais beaucoup d'autres n'ont pas eu cette chance. En plus de ça, ne pas connaître les détails de ce qui s'est réellement passé ne va pas faciliter la coopération avec la police d'Archon. Il serait judicieux d'éviter tout comportement susceptible de heurter les sensibilités de chacun.</DIALOG>
+
+   <DIALOG character="Michael">Tu as raison. Désolé.</DIALOG>
+
+   <DIALOG character="Meris">Es-tu déjà passé devant le Capitaine?</DIALOG>
+
+   <DIALOG character="Elrich">Oui, il est venu me voir...</DIALOG>
+
+   <DIALOG character="Meris">Et? Il n'a probablement pas levé le moindre sourcil, le connaissant.</DIALOG>
+
+   <DIALOG character="Elrich">Un peu surpris, tout au plus...mais il n'est pas du genre démonstratif, tu sais ?</DIALOG>
+
+   <DIALOG character="Meris">C'est sûr.</DIALOG>
+
+   <DIALOG character="Michael">Mais, Elrich! Comment diable t'en es-tu tiré?</DIALOG>
+
+   <DIALOG character="Meris">Moi aussi je veux savoir! Nous pensions qu'il n'y avait plus rien à faire...</DIALOG>
+
+   <DIALOG character="Lactis">C'est vrai. Nous expliquerez-vous au moins quel tour de passe-passe vous nous avez joué?</DIALOG>
+
+   <DIALOG character="Elrich">Un truc simple en vérité. Juste avant d'être effacé, j'ai permuté vers un double que j'avais préalablement préparé.</DIALOG>
+
+   <DIALOG character="Michael">Un double? T'as réussi à faire ça?</DIALOG>
+
+   <DIALOG character="Elrich">Ben, après tout, je suis un opérateur des forces spéciales, non? Vous pensiez que je n'étais pas préparé à une situation d'urgence?Malheureusement, j'ai traîné un peu pendant la phase de permutation et j'ai été blessé par le choc reçu dans la réalité virtuelle.</DIALOG>
+
+   <DIALOG character="Bagus">Je retrouve bien là le génie de mon Elrich!</DIALOG>
+
+   <DIALOG character="Elrich">Ha...</DIALOG>
+
+   <COMMENT>La voix d'Elrich s'interrompt et il se tient la tête entre ses bras.</COMMENT>
+
+   <IMAGE src="elrichhead.gif"/>
+
+   <DIALOG character="Michael">Hé? Ca va?</DIALOG>
+
+   <DIALOG character="Meris">Ménages-toi un peu. Tu as été dehors toute la nuit, non? Pourquoi ne rentrerais-tu pas chez toi pour te reposer?</DIALOG>
+
+   <DIALOG character="Michael">Elle a raison.</DIALOG>
+
+   <DIALOG character="Lactis">Voila un conseil avisé.</DIALOG>
+
+   <DIALOG character="Elrich">Mais je n'ai pas encore fait mon rapport complet au Capitaine...</DIALOG>
+
+   <DIALOG character="Bagus">On s'en occupera pour toi. De toute façon, tu devrais rentrer chez toi.</DIALOG>
+
+   <DIALOG character="Elrich">Bon, dans ce cas, j'irai dormir un peu...puisque je ne sais pas quand le prochain désastre est prévu...</DIALOG>
+
+   <DIALOG character="Meris">Elrich...</DIALOG>
+
+   <DIALOG character="Bagus">Euh...tu es sûr que ça va?</DIALOG>
+
+   <DIALOG character="Elrich">Oui, ça va. Pas de problème.</DIALOG>
+
+   <COMMENT>Poste de police d'Archon. Bureau du chef de la police.</COMMENT>
+
+   <DIALOG character="McCollum">Cette affaire concernant les Ambassadeurs Bienveillants...J'ai bien peur qu'il ne s'agisse que d'un plan de Voyager pour rencontrer une importante personne. Assures-toi d'examiner attentivement les traces. Il est possible que Voyager ait laissé quelque preuve de son passage derrière lui.</DIALOG>
+
+   <DIALOG character="Jan">Bien Chef.</DIALOG>
+
+   <COMMENT>De retour du bureau du chef de police, Jan aperçoit Elrich couvert de sueur et tâchant de reprendre son souffle.</COMMENT>
+
+   <DIALOG character="Elrich">Haaaah ... J'entendis alors ... une voix forte venue du Temple, ... haaaahh ... haaaahh ... qui disait aux sept anges : "Allez, et répandez sur la ... terre les sept coupes de la fureur de Dieu." ...</DIALOG>
+
+   <DIALOG character="Jan">?</DIALOG>
+
+   <COMMENT>Ue petite marque apparaît sur la nuque d'Elrich alors qu'il se fait une injection.</COMMENT>
+
+   <DIALOG character="Elrich">Ahhh...</DIALOG>
+
+   <DIALOG character="Jan">Elrich!</DIALOG>
+
+   <DIALOG character="Elrich">!!</DIALOG>
+
+   <DIALOG character="Jan">Elrich! C'est quoi ce truc?</DIALOG>
+
+   <DIALOG character="Elrich">Hein, Capitaine? Ca? c'est juste un médicament.</DIALOG>
+
+   <DIALOG character="Jan">Nutrient Lamdagist A...?</DIALOG>
+
+   <DIALOG character="Elrich">Vous pensiez que je me droguais?</DIALOG>
+
+   <DIALOG character="Jan">Désolé, mais les accrocs aux drogues de l'UMN sont légion et ça pose un sérieux problème. Je t'ai jugé un peu vite.</DIALOG>
+
+   <DIALOG character="Elrich">Non, je pense qu'il est naturel d'essayer de comprendre le comportement de ses subordonnés...même si se savoir espionné par son supérieur est quelque peu blessant.</DIALOG>
+
+   <DIALOG character="Jan">Je suis désolé de t'avoir dérangé. Je venais juste de finir une discussion avec le chef de la police. Tu te sens mieux à présent?</DIALOG>
+
+   <DIALOG character="Elrich">Ouais, je vais bien, merci. Ca ira.</DIALOG>
+
+   <DIALOG character="Jan">...</DIALOG>
+
+   <DIALOG character="Elrich">...Quoi?</DIALOG>
+
+   <DIALOG character="Jan">Rien...T'as un peu tiré sur la corde cette fois, tu sais?</DIALOG>
+
+   <DIALOG character="Elrich">J'en suis conscient. Merci de vous inquiéter pour moi, Capitaine. Pour le moment, je voudrais me reposer un peu.</DIALOG>
+
+   <COMMENT>Jan regarde Elrich s'en aller, puis court rejoindre Sharon dans le vestibule.</COMMENT>
+
+   <DIALOG character="Sharon">Oh Capitaine, bonjour!</DIALOG>
+
+   <DIALOG character="Jan">Dr Rosas. Merci pour les certificats de décès. Votre promptitude a été d'une grande aide. Vous avez a faire dans notre service?</DIALOG>
+
+   <DIALOG character="Sharon">Pas vraiment. Je ramenais juste ces quelques effets personnels. Ils ont été nettoyés mais ...</DIALOG>
+
+   <DIALOG character="Jan">Des effets personnels? D'un de mes subordonnés? Ou d'un des agents de la police d'Archon?</DIALOG>
+
+   <IMAGE src="sharonjan2.gif"/>
+
+   <DIALOG character="Sharon">Ah, excusez-moi. J'oubliais que vous faisiez parti d'une unité spéciale. Elrich Webber...n'est-il pas votre subordonné? Comment se porte-t-il? Etiez-vous présent lors de son arrêt cardiaque? En tant que médecin, je suis un peu inquiète à son sujet.</DIALOG>
+
+   <DIALOG character="Jan">J'imagine que vous n'avez pas beaucoup de patients qui survivent après un arrêt cardiaque, n'est-ce pas?</DIALOG>
+
+   <DIALOG character="Sharon">Très peu à vrai dire. Mais un cadavre qui s'extrait de son bloc de congélation, c'était une première. Je lui ai dit qu'un examen poussé était nécessaire, mais il n'est pas reparu...J'espère qu'il ne souffre pas trop des effets secondaires de sa surexposition à l'UMN. A-t-il montré quelconque signe de comportement inhabituel ou une catatonie temporaire?</DIALOG>
+
+   <DIALOG character="Jan">Hé bien, il semble un peu perturbé mentalement, mais pas profondément marqué.</DIALOG>
+
+   <DIALOG character="Sharon">J'espère que c'est le cas, mais...</DIALOG>
+
+   <DIALOG character="Jan">Dans le métier, il fait figure d'exemple, mais pour ce qui est de la sociabilité, il est assez sauvage. Revenir à l'hôpital doit lui être difficile.</DIALOG>
+
+   <DIALOG character="Sharon">L'examen l'ennuierait plus qu'autre chose, vous voulez dire?</DIALOG>
+
+   <DIALOG character="Jan">Je ne dis pas qu'il est difficile de le soigner, mais...en fait, c'est un peu plus compliqué...</DIALOG>
+
+   <DIALOG character="Sharon">Vous êtes une personne surprenante et intéressante, vous savez...</DIALOG>
+
+   <DIALOG character="Meris">Capitaine! Ah...</DIALOG>
+
+   <DIALOG character="Jan">Je vous présente le Dr Rosas. Elle a la charge du service des urgences à l'hôpital de police. C'est elle qui s'est occupée du cas du kidnapping des ambassadeurs.</DIALOG>
+
+   <DIALOG character="Meris">Vraiment?...Capitaine, Nous avons de nouveaux ordres. L'objectif est un centre d'incubation situé à Draper. Le criminel s'est introduit dans l'ordinateur central de l'immeuble. Les traces de log des unités d'observation Realian ont été très endommagées, mais Lactis s'est appliqué à les réparer.</DIALOG>
+
+   <DIALOG character="Sharon">Un centre d'incubation?</DIALOG>
+
+   <DIALOG character="Jan">Des détails sur l'intrus?</DIALOG>
+
+   <DIALOG character="Meris">Les logs étaient plus corrompus que prévu...nous ne pouvions pas trouver d'information sur son point d'accès. Mais dans la partie que nous avons réussi à réparer, nous avons trouvé un 'programme leurre' que l'intrus avait mis en place. Vu le modèle de protection utilisé par ce programme, nous estimons à 98.28% qu'il s'agit de Voyager.</DIALOG>
+
+   <DIALOG character="Jan">Je vois. Alors, nous n'avons pas de temps à perdre! Rejoignons Michael pour qu'il prépare l'armement de niveau 1. Il est possible que nous ayons à combattre dans l'espace réel cette fois-ci..</DIALOG>
+
+   <DIALOG character="Meris">Compris!</DIALOG>
+
+   <DIALOG character="Jan">Dr Rosas. Au sujet d'Elrich. Je tâcherai de vous signaler tout comportement inhabituel.</DIALOG>
+
+   <DIALOG character="Sharon">...</DIALOG>
+
+   <DIALOG character="Jan">Quoi? Qu'y a-t-il?</DIALOG>
+
+   <DIALOG character="Sharon">Il s'en prend encore à des enfants...</DIALOG>
+
+   <DIALOG character="Jan">Voyager...Il essaie de nous dire quelque chose....</DIALOG>
+</CHAPTER>
+

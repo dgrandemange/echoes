@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.7" title="Prison de la Fédération" previous="3.6" next="3.8">
+<COMMENT>Centre de détention de la police de la Fédération</COMMENT>
+<COMMENT>Lactis rend visite à Jan et à ses coéquipiers détenus dans leur cellule.</COMMENT>
+<DIALOG character="Lactis">Capitaine...</DIALOG>
+<DIALOG character="Jan">Lactis?</DIALOG>
+<DIALOG character="Lactis">Dépêchez-vous, soyez prêt à partir! La 6ème division de la Fédération, tout comme la police d'Archon, est déjà sous le contrôle de Yuriev. Tant que vous resterez ici, vos vies seront en danger.</DIALOG>
+<DIALOG character="Jan">Nos vies...Le Chef! Est-il sauf?</DIALOG>
+<DIALOG character="Lactis">Sa situation n'est pas encore connue. Ils ont changé la sécurité des terminaux d'accès...</DIALOG>
+<DIALOG character="Jan">...Je vois. Tu peux la déjouer?</DIALOG>
+<DIALOG character="Lactis">Je trouverai bien un moyen. J'ai un partenaire talentueux, après tout.</DIALOG>
+<DIALOG character="Bagus">Elrich!?</DIALOG>
+<DIALOG character="Lactis">"Il" s'est occupé des codes de sécurité pour nous.</DIALOG>
+<DIALOG character="Jan">... Je vois.</DIALOG>
+<DIALOG character="Bagus">Elrich!! Je suis si heureux que tu sois sain et sauf!!</DIALOG>
+<DIALOG character="Elrich">Bagus. Tu vas bien?</DIALOG>
+<DIALOG character="Bagus">Ouais~! J'ai été mis en mode veille dans le hangar, mais Lactis est venue et m'a réactivée. Ils ont mis une limitation sur mon armement, mais...oh, ne t'inquiètes pas pour ça! On a amené tout ce qu'il faut pour du combat réel!!</DIALOG>
+<DIALOG character="Elrich">Tu as bien fait. Merci, Lactis.</DIALOG>
+<DIALOG character="Lactis">Bien sûr...Cependant, lorsqu'ils vont s'apercevoir que vous n'êtes plus dans vos cellules, la sécurité sera déployée partout...nous n'aurons plus qu'à la percer. Soyez prêt, de nombreux combats nous attendent.</DIALOG>
+<DIALOG character="Jan">...Même si nous arrivons à nous échapper, ils enverront probablement quelqu'un à notre poursuite...Ca pourrait poser problème si ne trouvons pas de planque où nous cacher. Nous aurons à masquer notre reprise de l'enquête sur Yuriev...Meris! est-il possible de se mettre en rapport avec Veritas?</DIALOG>
+<DIALOG character="Meris">Je ne sais pas si cela est possible ou non, mais je peux nous conduire au point de rendez-vous.</DIALOG>
+<DIALOG character="Jan">...Oui, je t'en prie. Yuriev cherche à briser l'équilibre du pouvoir avec la Flotte Immigrante. Le prochain incident majeur prendra vraisemblablement place au Conseil des Pèlerins...Le date n'a pas encore été fixée, mais il ne reste certainement peu de temps. Nous devons mettre à jour les intentions réelles de Yuriev avant cela.</DIALOG>
+<COMMENT>Après avoir échappé aux gardes et au système de sécurité, Jan et les autres parviennent à une petite pièce. Ils y trouvent McCollum, gravement blessé.</COMMENT>
+<DIALOG character="Jan">Chef?</DIALOG>
+<DIALOG character="McCollum">Désolé, je n'ai pas pu...parler au Directeur...</DIALOG>
+<DIALOG character="Jan">Ce n'est rien, on va vous emmener à l'hôpital!</DIALOG>
+<DIALOG character="McCollum">Je n'en attendais pas moins du fils d'un Sauer. Si dévoué ... mais tu ne peux plus me sauver maintenant. Laisses moi ici et pars...</DIALOG>
+<DIALOG character="Jan">Pourquoi laissez-vous tomber aussi facilement?</DIALOG>
+<DIALOG character="McCollum">Jan...laisses moi voir ton visage. Tu es devenu un homme ... le digne héritier de tes parents. Je n'ai ... pas de regrets.</DIALOG>
+<DIALOG character="Jan">Ne parlez-pas. Vos blessures vont se rouvrir...</DIALOG>
+<DIALOG character="McCollum">Qu'est-ce donc ...? Le Jan que j'ai connu si calme, si impassible, tremblerait-il? Pense d'abord à tes subordonnés. Allez, tire-toi d'ici!</DIALOG>
+<COMMENT>McCollum meurt dans les bras de Jan.</COMMENT>
+<DIALOG character="Jan">Chef...</DIALOG>
+<DIALOG character="Meris">C'est ... sans espoir ...</DIALOG>
+<DIALOG character="Jan">Quoi donc?</DIALOG>
+<DIALOG character="Meris">Le réel ennemi ici, c'est l'engrenage politique. Le chef a été tué, et nous ne pouvons plus avoir confiance dans la force de police. C'est trop gros pour nous, il est impossible de continuer cette enquête! Il ne s'agit plus seulement de Voyager...</DIALOG>
+<DIALOG character="Jan">...Meris. Reste ici.</DIALOG>
+<DIALOG character="Meris">Rester ... ici?</DIALOG>
+<DIALOG character="Jan">Tu m'as bien entendu. Une personne qui perd de vue le sens du devoir n'est plus faite pour le métier de policier. Notre mission est de trouver et d'arrêter les criminels. Quelle qu'elle soit, toute personne représentant une menace pour la sécurité des personnes est un criminel. Tu me suis?</DIALOG>
+<DIALOG character="Meris">Capitaine...</DIALOG>
+<DIALOG character="Jan">Je pars à la poursuite de Voyager. Je le trouverai...en mémoire de notre défunt Chef.</DIALOG>
+<DIALOG character="Meris">...</DIALOG>
+<COMMENT>Jan se relève, le corps de McCollum gisant à ses pieds. Il commence à s'éloigner, seul.</COMMENT>
+<DIALOG character="Meris">Capitaine!</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Meris">Je suis la seule à pouvoir prendre contact avec Veritas. Laissez-moi être votre guide.</DIALOG>
+<DIALOG character="Jan">Je t'en prie. Fais-le, Meris.</DIALOG>
+<COMMENT>Bagus marche en tête du groupe, ses senseurs activés. Soudain, il s'arrête.</COMMENT>
+<DIALOG character="Bagus">Je détecte un obstacle juste devant nous.</DIALOG>
+<DIALOG character="Jan">Un obstacle...est-ce une personne?</DIALOG>
+<DIALOG character="Bagus">Je n'en suis pas sûr...? Je vais ajuster les paramètres de mes senseurs. Une personne? Non, c'est un robot de combat!! Sa position est ... offensive!</DIALOG>
+<DIALOG character="Elrich">SY-180!? C'est un robot d'appoint de la même série que celle de Bagus!</DIALOG>
+<DIALOG character="Michael">Qu'est-ce que ça veut dire?</DIALOG>
+<DIALOG character="Elrich">Bagus est un équipement sorti des usines de la Fédération. Qu'ils aient le même modèle ici est extrêmement étrange...</DIALOG>
+<DIALOG character="Bagus">Capitaine, mettez-vous en formation! Il s'approche!</DIALOG>
+<COMMENT>Combat contre Freya</COMMENT>
+<DIALOG character="Jan">Bien, d'une manière ou d'une autre, on a enfin réussi à sortir de cette prison...Meris. Emmènes-nous à la planque de Veritas!</DIALOG>
+<DIALOG character="Meris">Compris. suivez-moi!</DIALOG>
+<COMMENT>Bagus, en pleine réflexion, se tient devant les débris de Freya.</COMMENT>
+<DIALOG character="Bagus">...</DIALOG>
+<DIALOG character="Elrich">...Bagus</DIALOG>
+<DIALOG character="Bagus">Elrich. Est-ce que je finirai comme ça moi aussi?</DIALOG>
+<DIALOG character="Elrich">Tu veux dire, mort? Bagus, aurais-tu peur d'être mis à la casse?</DIALOG>
+<DIALOG character="Bagus">Pour moi, le concept de peur reste un mystère. Mais je peux en déduire que les humains ont peur de la mort.</DIALOG>
+<DIALOG character="Elrich">La mort est pour nous ce que la mise hors-service est pour toi. A partir du moment où nous naissons, commence le compte à rebours avec la mort comme échéance. Personne ne peut en réchapper. Peut être que dans un sens, nous humains sommes mis au rebut...du monde.</DIALOG>
+<DIALOG character="Bagus">J'imagine que quelqu'un constitué de pièces artificielles, comme je le suis, pourrait vivre un grand nombre d'années. Quand j'y pense de cette façon, je me sens plus chanceux qu'un humain...en maîtrisant parfaitement le processus de détérioration de son corps, il serait possible de vaincre la mort.</DIALOG>
+<DIALOG character="Elrich">Hé bien, les humains essaient ardemment d'y parvenir. Oui, ardemment...</DIALOG>
+<DIALOG character="Bagus">Elrich...</DIALOG>
+<DIALOG character="Elrich">Hé, on est à la traîne. Rattrapons-les.</DIALOG>
+
+</CHAPTER>
+

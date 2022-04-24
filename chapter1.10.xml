@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.10" title="Epilogue" previous="1.9" next="2.0">
+<COMMENT>Service de police de la Fédération Galactique, QG des Forces Spéciales, bureau du chef de la police.</COMMENT>
+<DIALOG character="Jan">Chef. C'est une course contre la montre qui a commencé...</DIALOG>
+<DIALOG character="McCollum">Je sais, je sais. Mais tu demandes trop. Je ne peux simplement pas suspendre toute activité liée à l'UMN sur le conseil d'un seul enquêteur. Le risque est trop élevé.</DIALOG>
+<DIALOG character="Jan">Mais ce n'est plus seulement un problème concernant Abraxas. Quiconque utilise le réseau est une cible potentielle pour Voyager. En plus de ça, il ne laisse jamais de traces derrière lui. Il est impossible de prédire quelle sera la prochaine victime et quand cela se produira. Jusqu'au Conseil des Pèlerins, nous devrions restreindre l'accès à l'UMN sans nous soucier du gouvernement.</DIALOG>
+<DIALOG character="McCollum">Sans nous soucier du gouvernement!? Réfléchis à ce que tu dis. Même en limitant cette restriction aux usagers civils, les pertes économiques seraient déjà considérables. Et tu voudrais faire de même pour le gouvernement?</DIALOG>
+<DIALOG character="Jan">Bien sûr. Si Voyager entretient encore des relations avec les Descendants de Nestorius...son objectif ultime devrait être le Conseil des Pèlerins. Les terminaux du gouvernement fournissent l'accès le plus facile aux données pouvant compromettre la conférence.</DIALOG>
+<DIALOG character="McCollum">Ecoutes Jan. Essaies de comprendre...la Fédération est sur le point de concrétiser l'effort le plus conséquent qu'elle ai eu à fournir pour se réconcilier politiquement avec la Flotte Immigrante. Qui plus est, l'UMN en est devenu l'instrument indispensable. Même tu peux comprendre et accepter cela, n'est-ce pas?</DIALOG>
+<DIALOG character="Jan">La Flotte Immigrante n'est-elle pas visée pour cette même raison? Parce qu'elle est nécessaire et indispensable. En prenant ce risque, vous prenez le risque que de plus en plus de personnes deviennent impliquées.</DIALOG>
+<DIALOG character="McCollum">C'est ce qui donne son importance à ce conseil.</DIALOG>
+<DIALOG character="Jan">Mais c'est de Voyager dont nous parlons.</DIALOG>
+<DIALOG character="McCollum">Je ne pense pas que tu saisisses...De toute manière, cette décision ne m'appartient pas. Je penserai à faire part de ta suggestion à mes supérieurs, mais il est probable qu'ils aient la même réaction. Ce que je peux faire, c'est te fournir les ressources dont tu as besoin. C'est le mieux que je puisse faire pour l'instant.</DIALOG>
+<DIALOG character="Jan">Merci beaucoup.</DIALOG>
+<DIALOG character="McCollum">En tout cas, j'ai apprécié ton travail au centre d'incubation. Je voudrais maintenant que tu transfères ce dossier à un autre enquêteur et prennes un peu de repos.</DIALOG>
+<DIALOG character="Jan">C'est comme si vous me demandiez de faire confiance à un automate mécanisé pour mener une chirurgie à coeur ouvert, c'est bien ça?</DIALOG>
+<DIALOG character="McCollum">Ecoutes. Toi et tes subordonnés formez une équipe parfaitement huilée et entraînée. Votre enthousiasme pour votre travail est tout à votre honneur, mais chaque département devrait avoir la chance de briller.</DIALOG>
+<DIALOG character="Jan">Laissez faire les professionnels...alors c'est comme ça.</DIALOG>
+<DIALOG character="McCollum">La semaine prochaine, la Flotte Immigrante organise une fête sponsorisée par la Fondation Thole. La Fédération a été conviée et nous avons été contacté pour assurer la sécurité. Cette fête n'a aucun caractère officiel, rien de ce que je viens de te dire ne doit donc sortir de cette pièce. Si Voyager en prenait connaissance...Hé bien, qu'en penses-tu? Tu as encore du temps devant toi pour concocter un petit quelque chose, non ?</DIALOG>
+<DIALOG character="Jan">Compris. Au fait...l'idée de cette mission vient-elle de vos supérieurs?</DIALOG>
+<DIALOG character="McCollum">Non. C'est une de mes propres initiatives fondée sur mon seul jugement.</DIALOG>
+</CHAPTER>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.4" title="Réalité virtuelle, choeur de la cathédrale" previous="1.3" next="1.5">
+   <COMMENT>Réalité virtuelle, choeur de la cathédrale</COMMENT>
+
+   <DIALOG character="Jan">Je me suis connecté assez facilement. Informes en Lactis et les autres.</DIALOG>
+
+   <DIALOG character="Michael">Reçu. Elrich trace actuellement leurs mouvements. Il s'avère qu'ils ont engagé le combat avec un char ennemi! Elrich est en train d'activer l'armement anti-terroriste de niveau 3 dont Bagus est équipé. Poursuivez à l'ouest de votre position actuelle pour les rejoindre.</DIALOG>
+
+   <DIALOG character="Jan">Ok. Continue à tracer ma progression.</DIALOG>
+
+   <DIALOG character="Michael">Capitaine!</DIALOG>
+
+   <DIALOG character="Jan">Qu'y a t'il?</DIALOG>
+
+   <DIALOG character="Michael">J'ai perdu tout signe de vie de six agents de la police d'Archon. Il est possible qu'ils aient été effacés au cours de la bataille menée contre l'unité anti-intrusion.</DIALOG>
+
+   <DIALOG character="Jan">Compris. Avez vous des détails sur ce char?</DIALOG>
+
+   <DIALOG character="Michael">Oui. C'est un modèle "Sleipnir", fabriqué par Tao Industries. Ce modèle fut retiré des chaînes de fabrication alors que je n'étais encore qu'un enfant. C'est un vieux modèle, mais il semble qu'il ai été recyclé spécifiquement pour un usage dans l'espace virtuel. Du coup, je ne suis pas certain que les spécifications d'époque soient toujours d'actualité.</DIALOG>
+
+   <DIALOG character="Jan">Je vois. Dis à Elrich de monter le niveau d'équipement de Bagus à six. A partir d'ici, prends bonne note de ma position, et ajuste les paramètres pour un mode infiltration. Et n'oublies pas de me reconnecter dès que j'aurai rejoint les autres.</DIALOG>
+
+   <DIALOG character="Michael">Reçu. Mise en place d'une communication plus directe. Si votre progression est compromise, je cesserai toute émission.</DIALOG>
+
+   <DIALOG character="Jan">Je te laisse le soin de me tracer.</DIALOG>
+
+   <DIALOG character="Michael">Bien Capitaine</DIALOG>
+
+   <COMMENT>Retour à la scène de la bataille menée contre "Sleipnir".</COMMENT>
+
+   <DIALOG character="Meris">!!</DIALOG>
+
+   <DIALOG character="Lactis">Tch!</DIALOG>
+
+   <DIALOG character="Bagus">L'armement de l'ennemi est plus performant dans un contexte d'espace virtuel que je ne l'aurais cru. Si ça continuait comme ça, nous serions potentiellement en danger.</DIALOG>
+
+   <DIALOG character="Lactis">J'en suis bien consciente!...Bon, et maintenant?</DIALOG>
+
+   <DIALOG character="Meris">Je... euh...</DIALOG>
+
+   <COMMENT>Toute retraite semble désormais exclue alors que "Sleipnir" semble s'être ressourcé en énergie.</COMMENT>
+
+   <DIALOG character="Jan">Par ici, à droite!</DIALOG>
+
+   <DIALOG character="Meris">!!</DIALOG>
+
+   <COMMENT>Se fiant à la voix de leur Capitaine, le groupe atteint Jan, esquivant tout juste une attaque.</COMMENT>
+
+   <DIALOG character="Jan">Est-ce que ça va?</DIALOG>
+
+   <DIALOG character="Meris">Capitaine!...Je suis désolée...</DIALOG>
+
+   <DIALOG character="Jan">Tu auras l'occasion de t'expliquer plus tard. Mais pour l'instant, voyons ce qu'on peut faire avec ce gardien. Bagus!!</DIALOG>
+
+   <DIALOG character="Bagus">O-oui?</DIALOG>
+
+   <DIALOG character="Jan">Elrich a du améliorer ton armement contre-terroriste en le montant au niveau six. Transmets ce système à tout le groupe.</DIALOG>
+
+   <DIALOG character="Bagus">Vraiment? Alors c'est parti!</DIALOG>
+
+   <DIALOG character="Jan">Peu importe les améliorations que cette unité de sécurité a pu être dotée, elles ont été implantées par un être humain. Ce que nous avons réussi à faire jusqu'ici est bien la preuve que nous avons un coup d'avance. Ce char d'assaut n'est rien de plus qu'un programme bien conçu. Alors, finissons-en.</DIALOG>
+
+   <COMMENT>Combat contre le "Sleipnir"</COMMENT>
+
+   <IMAGE src="sleipnir.jpg"/>
+
+
+   <DIALOG character="Meris">...</DIALOG>
+
+   <DIALOG character="Jan">Dépêchons-nous. Les ambassadeurs sont juste un peu plus loin.</DIALOG>
+
+   <DIALOG character="Meris">...</DIALOG>
+
+   <COMMENT>Le groupe arrive a son point de destination. Mais ne s'y trouve qu'une salle vide.</COMMENT>
+
+   <DIALOG character="Meris">Est-ce que... c'est bien ici?</DIALOG>
+
+   <DIALOG character="Lactis">C'est impossible. On devrait être au point NG-PP6-42TS. Bagus! Peux-tu détecter des signes de vie de nos ambassadeurs?</DIALOG>
+
+   <DIALOG character="Bagus">Affirmatif. Ils ne sont sûrement plus très loin...Que? Il y a une sorte de reconstruction d'une grande partie de l'espace virtuel.</DIALOG>
+
+   <DIALOG character="Lactis">!</DIALOG>
+
+   <COMMENT>La porte par laquelle le groupe vient d'entrer se referme brutalement. Le cliquetis du verrou se fait entendre...</COMMENT>
+
+   <DIALOG character="Jan">Meris! Sécurise l'issue de secours!</DIALOG>
+
+   <DIALOG character="Meris">Trop tard! Je ne peux plus l'ouvrir!</DIALOG>
+
+   <DIALOG character="Jan">On nous a tendu un piège! Mais qui ? et pourquoi?</DIALOG>
+
+   <COMMENT>Soudain la salle entière est inondée de lumière. Lorsque la luminosité baisse, l'apparence de la salle est toute autre.</COMMENT>
+
+   <DIALOG character="Bagus">Qu'est-ce qui se passe?</DIALOG>
+
+   <DIALOG character="Meris">Je...ne...</DIALOG>
+
+   <DIALOG character="Lactis">...Capitaine. Que diable ... ?</DIALOG>
+
+   <DIALOG character="Jan">On dirait que le système de sécurité est opérationnel. Bagus! Peux-tu nous donner notre position actuelle ?</DIALOG>
+
+   <DIALOG character="Bagus">J'y travaille! ...Hein? Il semble que notre position soit restée inchangée, mais...heu, un instant. Je reçois une communication d'Elrich. Il a réussi, je ne sais comment, à suivre nos traces! Circuit de communication établi!</DIALOG>
+
+   <DIALOG character="Elrich">...pitaine...recev...? Capit...Capitaine, vous me recevez?</DIALOG>
+
+   <DIALOG character="Jan">Affirmatif. Il y a des perturbations sur le circuit mais je t'entends. Sais-tu ce qui se passe?</DIALOG>
+
+   <DIALOG character="Elrich">J'ai analysé les traces et il semble qu'une interférence majeure soit venue d'en dehors du programme.</DIALOG>
+
+   <DIALOG character="Jan">Une interférence? Sommes-nous prisonniers de cette salle?</DIALOG>
+
+   <DIALOG character="Elrich">Ne vous inquiétez pas! J'ai eu le temps de coder un programme de protection autour de votre position. Par chance, lorsque la salle fut reconstruite plus tôt, une faille dans la connexion a laissé entrevoir un passage vers l'emplacement où les ambassadeurs sont retenus en captivité.</DIALOG>
+
+   <DIALOG character="Jan">Compris. Je coupe la communication pour un moment. Je te recontacterai lorsque nous aurons rejoint les ambassadeurs. Pendant ce temps, trouve le point d'accès externe à l'origine de l'interférence. Terminé.</DIALOG>
+
+   <DIALOG character="Michael">Attendez!</DIALOG>
+
+   <DIALOG character="Jan">Michael?</DIALOG>
+
+   <DIALOG character="Michael">Il semble que plusieurs agents de la police d'Archon aient été recouvrés lors de la reconstruction de l'espace virtuel. Tâchez de les retrouver.</DIALOG>
+
+   <DIALOG character="Jan">Je le ferai. ..Cet endroit. Il est bien plus dangereux que je ne l'aurais imaginé. Une fois les agents trouvés, je les presserai d'en sortir rapidement.</DIALOG>
+
+   <DIALOG character="Michael">Merci.</DIALOG>
+
+   <COMMENT>Alors qu'ils repartent vers leur destination, ils surprennent un agent de la police d'Archon apparemment en pleine discussion.</COMMENT>
+
+   <DIALOG character="Jan">Hm?</DIALOG>
+
+   <DIALOG character="Powell">Non, ce n'est pas ma faute! Ne vous approchez pas de moi.</DIALOG>
+
+   <DIALOG character="Jan">Bizarre...</DIALOG>
+
+   <DIALOG character="Powell">Arrêtez, plus un pas! S'il vous plaît, laissez moi!</DIALOG>
+
+   <COMMENT>Surveillant leurs arrières, Meris aperçoit les visages d'autres agents effacés plus tôt.</COMMENT>
+
+   <DIALOG character="Meris">!!</DIALOG>
+
+   <DIALOG character="Cordell">Vous...</DIALOG>
+
+   <DIALOG character="Meris">Quoi!?</DIALOG>
+
+   <DIALOG character="Cordell">Oui, vous, jeune fille, c'est par votre faute que nous sommes dans cet enfer...</DIALOG>
+
+   <DIALOG character="Meris">J-je ne suis pas responsable, si vous aviez écouté mes ordres...</DIALOG>
+
+   <DIALOG character="Cordell">Oh, mais nous ne le savons que trop bien! Que vous n'êtes pas le moins du monde responsable. Et en dépit du danger, vous avez persisté à vouloir continuer, n'est-ce pas? Tout ça pour votre ... promotion, pas vrai ?</DIALOG>
+
+   <COMMENT>Combat contre Cordell</COMMENT>
+
+   <DIALOG character="Meris">C-capitaine! Qu'est-ce que c'était au juste?</DIALOG>
+
+   <DIALOG character="Jan">Quelqu'un a sûrement mis la main sur les enregistrements de tous nos récents faits et gestes... Il ne devait s'agir que d'une simple illusion.</DIALOG>
+
+   <DIALOG character="Meris">J'ai causé la mort de ces personnes...</DIALOG>
+
+   <DIALOG character="Jan">Meris. Au combat, vous ne devez penser qu'en termes mathématiques et tactiques. Les ennemis analysent toujours votre mode de pensée lorsqu'ils vous attaquent. Montrez leur seulement votre faiblesse, et vous êtes sûre d'y rester.</DIALOG>
+
+   <DIALOG character="Meris">O-oui Capitaine, je comprends.</DIALOG>
+
+   <DIALOG character="Lactis">Capitaine...</DIALOG>
+
+   <DIALOG character="Jan">Je sais, nos mouvements sont épiés. Nous devrions partir d'ici au plus vite.</DIALOG>
+</CHAPTER>
+

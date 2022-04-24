@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.10" title="Révélations" previous="3.9" next="3.11">
+<COMMENT>Jan et les autres parviennent au point de rendez-vous. Michael surgit soudain, et s'avance d'un pas mal assuré.</COMMENT>
+<DIALOG character="Jan">Michael!?</DIALOG>
+<DIALOG character="Meris">Capitaine!? Attendez!!  Il y a quelque chose qui cloche...</DIALOG>
+<DIALOG character="Elrich">Michael! Ne nous reconnais-tu pas? C'est nous...</DIALOG>
+<DIALOG character="Michael">!!</DIALOG>
+<COMMENT>Alors qu'Elrich s'avance, Michael sort son pistolet et commence à tirer. Bagus protège Elrich.</COMMENT>
+<DIALOG character="Lactis">Bon sang! Michael ... qu'est-ce que vous faites!?</DIALOG>
+<DIALOG character="Michael">...Capitaine... La partie ... est ... déjà ... déjà ... jouée ... pour nous... Je comprends... vous ne pouvez pas connaître ... Voyager...</DIALOG>
+<DIALOG character="Jan">...Nous ne pouvons connaître Voyager?</DIALOG>
+<DIALOG character="Michael">...Oui. C'est ... la fin ... de tout!</DIALOG>
+<COMMENT>Combat contre Michael.</COMMENT>
+<COMMENT>Après cela, Michael s'effondre. Jan le prend dans ses bras.</COMMENT>
+<DIALOG character="Jan">Michael!! Comment en est-on arrivé là?</DIALOG>
+<DIALOG character="Michael">Il semble que quelqu'un ai réussi à me manipuler...je ne sais comment... Capitaine, soyez prudents... Voyager est ... proche ...</DIALOG>
+<DIALOG character="Jan">Michael!!</DIALOG>
+<DIALOG character="Meris">Michael! N'étions-nous ... n'étions-nous pas censés aller profiter de la vue d'Archon un de ces soirs? Maintenant... Maintenant, nous ...</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<COMMENT>Hôpital de la Fédération, salle de communication.</COMMENT>
+<COMMENT>Sharon se tient pensive devant un moniteur.</COMMENT>
+<DIALOG character="Eddie">L'appel est-il passé?</DIALOG>
+<DIALOG character="Sharon">Non, on dirait qu'il y a des problèmes de connexion.</DIALOG>
+<DIALOG character="Eddie">Et pourquoi ne pas utiliser l'holo-terminal là-bas?</DIALOG>
+<DIALOG character="Sharon">J'essaierai. Merci.</DIALOG>
+<DIALOG character="Eddie">Bon, alors, j'y vais...</DIALOG>
+<COMMENT>Après s'être assurée qu'Eddie soit parti, Sharon s'assoit devant le terminal.</COMMENT>
+<DIALOG character="Sharon">Voyons-voir  ... "Il y a quelque chose que je veux que tu transmettes à Meris... l'autre jour, elle m'a demandé des informations sur des données perdues lors de l'incident au centre d'incubation. Ce n'est pas grand chose, mais voici ce que j'ai trouvé, je pense que c'est lié à la production de thyroxine... Je ne suis pas sûre que ce soit spécifiquement la thyroxine, mais c'est en tout cas une sorte d'hormone de la thyroïde. Elle est typiquement secrétée pour contrôler le métabolisme... de même qu'elle est essentielle au développement du cerveau de l'embryon. Selon les données extraites du cerveau des enfants, elle a due être utilisée pour allonger leur espérance de vie de la même manière que les drogues neurochimiques de Voyager...Si c'est bien le cas, n'est-il pas vraisemblable que le propriétaire initial de ces échantillons de tissus soit Voyager? Voila, transmets ceci à Meris. Jan... Je compte assister au Conseil des Pèlerins. S'il y a du nouveau, contactes moi là-bas. Je suppose que tu t'opposes à ce que j'y aille, mais je dois voir le Zohar. Il est peut-être en rapport avec ton enquête. Bon courage...Capitaine."</DIALOG>
+<DIALOG character="Bean">Docteur Rosas! J'ai identifié l'échantillon de tissus que vous m'avez confié ce matin. Je vous pose les résultats ici.</DIALOG>
+<DIALOG character="Sharon">Merci. Désolé d'être si exigeante.</DIALOG>
+<DIALOG character="Bean">Pas de problème. Au fait, qu'est-ce que c'est que ce truc? Cet échantillon... je n'ai jamais rien vu de pareil.</DIALOG>
+<DIALOG character="Sharon">Peut-être...un monstre.</DIALOG>
+<DIALOG character="Bean">Un monstre?</DIALOG>
+<DIALOG character="Sharon">Je plaisante.</DIALOG>
+<DIALOG character="Bean">Haha...Bon, je vais y aller...Vous avez travaillé tard ces derniers temps, n'est-ce pas? Vous devriez rentrer chez vous! Votre fils arrive à se débrouiller tout seul?</DIALOG>
+<DIALOG character="Sharon">Il prend sur lui. Merci. ... Je rentrerai quand j'en aurai terminé...</DIALOG>
+<DIALOG character="Bean">Bon, alors ... bonne nuit, Docteur.</DIALOG>
+<DIALOG character="Sharon">Merci, à vous aussi.</DIALOG>
+<COMMENT>Sharon envoie son mail.</COMMENT>
+<DIALOG character="Sharon">Phew... Ce truc ressemble de plus en plus à un monstre...</DIALOG>
+<COMMENT>Sharon saisit le rapport d'analyse de l'échantillon posé sur la table. Elle le feuillette, et a soudain un mouvement de recul.</COMMENT>
+<DIALOG character="Sharon">Ce n'est ... pas possible...</DIALOG>
+<COMMENT>Planque de l'organisation secrète Veritas</COMMENT>
+<DIALOG character="Jan">...Comment va Meris?</DIALOG>
+<DIALOG character="Elrich">Je crois qu'elle s'est calmée. Elle était très proche de Michael...le choc a du être terrible pour elle...</DIALOG>
+<DIALOG character="Jan">Je vois...</DIALOG>
+<DIALOG character="Elrich">Ca ne va pas?</DIALOG>
+<DIALOG character="Jan">Tu ne trouves pas ça étrange?</DIALOG>
+<DIALOG character="Elrich">Tu parles de Michael?</DIALOG>
+<DIALOG character="Jan">Michael a été pris pour cible dès qu'il a découvert la véritable identité de Voyager. Mais pourquoi Voyager n'est-il pas venu tout d'abord ici?</DIALOG>
+<DIALOG character="Elrich">Peut-être que le problème venait de Michael? Il n'aurait pas amené un pistolet s'il ne s'attendait pas à voir Voyager ici.</DIALOG>
+<DIALOG character="Jan">Tu n'a jamais fait confiance en Michael, n'est-ce pas?</DIALOG>
+<DIALOG character="Elrich">Je ne sais pas. Mais... je vous trouve d'un coup bien sensible à la mort de votre chef et de votre subordonné?</DIALOG>
+<DIALOG character="Jan">Et...?</DIALOG>
+<DIALOG character="Elrich">Vous ne devriez penser qu'en termes mathématiques et tactiques...n'est-ce pas ce que le Chef McCollum disait toujours?</DIALOG>
+<DIALOG character="Jan">...Je suppose que tu as raison.</DIALOG>
+<DIALOG character="Elrich">..."le sixième répandit sa coupe sur le grand fleuve Euphrate, et ses eaux s'asséchèrent pour préparer la route des rois qui viennent d'Orient"</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Elrich">Juste une petite prière. Pour Michael...</DIALOG>
+<DIALOG character="Jan">Ce n'est pas de bon ton...on aurait dit Voyager.</DIALOG>
+<DIALOG character="Elrich">Voyager? Peut-être dit-il la même prière.</DIALOG>
+<DIALOG character="Jan">Voyager? une prière? Voyager est un tueur.</DIALOG>
+<DIALOG character="Elrich">Bien sûr... Bon, je devrais prendre un peu de repos.</DIALOG>
+<DIALOG character="Jan">...Oui, cette affaire est loin d'être terminée. Tu devrais économiser tes forces...</DIALOG>
+<DIALOG character="Elrich">Demain s'ouvre le Conseil des Pèlerins...</DIALOG>
+<COMMENT>Elrich s'en va. Un message apparaît sur le terminal.</COMMENT>
+<DIALOG character="Jan">Un mail? Ca vient de Sharon...</DIALOG>
+<DIALOG character="Sharon">"As tu eu mon précédent message? Je viens d'avoir les résultats d'analyse de l'échantillon. Nous avons trouvé un échantillon identique le jour de l'incident concernant les ambassadeurs. Le propriétaire en était........... Elrich Webber."</DIALOG>
+<DIALOG character="Jan">...Que...</DIALOG>
+<DIALOG character="Meris">...Qu'est-ce qui se passe?</DIALOG>
+<DIALOG character="Jan">Où est Elrich?</DIALOG>
+<DIALOG character="Meris">Je l'ai croisé en venant ici...Je crois qu'il s'apprêtait à sortir. Pourquoi?</DIALOG>
+<DIALOG character="Jan">...Ce fils de pute! Elrich...est Voyager...!</DIALOG>
+
+</CHAPTER>
+

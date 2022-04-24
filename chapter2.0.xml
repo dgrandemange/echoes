@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="2.0" title="Réalité virtuelle, fête à bord" previous="1.10" next="2.1">
+   <COMMENT>Réalité virtuelle : bateau de plaisance, grande salle</COMMENT>
+
+   <COMMENT>Une fête non officielle regroupe la Fédération et le Flotte Immigrante. Sur un promontoire, le Pape Julius de la Flotte Immigrante s'adresse aux invités dans une gestuelle bien théâtrale.</COMMENT>
+
+   <IMAGE src="julius.gif"/>
+
+   <DIALOG character="Julius">...Jusqu'à aujourd'hui, un grand mur nous séparait. Bien que chacun d'entre nous ai cherché le chemin vers un monde meilleur, c'est toujours par manque de confiance que nous nous en sommes détournés. En vous, nous ne voyions que persécuteurs. Et en nous, vous ne voyiez qu'hérétiques. Quoi qu'il en soit, je voudrais vous faire une confidence, ici et maintenant : tout ceci n'était qu'illusion. J'ai entendu dire - que nous nous réservions ce 'prix' spécial. Et ceci n'était pas totalement faux. Aujourd'hui, nous reconnaissons nos propres faiblesses. Ensemble, reconnaissons que nous aspirons tous à la paix!! Lors du futur Conseil des Pèlerins, nous vivrons un moment historique. La voie vers un bien être commun s'éveille tout juste dans nos âmes. Et bientôt, la neutre Abraxas sera reconnue dans tout le cosmos pour être la terre des défenseurs de la Paix!!</DIALOG>
+
+   <COMMENT>Dans un coin de la salle, Jan et les autres observent la scène.</COMMENT>
+
+   <IMAGE src="cops at party.gif"/>
+
+   <DIALOG character="Lactis">Un discours bien mélo-dramatique...</DIALOG>
+
+   <DIALOG character="Jan">Il semble y avoir quelque double sens caché sous ces apparentes belles paroles...</DIALOG>
+
+   <DIALOG character="Meris">Il détourne maintenant le sujet de la discussion vers la Fondation Thole. Pourquoi?</DIALOG>
+
+   <DIALOG character="Lactis">Que savez-vous au juste sur cette Fondation ?</DIALOG>
+
+   <DIALOG character="Meris">J'ai entendu dire qu'elle faisait dans les oeuvres de charité, qu'elle avait un intérêt particulier dans le secours aux réfugiés et dans l'acheminement de biens vers la Flotte Immigrante...Pour une raison qui m'est inconnue, la Fondation semble bénéficier de traitements de faveur.</DIALOG>
+
+   <DIALOG character="Lactis">C'est parce que la Fondation Thole est le rejeton de la Fédération et de la Flotte Immigrante.</DIALOG>
+
+   <DIALOG character="Meris">Qu'est-ce que tu veux dire par la?</DIALOG>
+
+   <DIALOG character="Jan">En jouant le rôle de médiateur d'un point de vue objectif et indépendant, la Fondation Thole est en train de gagner la confiance de la Fédération. A côté de ça, leurs racines s'étendent jusqu'au coeur même de la Flotte Immigrante. En étudiant l'historique de cette planète, ça n'est pas si inhabituel que ça pourrait le paraître...cette conférence pourrait bien profiter à la Flotte Immigrante.</DIALOG>
+
+   <DIALOG character="Lactis">Mais, dernièrement, Voyager, que nous devrions être en train de traquer, a montré un intérêt certain pour les politiques. Pour autant qu'il soit concerné, cet événement mémorable est l'opportunité parfaite de réunir en un seul lieu les personnalités les plus importantes des deux camps...N'est-ce pas Capitaine?</DIALOG>
+
+   <DIALOG character="Jan">En effet. Et de même que de se faire tenir la cérémonie de toute part de l'UMN. Tu dois être assez oublieuse des dangers que ...</DIALOG>
+
+   <DIALOG character="Meris">Mais c'est notre chance! Si nous pouvions le coincer ici...</DIALOG>
+
+   <DIALOG character="Jan">C'est bien là l'idée. Ceci étant dit, cette mission est officieuse. Officiellement, nous sommes là uniquement pour parer à toute situation imprévue. Appliquez-vous tous à être discrets.</DIALOG>
+
+   <DIALOG character="Meris">La personne la plus importante qui est susceptible d'être visée est Irène Thole, 47 ans. Elle est la présidente de la Fondation Thole.</DIALOG>
+
+   <DIALOG character="Jan">Ainsi les civils sont justes des leurres.</DIALOG>
+
+   <DIALOG character="Lactis">Oui. Michael a créé un programme de protection. Si Voyager veut vraiment toucher à cette femme, cela ouvrira un by-pass et nous l'intercepterons directement. Avec un peu de chance, nous n'aurons même pas à nous inquiéter de Voyager.</DIALOG>
+
+   <DIALOG character="Jan">Bonne nouvelle. Faisons en sorte d'éviter tout combat. Michael, ramènes-toi ici. Nous allons suivre Irène de près. Si tu détectes des signes d'intrusion, déclenche le by-pass dans la foulée, et enregistres sa trace si possible. Fais en sorte qu'Elrich prépare l'armement de niveau 6 pour Bagus...Lactis et Meris, vous restez avec moi. Restez attentifs à tout comportement suspect de la part des invités.</DIALOG>
+
+   <COMMENT>Jan commence à patrouiller dans la salle et reconnaît l'un des invités.</COMMENT>
+
+   <IMAGE src="sharon at party.gif"/>
+
+   <DIALOG character="Sharon">Oh? Bien le bonjour Capitaine. Etes-vous ici pour le travail?</DIALOG>
+
+   <DIALOG character="Jan">Dr Rosas. Vous aussi avez été conviée ?</DIALOG>
+
+   <DIALOG character="Sharon">Ils ont invité tous les médecins qui ont sauvé la vie des ambassadeurs l'autre jour. En parlant de boulot, je n'ai pas vraiment réussi à m'ôter ce moment pénible de mes pensées.</DIALOG>
+
+   <DIALOG character="Jan">Vous devriez vous en aller aussi vite que possible.</DIALOG>
+
+   <DIALOG character="Sharon">Pourquoi? Craigniez-vous qu'il arrive quelque chose ?</DIALOG>
+
+   <DIALOG character="Jan">Désolé. Je ne peux vraiment pas répondre à votre question.</DIALOG>
+
+   <DIALOG character="Sharon">Est-ce lié au caractère particulier de cette fête ? Dans ce cas, ne vaudrait-il pas mieux évacuer tout le monde?</DIALOG>
+
+   <DIALOG character="Jan">Je ne peux pas vous l'assurer. Quoi qu'il en soit, si quelque chose se produisait, il vaudrait mieux pour vous que vous ne soyez plus là.</DIALOG>
+
+   <DIALOG character="Sharon">Vous vous inquiétez pour moi ?</DIALOG>
+
+   <DIALOG character="Jan">Euh...non...enfin, j'ai une dette envers vous, pour avoir sauvé mon subordonné...</DIALOG>
+
+   <DIALOG character="Sharon">Votre visage...il est étonnamment expressif en cet instant. En fait, je suis heureuse de vous avoir croisé. Je ...</DIALOG>
+
+   <DIALOG character="Jan">Oui?</DIALOG>
+
+   <DIALOG character="Sharon">Quelque chose m'inquiète.</DIALOG>
+
+   <DIALOG character="Jan">Ah, oui. L'incident...</DIALOG>
+
+   <DIALOG character="Sharon">Vous savez déjà de quoi je veux parler ?</DIALOG>
+
+   <DIALOG character="Jan">Vous...vous avez raison. Hé bien, qu'est-ce donc qui vous inquiète à ce point?</DIALOG>
+
+   <DIALOG character="Sharon">J'ai entendu parler de cette serre de culture d'enfants dans le journal d'informations. Est-ce lié à l'affaire concernant les ambassadeurs?</DIALOG>
+
+   <DIALOG character="Jan">Vous parlez de l'incident au centre d'incubation? L'affaire n'est toujours pas élucidée, je n'ai donc pas l'autorisation de parler de ce sujet avec vous.</DIALOG>
+
+   <DIALOG character="Sharon">Je vois. Je comprends cela. Mais je tenais à vous dire que quelque chose m'ennuyait. Il y a plus de cent membres de gouvernement issus de ce type de culture, mais celle de Draper semble avoir sa spécificité.</DIALOG>
+
+   <DIALOG character="Jan">Sa spécificité?</DIALOG>
+
+   <DIALOG character="Sharon">Les serres qui ont produit les membres du gouvernement utilisent uniquement les meilleurs gènes sélectionnés à travers la galaxie tout entière.</DIALOG>
+
+   <DIALOG character="Jan">C'est ce que j'ai cru comprendre.</DIALOG>
+
+   <DIALOG character="Sharon">Oui, mais les embryons du centre Draper ont tous été conçus à partir des gènes de donneurs abraxiens pure souche.</DIALOG>
+
+   <DIALOG character="Jan">Les ambassadeurs étaient également abraxiens...</DIALOG>
+
+   <DIALOG character="Sharon">Le dénominateur commun des victimes...</DIALOG>
+
+   <DIALOG character="Jan">...est qu'elles sont toutes des enfants abraxiens.</DIALOG>
+
+   <DIALOG character="Sharon">Ce n'est que mon sentiment, mais j'espère vous avoir aidé. Maintenant, je pense que je devrais rejoindre mes collègues.</DIALOG>
+
+   <DIALOG character="Jan">Merci. Mais j'aimerais autant que vous vous déconnectiez.</DIALOG>
+
+   <DIALOG character="Sharon">Merci du conseil. Ca n'était pas une fête géniale de toute façon. Je vais demander à mes collègues si ça leur dit d'aller prendre un verre.</DIALOG>
+
+   <COMMENT>Après avoir regardé Sharon se déconnecter, Jan continue à patrouiller. Soudain au milieu de la fête, Irène Thole se prend la tête à deux mains, tout comme un certain nombre des invités.</COMMENT>
+
+   <DIALOG character="Irène Thole">Ouaahhhh</DIALOG>
+
+   <DIALOG character="Jan">!!</DIALOG>
+
+   <DIALOG character="Meris">...! Voyager?</DIALOG>
+
+   <DIALOG character="Lactis">Calmez-vous. On a des contre-mesures...</DIALOG>
+
+   <DIALOG character="Jan">Restons groupés!</DIALOG>
+
+   <DIALOG character="Frank">Hé vous! Que diable faites-vous donc? Des enquêteurs, ici? Qu'est-ce que des gars comme vous voulez ...huh? Ah...ahhhhh!</DIALOG>
+
+   <DIALOG character="Jan">...!</DIALOG>
+
+   <DIALOG character="Irène Thole">L-la coupe...</DIALOG>
+
+   <DIALOG character="Jan">...!?</DIALOG>
+
+   <DIALOG character="Irène Thole">La coupe...sur les fleuves...et les sources des eaux...</DIALOG>
+
+   <DIALOG character="Jan">...Qu'est-ce qu'elle raconte?</DIALOG>
+
+   <DIALOG character="Irène Thole">"Le troisième ... répandit sa coupe sur ... les fleuves ... et sur les sources des eaux : ils devinrent ... du sang."</DIALOG>
+
+   <COMMENT>Elle marmonne encore l'étrange phrase avant de s'évanouir.</COMMENT>
+
+<DIALOG character="Jan">Hé! Est-ce que ça va?</DIALOG>
+
+   <DIALOG character="Lactis">...Capitaine. Ces mots...</DIALOG>
+
+   <DIALOG character="Jan">C'est Voyager! Michael!</DIALOG>
+
+   <DIALOG character="Michael">Oui!</DIALOG>
+
+   <DIALOG character="Jan">As-tu activé le by-pass?</DIALOG>
+
+   <DIALOG character="Michael">Bien sûr!!</DIALOG>
+
+   <DIALOG character="Jan">Et le piège?</DIALOG>
+
+   <DIALOG character="Michael">Prêt à envoyer! Dès qu'il commencera son piratage, je fermerai ses portes de sortie...J'estime à moins de 30 minutes le temps qui lui sera nécessaire pour atteindre le point de déconnexion leurre B-254-3280!</DIALOG>
+
+   <DIALOG character="Jan">Très bien, nous allons nous diriger vers ce point. Combien de temps avant qu'il ne découvre le pot aux roses?</DIALOG>
+
+   <DIALOG character="Michael">Environ 40 minutes.</DIALOG>
+
+   <DIALOG character="Lactis">Le timing est serré.</DIALOG>
+
+   <DIALOG character="Jan">Alors ne traînons pas. Michael, quel est son point d'entrée initial?</DIALOG>
+
+   <DIALOG character="Michael">Recherche de l'origine des traces. 5 secondes, 4-3-2-1. Ok, je l'ai...c'est tout proche. Une banlieue d'Archon, quartier B7, A31!</DIALOG>
+
+   <DIALOG character="Jan">Transfère cette adresse à la police d'Archon! Une fois la déconnexion forcée, qu'ils le mettent immédiatement sous bonne garde...Toi et Elrich, vous restez en renfort!</DIALOG>
+
+   <DIALOG character="Michael">Je ne vous décevrai pas. J'ai pu obtenir une copie du programme de cette salle, et l'ai minutieusement analysée. Maintenant, Voyager joue sur mon terrain.</DIALOG>
+
+   <DIALOG character="Jan">Bien. Démarre immédiatement la poursuite du suspect.</DIALOG>
+</CHAPTER>
+

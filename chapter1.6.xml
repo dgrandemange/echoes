@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.6" title="Retour à Archon" previous="1.5" next="1.7">
+<COMMENT>Salle des opérations du service de police d'Archon. Michael aide Jan et les autres à sortir de leur port de connexion.</COMMENT>
+<DIALOG character="Meris">Qu'est-il arrivé aux enfants!?</DIALOG>
+<DIALOG character="Lactis">Ca aurait du être une déconnexion forcée globale...mais elle a été refusée.</DIALOG>
+<DIALOG character="Meris">Oh non...</DIALOG>
+<DIALOG character="Jan">Leur conscience, sont-elles bloquées là-bas? Cela aurait-il pu être le résultat d'une force extérieure?</DIALOG>
+<DIALOG character="Michael">Tout ce que je peux dire, c'est qu'il n'y a aucune preuve dans les traces des ambassadeurs indiquant qu'ils y étaient retenus contre leur volonté!</DIALOG>
+<DIALOG character="Jan">Comme tu nous l'avait déjà indiqué. Ainsi, les ambassadeurs auraient vraiment fait le choix d'y rester?</DIALOG>
+<DIALOG character="Lactis">Je ne connais rien de ces ambassadeurs, mais cette femme...quand je repense à son comportement avant qu'elle ne s'autodétruise...Je n'écarte pas la possibilité qu'elle ai pu avoir ses propres raisons pour rester. Cependant ...</DIALOG>
+<DIALOG character="Jan">Quoi?</DIALOG>
+<DIALOG character="Lactis">Deux choses qu'elle a mentionnées me perturbent : "Terre Promise" et "cette personne" ...</DIALOG>
+<DIALOG character="Jan">Quelqu'un d'autre l'aurait-il contactée, à part nous et ceux assistant aux pourparlers avec la Flotte Immigrante?</DIALOG>
+<DIALOG character="Meris">Pourrait-il s'agir de Voyager?</DIALOG>
+<DIALOG character="Lactis">Je ne sais pas ... cet incident est vraiment trop étrange.</DIALOG>
+<DIALOG character="Jan">Tu l'as dit. L'interférence provenant de l'extérieur...l'étrange comportement  de ce diplomate...Je ne pense pas que le criminel ai eu pour objectif de fâcher la Fédération avec la Flotte Immigrante. C'est, d'une certaine manière, différent... Lactis et Michael, fouillez les traces et cherchez tout lien possible entre le discours de cette femme et le ravisseur. Meris et Bagus, restez ici à attendre mes ordres. Je vais me diriger vers l'hôpital. Je dois y récupérer les corps des agents décédés au cours de l'opération.</DIALOG>
+<COMMENT>Après avoir fait part de ses recommandations à chacun, Jan s'avance encore vers Bagus, celui-ci se tenant seul devant le corps d'Elrich.</COMMENT>
+<DIALOG character="Jan">Bagus, accordes-toi une pause tu veux bien. Je suis désolé, mais je dois l'emmener avec moi pour une autopsie.</DIALOG>
+<DIALOG character="Bagus">Bien Capitaine.</DIALOG>
+<COMMENT>Hopital de police. Dans la salle d'observation reposent les agents et les ambassadeurs qui ont pu être sauvés. Jan se tient sur le pas de la porte.</COMMENT>
+<IMAGE src="sharonjan.gif"/>
+<DIALOG character="Jan">Je suis de la police de la Fédération. Je voudrais m'entretenir avec un responsable...</DIALOG>
+<DIALOG character="Sharon">Ca pourrait bien être moi, mais ça ne vous ferait rien d'attendre ? Ces gens la sont ma priorité.</DIALOG>
+<DIALOG character="Kate">Docteur, nous avons besoin de votre avis.</DIALOG>
+<DIALOG character="Sharon">L'enfant #2 a besoin de soins immédiats. Confiez les blessures neurologiques au Dr Pirajat, et amenez moi les autres.</DIALOG>
+<DIALOG character="Kate">OK</DIALOG>
+<DIALOG character="Sharon">Attendez une minute!</DIALOG>
+<DIALOG character="Kate">Oui?</DIALOG>
+<DIALOG character="Sharon">Les blessures du policier #5 semblent sévères...si je me réfère au cas précédent, il s'agit d'un choc anaphylactique. Dites leur de le calmer avec de l'oxyde d'azote.</DIALOG>
+<DIALOG character="Kate">Bien Dr!</DIALOG>
+<DIALOG character="Sharon">Quelqu'un du même uniforme que le vôtre a été emmené dans la salle d'a côté.</DIALOG>
+<DIALOG character="Jan">Merci.</DIALOG>
+<DIALOG character="Sharon">Attendez!</DIALOG>
+<DIALOG character="Jan">Oui?</DIALOG>
+<DIALOG character="Sharon">Je vous accompagne...</DIALOG>
+<COMMENT>Ils se rendent dans la salle d'observation suivante où les corps d'Elrich et de deux des ambassadeurs reposent.</COMMENT>
+<DIALOG character="Richard">Chef! Cet agent est tombé dans le coma. Tentons-nous une réanimation?</DIALOG>
+<DIALOG character="Sharon">...Je crains que cela soit en vain...Est-ce le #3?</DIALOG>
+<DIALOG character="Eddie">La fille #2 fait un arrêt cardiaque! Amenez le défibrillateur!</DIALOG>
+<DIALOG character="Sharon">Vous!</DIALOG>
+<DIALOG character="Jan">!!</DIALOG>
+<DIALOG character="Sharon">Surveillez ce moniteur durant la défibrillation...vous avez suivi des cours de secourisme à l'école de police, non?</DIALOG>
+<DIALOG character="Jan">C'est exact. Je suis prêt.</DIALOG>
+<DIALOG character="Eddie">On est monté à 400 joules! Toujours rien!</DIALOG>
+<DIALOG character="Sharon">Epinéphrine?</DIALOG>
+<DIALOG character="Eddie">Pas de réaction...c'est pas bon.</DIALOG>
+<DIALOG character="Sharon">Pour un enfant, mourir à cet âge, de cette façon...c'est vraiment...</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<COMMENT>Jan déambule dans le couloir de l'hôpital rouge teinté de la lumière du soleil couchant. Une voix l'appelle. Jan se retourne.</COMMENT>
+<DIALOG character="Jan">?</DIALOG>
+<DIALOG character="Sharon">Merci pour votre aide, tout à l'heure.</DIALOG>
+<DIALOG character="Jan">Heureux d'avoir pu me rendre utile.</DIALOG>
+<DIALOG character="Sharon">Je suis désolée pour votre subordonné.</DIALOG>
+<DIALOG character="Jan">Ah...merci. Mais et les enfants?</DIALOG>
+<DIALOG character="Sharon">Au final, un seul n'a pas pu s'en tirer...Et merde, putain!! Si la nanotechnologie était plus accessible, nous aurions pu le sauver...</DIALOG>
+<DIALOG character="Jan">Surprenant d'entendre ces mots de votre bouche...</DIALOG>
+<DIALOG character="Sharon">Désolée. J'ai toujours les nerfs à vifs lorsqu'il s'agit de la mort d'un enfant. Les derniers traitements médicaux sont utilisés pour prolonger la vie de vieillards pourris bourrés aux as...alors qu'ils devraient être réservés à ceux qui en ont le plus besoin!! Ne ressentez-vous donc rien de voir mourir un enfant de cette façon?</DIALOG>
+<DIALOG character="Jan">...Combien même je serais affecté, cela ne se verrait pas sur mon visage...</DIALOG>
+<DIALOG character="Sharon">Cela doit être difficile. Où est-ce libérateur?</DIALOG>
+<DIALOG character="Jan">Je ne suis pas sûr de le savoir moi-même.</DIALOG>
+<DIALOG character="Sharon">Vous êtes un homme étrange...</DIALOG>
+<DIALOG character="Jan">Merci de vous être occupé de mon subordonné...pourriez-vous, s'il vous plait, préparer les certificats de décès, Docteur ...?</DIALOG>
+<DIALOG character="Sharon">Rosas, Sharon Rosas</DIALOG>
+<DIALOG character="Jan">Merci, Dr Rosas.</DIALOG>
+<COMMENT>Dans la salle d'autopsie, Elrich a été préparé pour être amené en chambre froide. Sharon rédige le certificat de décès.</COMMENT>
+<DIALOG character="Sharon">Mort non naturel dans l'UMN, cas 1458. Elrich Webber, 28 ans, agent de police #1875 des forces spéciales d'intervention. La cause du décès est un choc physique issu de dégâts reçus d'une unité de sécurité au sein de la réalité virtuelle de l'UMN. L'heure de la mort...!</DIALOG>
+<COMMENT>L'alimentation du compartiment de refroidissement coupe. Sharon se retourne, et devant ses yeux, le compartiment s'ouvre, et Elrich s'en extrait.</COMMENT>
+<DIALOG character="Sharon">Il revit! C'est impossible...son corps est cliniquement mort...appelez tous les médecins dans la salle d'autopsie!! J'ai bien peur qu'il y ai eu une terrible méprise! Hé, vous là! Vous avez besoins de soins. Il n'est pas conseillé pour vous de marcher! Hé, attendez!</DIALOG>
+<DIALOG character="Eddie">Docteur, attendez! Peut-être devrait-on appeler la police avant de tenter quoi que ce soit...</DIALOG>
+<DIALOG character="Sharon">Et le laisser quitter l'hôpital comme ça sans rien faire !? Hé attendez! votre état de santé ne vous permet pas...</DIALOG>
+<DIALOG character="Elrich">Je vais bien.</DIALOG>
+<IMAGE src="sharonel.gif"/>
+<DIALOG character="Sharon">...</DIALOG>
+</CHAPTER>

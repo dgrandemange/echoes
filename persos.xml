@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="persos_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<PERSONNAGES>
+   <PERSONNAGE name="Jan SAUER" age="30" image="jan.gif">Membre des forces spéciales de la police de la Fédération de la Galaxie. Il est a la tête d'une équipe d'investigation.</PERSONNAGE>
+
+   <PERSONNAGE name="Meris ORTHAS" age="23" image="merisu.gif">Enquêtrice débutante dans l'équipe de Jan. A un sens solide et sérieux de la justice.</PERSONNAGE>
+
+   <PERSONNAGE name="Lactis" age="25" image="ractice.gif">Realien d'ancien modèle. Spécialisé dans l'acquisition et l'analyse de données de l'UMN.</PERSONNAGE>
+
+   <PERSONNAGE name="Bagus" image="bags.gif">Robot de combat. Possède une intelligence artificielle émulant un jeune garçon.</PERSONNAGE>
+
+   <PERSONNAGE name="Elrich Webber" age="28" image="eligh.gif">Membre spécialisé dans les plongées UMN. Chargé de la maintenance de Bagus.</PERSONNAGE>
+
+   <PERSONNAGE name="Michael Oltman" age="27" image="michael.gif">Opérateur UMN ayant une connaissance étendue du réseau.</PERSONNAGE>
+
+   <PERSONNAGE name="Sharon ROSAS" age="29" image="sharon.gif">Exerce la profession de médecin dans un hopital d'Abraxas. Vit avec son fils Joaquin.</PERSONNAGE>
+
+   <PERSONNAGE name="Joaquin ROSAS" age="11" image="joaquin.gif">Fils de Sharon</PERSONNAGE>
+
+   <PERSONNAGE name="Voyager" image="voijar.gif">Cyber-terroriste auteur de multiples actes criminels a travers l'UMN.</PERSONNAGE>
+
+</PERSONNAGES>

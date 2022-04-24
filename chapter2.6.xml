@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.6" title="Ivresse" previous="2.5" next="2.7">
+<COMMENT>Après s'être échappés de l'esprit de Klaus, Jan et son équipe se retrouvent à dîner avec Sharon.</COMMENT>
+<IMAGE src="drunk.gif"/>
+<DIALOG character="Sharon">Dure nuit, hein?</DIALOG>
+<DIALOG character="Jan">Désolé de vous avoir embarquée dans cette histoire...</DIALOG>
+<DIALOG character="Sharon">Restons-en là. Le Chef a été assez compréhensif sur le fait que nous ayons déplacé le corps. Et de votre côté, vous avez obtenu les aveux de Klaus. Tout s'arrange finalement.</DIALOG>
+<DIALOG character="Michael">Excusez moi de plomber l'ambiance, mais vous n'aviez pas quelque chose à demander au Docteur, Capitaine?</DIALOG>
+<DIALOG character="Jan">C'est vrai. Si vous pouviez jeter un oeil là-dessus...</DIALOG>
+<DIALOG character="Sharon">Hm...des seringues? Une sorte de tranquillisant ou bien?</DIALOG>
+<DIALOG character="Jan">On l'a trouvé dans la chambre de Klaus. Le contenu semble être un nouveau type de drogue neurochimique.</DIALOG>
+<DIALOG character="Sharon">...Et?</DIALOG>
+<DIALOG character="Jan">Composition, effets...tout ce que vous pouvez nous en dire nous intéresse. Vous pourriez vérifier pour nous?</DIALOG>
+<DIALOG character="Sharon">Ca serait pas plus rapide de le faire analyser par vos services?</DIALOG>
+<DIALOG character="Jan">En ce moment, on ne peut plus faire confiance à qui que ce soit. Je veux une personne de confiance pour effectuer cette analyse.</DIALOG>
+<DIALOG character="Sharon">Dois-je comprendre que je suis cette personne?</DIALOG>
+<DIALOG character="Jan">Vous avez tout à fait compris.</DIALOG>
+<DIALOG character="Sharon">Merci. Dernièrement, nous avons eu une recrudescence de cas d'overdose. Je serai très heureuse de travailler sur ce sujet.</DIALOG>
+<DIALOG character="Jan">Merci.</DIALOG>
+<DIALOG character="Sharon">Il y a tellement de gens qui consomment ce type de substances nocives...nous vivons en des temps bien difficiles.</DIALOG>
+<DIALOG character="Jan">Klaus justifiait ses actes parce qu'il cherchait la paix, la paix absolue apportée par le Zohar...Qu'est-ce que le Zohar?</DIALOG>
+<DIALOG character="Meris">Une nouvelle drogue? Mais quel est l'intérêt d'une paix artificielle obtenue par la drogue!</DIALOG>
+<DIALOG character="Elrich">Je ne saurais pas distinguer le vrai du faux, mais ce point de vue me semble très subjectif. Seul l'individu lui-même sait ce qu'il peut y trouver....de nos jours, chacun recherche la paix intérieure. S'il peut trouver le moyen d'y accéder, qu'il soit ou non artificiel, il s'estimera heureux.</DIALOG>
+<DIALOG character="Jan">C'est étrange que Klaus ait parlé de sa solitude avec des inconnus comme nous. Il a fallu qu'il meurt pour ouvrir son coeur à quelqu'un.</DIALOG>
+<DIALOG character="Sharon">Ironique, non? S'il avait reçu de l'aide de son vivant...</DIALOG>
+<DIALOG character="Michael">Je ne sais pas...la solitude est un sentiment que tout le monde a connu au moins une fois, mais je pense que c'est à chacun de trouver le moyen de s'en sortir. Qu'en pensez-vous Capitaine?</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Michael">Capitaine?</DIALOG>
+<DIALOG character="Jan">Euh, ouais... j'en ai pas la moindre idée. Là tout de suite, je suis plus attiré par mon verre qu'à parler boulot...</DIALOG>
+<DIALOG character="Meris">Venant de vous, ça sonne assez bizarre. Seriez-vous ivre?</DIALOG>
+<DIALOG character="Jan">Je n'ai jamais assez bu pour l'être...</DIALOG>
+<DIALOG character="Sharon">Mieux vaut tard que jamais.</DIALOG>
+<DIALOG character="Michael">Hé bien, s'il suffit des 3/4 d'un verre pour vous faire tourner la tête...en fait, vous êtes un petit joueur, pas vrai?</DIALOG>
+<DIALOG character="Sharon">A ce point? Je me sens du coup un peu mal à l'aise d'avoir eu la main lourde sur le service...</DIALOG>
+<DIALOG character="Meris">Capitaine? Ca va? Il s'est endormi.</DIALOG>
+<COMMENT>Après un lourd sommeil, Jan se réveille et voit un petit garçon.</COMMENT>
+<IMAGE src="cutie.gif"/>
+<DIALOG character="Jan">Où suis-je?</DIALOG>
+<DIALOG character="Joaquin">Hé M'sieur, vous êtes policier, hein? C'est marqué sur votre badge que vous êtes des forces spéciales.</DIALOG>
+<DIALOG character="Jan">Et toi, tu es ...</DIALOG>
+<DIALOG character="Joaquin">Je m'appelle Joaquin. Hé vous me raconterez des histoires de policier?</DIALOG>
+<DIALOG character="Sharon">Joaquin, c'est l'heure d'aller te coucher. Ne déranges pas notre invité avec tes questions!</DIALOG>
+<DIALOG character="Joaquin">Ok. Hé, c'est lui le m'sieur que maman appelle 'la personne très intéressante'?</DIALOG>
+<DIALOG character="Sharon">Joaquin! Um...c'est une connaissance du travail, c'est tout.</DIALOG>
+<DIALOG character="Joaquin">Vraiment?</DIALOG>
+<DIALOG character="Sharon">Tu sais très bien que j'ai décidé de ne plus m'impliquer avec un autre policier.</DIALOG>
+<DIALOG character="Joaquin">Parce que papa est mort et nous a laissé?</DIALOG>
+<DIALOG character="Sharon">Oui, c'est pour ça. Alors, trouvons un type gentil avec plein de temps libre et un travail de bureau. Maintenant, va te coucher mon coeur.</DIALOG>
+<DIALOG character="Joaquin">Ok, bonne nuit maman.</DIALOG>
+<DIALOG character="Sharon">Désolé qu'il vous ait réveillé. Voici de l'eau et des médicaments pour vous dégriser un peu.</DIALOG>
+<IMAGE src="sharongreen.gif"/>
+<DIALOG character="Jan">C'est ... votre fils?</DIALOG>
+<DIALOG character="Sharon">Ouais. Il est à l'âge des questions sur tout et sur rien.</DIALOG>
+<DIALOG character="Jan">Votre mari est mort pendant le service?</DIALOG>
+<DIALOG character="Sharon">C'était lors d'une émeute dans le quartier immigrant. L'âge de l'inquisition est révolu, vous savez?</DIALOG>
+<DIALOG character="Jan">...Désolé. Merci pour votre hospitalité et pour vos médicaments. Je ferais mieux d'y aller.</DIALOG>
+<DIALOG character="Sharon">Si vous rentrez chez vous maintenant, vous serez arrêté pour conduite en état d'ébriété! Pourquoi ne pas vous reposer ici en attendant que les médicaments fassent effet?</DIALOG>
+<DIALOG character="Jan">C'est étrange...</DIALOG>
+<DIALOG character="Sharon">Quoi?</DIALOG>
+<DIALOG character="Jan">Je pensais juste que vous aussi étiez toutes deux des personnes intéressantes.</DIALOG>
+
+
+   </CHAPTER>
+
+

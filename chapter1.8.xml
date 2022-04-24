@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.8" title="Le centre d'incubation et de conditionnement" previous="1.7" next="1.9">
+<COMMENT>A bord de la voiture les emmenant au centre d'incubation...</COMMENT>
+<DIALOG character="Meris">Désolée, mais je ne peux m'empêcher de maudire ce fils de pute plus qu'en cet instant.</DIALOG>
+<DIALOG character="Michael">Du calme, Meris.</DIALOG>
+<DIALOG character="Meris">C'est juste rageant que l'ensemble de cette affaire ne soit pas encore résolue. Voyager est la pire menace que l'humanité ai connue.</DIALOG>
+<DIALOG character="Michael">...Vraiment, calmes-toi. Et puis, on n'est même pas certain qu'il s'agisse de Voyager...</DIALOG>
+<DIALOG character="Meris">Mais c'est le même schéma que la dernière fois : le criminel s'en prend encore à des enfants...Comment ne pas se mettre en colère? N'est-ce pas Capitaine?</DIALOG>
+<DIALOG character="Jan">De la colère peut venir une grande force, mais un aussi un grand mal...lorsqu'il s'agit d'accomplir une mission, il est préférable de garder son sang-froid.</DIALOG>
+<DIALOG character="Lactis">Je suis d'accord avec le Capitaine. Il est certain que votre passion et votre courage renforcent l'équipe, mais...il est aussi vrai qu'à certains moments, le risque que cette force nous fait encourir est trop important, et dans ce cas il ne vaut mieux pas l'utiliser.</DIALOG>
+<DIALOG character="Meris">Je vois...Mais le Capitaine...</DIALOG>
+<DIALOG character="Michael">Son cas est spécial. Il sait rester zen en toute circonstance...a se demander s'il éprouve quelque sentiment...</DIALOG>
+<DIALOG character="Jan">Oh, vraiment?</DIALOG>
+<DIALOG character="Meris">Capitaine, avez-vous toujours été ainsi?</DIALOG>
+<DIALOG character="Jan">Je ne sais pas. Peut-être bien...</DIALOG>
+<COMMENT>Changement de décor où l'on voit Sharon se recueillant dans une église.</COMMENT>
+<DIALOG character="Prêtre">Mais vous...quel est votre souhait?</DIALOG>
+<DIALOG character="Sharon">Je ne demande pas la paix dans le monde, mais...je prie pour que moins d'enfants perdent la vie.</DIALOG>
+<DIALOG character="Prêtre">Vous voulez la vie éternelle?</DIALOG>
+<DIALOG character="Sharon">Non, je ne pense pas qu'une longue vie soit l'unique voie vers le bonheur. Je veux juste que la société s'occupe autant de ses enfants que moi de mon fils.</DIALOG>
+<DIALOG character="Prêtre">...</DIALOG>
+<DIALOG character="Sharon">Tous les matins, au réveil, j'entends une nouvelle tragédie aux informations. J'ai déjà perdu mon mari. Je n'en peux plus de voir se répéter ces faits divers, encore et toujours.</DIALOG>
+<DIALOG character="Prêtre">Vous voulez la paix éternelle...?</DIALOG>
+<DIALOG character="Sharon">Oui, pour le bien de mon fils. Voila le genre de paix à laquelle j'aspire.</DIALOG>
+<DIALOG character="Prêtre">Si vous voulez signer ce pacte avec Dieu, vous devrez offrir l'âme de la personne la plus chère à vos yeux. Ceci fait, la paix éternelle vous sera offerte.</DIALOG>
+<DIALOG character="Sharon">Un pacte? Père, je ne comprends pas le sens de vos paroles. La vertu n'a point besoin de requérir quelconque compensation.</DIALOG>
+<IMAGE src="sharonchurch.gif"/>
+<DIALOG character="Prêtre">Vos actes ouvriront le chemin vers Dieu...</DIALOG>
+<DIALOG character="Sharon">...</DIALOG>
+<COMMENT>Centre d'incubation et de conditionnement. Alors que l'équipe investi les lieux, une annonce automatisée se fait entendre.</COMMENT>
+<DIALOG character="Annonce">Bienvenue au Jacob Medical Imprinting, Draper Division! Notre compagnie travaille nuit et jour à la culture d'une humanité nouvelle pour assurer la société de demain.</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Annonce">Que diriez-vous d'un enfant spécialement produit dans l'une des matrices artificielles de notre compagnie? Des conseillers à plein temps sélectionnent pour vous les meilleurs gènes des parents. Imaginez l'enfant de vos rêves, résultat garanti. Pas encore marié? Pas de problème ! Avec notre système, même les célibataires...</DIALOG>
+<DIALOG character="Jan">Ces enfants, les futurs Salvateurs?</DIALOG>
+<DIALOG character="Lactis">Ca n'a aucun sens. Un véritable Salvateur... est bien plus que le résultat d'une manipulation génétique. Il est vrai que même des officiels du gouvernement ont été conçus par ce type de culture. Ces humains génétiquement programmés sont la base d'une nation totalement homogène. Mais une communauté dirigée par des personnes partageant toutes la même idéologie peut-elle encore être appelée 'nation'. Dans ce type de société hyper hiérarchisée, la part d'humanité est-elle ... comment ces enfants appréhendent-ils l'avenir?</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Lactis">Pourquoi ce sourire Capitaine?</DIALOG>
+<DIALOG character="Jan">Désolé, je ne voulais pas mais...te voir réagir ainsi, toi, version perfectionnée de l'humain, te voir te lamenter sur le sort de l'humanité.</DIALOG>
+<DIALOG character="Lactis">...</DIALOG>
+<DIALOG character="Jan">Ces enfants connaissent leur propre rôle lorsqu'ils entrent dans la société. Heureusement peut être pour eux, ils ne remettent pas en cause la destinée qui leur a été tracée.</DIALOG>
+<DIALOG character="Lactis">Mais ce n'est qu'un système conçu par la propre main de l'homme après tout. Et si quelque chose venait à dysfonctionner?</DIALOG>
+<DIALOG character="Jan">Même si l'un d'eux venait à s'écarter du chemin qui lui a été tracé, cela ne serait pas sa faute mais bien la nôtre pour avoir au départ conçu ce système. Je prie juste que jamais ne nous soit donnée l'occasion de prendre conscience de cela, dans cette vie ou dans une autre.</DIALOG>
+<DIALOG character="Lactis">Croiriez-vous en la réincarnation, Capitaine?</DIALOG>
+<DIALOG character="Jan">Réincarnation ou pas, j'estime que toute personne devrait avoir la chance d'expier pour ses fautes...même si l'instant propice à cela est la mort, chercher de son vivant la voie du salut reste de la responsabilité de chacun.</DIALOG>
+<DIALOG character="Lactis">En cette période, même la mort peut être ôtée. Vous et les autres avez à vous déclarer donneurs.</DIALOG>
+<DIALOG character="Jan">Tu parles de la loi sur l'Acte de Recyclage de Vie.</DIALOG>
+<DIALOG character="Lactis">Oui, l'exploitation optimum de la ressource humaine. Comment un gouvernement soutenu par les 'Salvateurs' de l'Institut Yuriev pourrait-il maintenir ses lois sans s'affranchir de cette notion archaïque et absurde de 'droits de l'homme'. Il y aurait la un non sens. Mais que puis-je redire à cela de toute façon, moi, simple humain de synthèse?</DIALOG>
+<DIALOG character="Jan">Ainsi, même dans la mort, il n'y a pas de salut possible... est-ce la où tu veux en venir?</DIALOG>
+<DIALOG character="Lactis">Hé bien, s'il n'est même plus permis de mourir, alors quand?</DIALOG>
+<DIALOG character="Jan">Je ne sais pas. Il ne me reste plus qu'à me confronter à ce problème lorsque le moment sera venu. J'espère juste que la situation n'aura pas à se présenter.</DIALOG>
+<DIALOG character="Meris">Capitaine? Pourriez-vous venir par ici un moment?</DIALOG>
+<COMMENT>Sur le moniteur en face de Meris, certains mots apparaissent.</COMMENT>
+<COMMENT>"Le second répandit sa coupe sur la mer : elle devint du sang, comme le sang d'un mort, et tous les êtres moururent qui vivaient dans la mer."</COMMENT>
+<DIALOG character="Jan">Il doit y avoir un lien avec le discours tenu par cette diplomate...Michael!</DIALOG>
+<DIALOG character="Michael">J'y travaille! J'en ai obtenu une copie à partir des sauvegardes des données du centre... Oh, Capitaine! Je confirme plusieurs signes de vie dans la chambre d'incubation. Ils sont très faibles. Il doit s'agir d'embryons!</DIALOG>
+<DIALOG character="Jan">Compris! C'est exactement comme il l'avait prévu... cette mission sera différente de celles auxquelles nous avons été habitués. Nous devons être prudents!</DIALOG>
+<COMMENT>Chambre d'incubation. Plusieurs embryons sont rattachés à des matrices artificielles.</COMMENT>
+<DIALOG character="Bagus">Au vu des indicateurs sur leur poitrine, il est probable que ces enfants soient déjà...</DIALOG>
+<DIALOG character="Meris">C'est trop horrible.</DIALOG>
+<DIALOG character="Jan">Michael!</DIALOG>
+<DIALOG character="Meris">...</DIALOG>
+<DIALOG character="Jan">Michael, répond!</DIALOG>
+<DIALOG character="Michael">Je vous écoute...</DIALOG>
+<DIALOG character="Jan">Quel est l'état de santé de ces enfants!?</DIALOG>
+<DIALOG character="Meris">Sans même voir leurs signes vitaux, je peux affirmer que ce ne sont pas la des visages d'enfants endormis. Ces enfants sont déjà....</DIALOG>
+<DIALOG character="Jan">Je vois.</DIALOG>
+<DIALOG character="Michael">Elle a vu juste.</DIALOG>
+<DIALOG character="Lactis">...encore des enfants...</DIALOG>
+<DIALOG character="Jan">Michael...</DIALOG>
+<DIALOG character="Michael">Oui?</DIALOG>
+<DIALOG character="Jan">Fait une demande à la police d'Archon...qu'ils amènent des renforts. Tous les enfants sont morts.</DIALOG>
+<DIALOG character="Michael">C-compris...</DIALOG>
+<DIALOG character="Jan">Nous allons personnellement nous occuper de cet intrus! On va avoir besoin de configurer la périphérique de connexion. La voie est libre. Ramènes-toi aussi vite que possible...Est-ce qu'Elrich est la?</DIALOG>
+<DIALOG character="Michael">Hé Elrich! Le Capitaine demande à te parler! Ho, qu'est-ce tu fais?</DIALOG>
+<DIALOG character="Elrich">Ah, euh...oui?</DIALOG>
+<DIALOG character="Jan">On est en pleine mission! Qu'est-ce que tu fais bon sang?</DIALOG>
+<DIALOG character="Elrich">Toutes mes excuses...Quelque chose me causait souci dans les logs du centre, alors j'ai effectué quelques tests. Il semble que mon imagination m'ai joué un tour.</DIALOG>
+<DIALOG character="Jan">Michael va nous rejoindre ici... Trace toute intrusion dans l'ordinateur central. Récupère les logs et amènes nous des renforts.</DIALOG>
+<DIALOG character="Elrich">Compris.</DIALOG>
+<DIALOG character="Jan">Et de l'armement niveau 6 pour la connexion!</DIALOG>
+<DIALOG character="Elrich">Je m'en occupe immédiatement.</DIALOG>
+<DIALOG character="Bagus">Elrich...il n'est pas encore tout à fait remis, n'est-ce pas?</DIALOG>
+<DIALOG character="Jan">Michael...répond-moi sur une fréquence sécurisée.</DIALOG>
+<DIALOG character="Michael">O-oui?</DIALOG>
+<DIALOG character="Jan">Je crois qu'Elrich perçoit le contre-coup de son épreuve passée. Peux-tu garder un oeil sur lui?</DIALOG>
+<DIALOG character="Michael">Bien sûr. je resterai auprès de lui lorsqu'il vous transfèrera l'armement de niveau 6. Je vous rejoindrai ensuite.</DIALOG>
+<DIALOG character="Jan">Bien.</DIALOG>
+</CHAPTER>
