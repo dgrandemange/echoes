@@ -22,29 +22,29 @@
                <FONT FACE="Arial,Helvetica" SIZE="-2">
                		<U>A propos d'ECHOES ...</U>               		
 					<LI>Ce projet se veut un echo du projet de traduction US <xsl:element name="A">
-      					<xsl:attribute name="href"><xsl:text>http://web.archive.org/web/20160530202208/http://zarathustra.kaisho.org/</xsl:text></xsl:attribute>Zarathustra</xsl:element> du jeu 'Xenosaga : Pied Piper' sorti uniquement au Japon. Merci a Chaoslace, l'initiatrice de ce projet pour son gros travail de traduction, travail sans lequel ce projet-ci n'aurait pu démarrer.</LI>      					
-                                        <LI>Je n'ai pas la prétention de fournir ici une traduction exactement fidèle a la fan-trad US, mais j'ai essayé d'y coller dans la mesure de mes connaissances, a la fois de la langue anglaise et de l'univers de Xenosaga.</LI>
-					<LI>le choix du titre du projet : ECHOES est un titre des Pink Floyd. Et alors? Hé bien, pour la petite histoire, sachez que feu Stanley Kubrick, pour son "2001 : l'odyssée de l'espace" avait pressenti les Floyd pour faire l'OST de ce film. Mais suite a une mésentente avec le groupe, il a du se résigner (bien lui en a pris) a illustrer ses images avec du Strauss, du Ligeti (atonal et puissant a souhait) et du Bartok. Il n'empêche que le morceau ECHOES semble coller parfaitement a la séquence du film "Jupiter et au dela de l'infini" (Cf <xsl:element name="A">
-      					<xsl:attribute name="href"><xsl:text>http://web.archive.org/web/20190329053822/http://www.pinkfloydonline.com/echoes2001_synchs.html</xsl:text></xsl:attribute>synchro Echoes</xsl:element>). Le rapport avec Xenosaga ? L'analogie entre le monolithe de 2001 et le Zohar, et la fascination exercée par ces  deux artefacts sur l'humanité.</LI>
+      					<xsl:attribute name="href"><xsl:text>http://web.archive.org/web/20160530202208/http://zarathustra.kaisho.org/</xsl:text></xsl:attribute>Zarathustra</xsl:element> du jeu 'Xenosaga : Pied Piper' sorti uniquement au Japon. Merci a Chaoslace, l'initiatrice de ce projet pour son gros travail de traduction, travail sans lequel ce projet-ci n'aurait pu dÃ©marrer.</LI>      					
+                                        <LI>Je n'ai pas la prÃ©tention de fournir ici une traduction exactement fidÃ¨le a la fan-trad US, mais j'ai essayÃ© d'y coller dans la mesure de mes connaissances, a la fois de la langue anglaise et de l'univers de Xenosaga.</LI>
+					<LI>le choix du titre du projet : ECHOES est un titre des Pink Floyd. Et alors? HÃ© bien, pour la petite histoire, sachez que feu Stanley Kubrick, pour son "2001 : l'odyssÃ©e de l'espace" avait pressenti les Floyd pour faire l'OST de ce film. Mais suite a une mÃ©sentente avec le groupe, il a du se rÃ©signer (bien lui en a pris) a illustrer ses images avec du Strauss, du Ligeti (atonal et puissant a souhait) et du Bartok. Il n'empÃªche que le morceau ECHOES semble coller parfaitement a la sÃ©quence du film "Jupiter et au dela de l'infini" (Cf <xsl:element name="A">
+      					<xsl:attribute name="href"><xsl:text>http://web.archive.org/web/20190329053822/http://www.pinkfloydonline.com/echoes2001_synchs.html</xsl:text></xsl:attribute>synchro Echoes</xsl:element>). Le rapport avec Xenosaga ? L'analogie entre le monolithe de 2001 et le Zohar, et la fascination exercÃ©e par ces  deux artefacts sur l'humanitÃ©.</LI>
                </FONT>
             </P>
 
             <P>
                <FONT FACE="Arial,Helvetica" SIZE="-2">
-               		<U>Mises à jour :</U>
-		    <LI>24/04/22 : Remise à disposition du site sous la forme de projet Github</LI>
-			<LI>18/03/06 : Parfois, un <A href="connexions.html">schéma</A> vaut mieux qu'un long discours (attention SPOILERS)</LI>
-			<LI>11/03/06 : Corrections + Ajout d'une page <A href="references.xml">références et inspirations</A> (attention SPOILERS)</LI>
-			<LI>28/02/06 : Corrections orthographiques. Homogénéisation du vocabulaire.</LI>
-			<LI>17/02/06 : Ajout d'une page regroupant l'<A href="all_chapters_html.xml">intégralité des chapitres</A> dans une version imprimable</LI>
-			<LI>12/02/06 : Traduction complète disponible dans une première version. <A href="#TRADUCTION">Bonne lecture!</A></LI>
+               		<U>Mises Ã  jour :</U>
+		    <LI>24/04/22 : Remise Ã  disposition du site sous la forme de projet Github</LI>
+			<LI>18/03/06 : Parfois, un <A href="connexions.html">schÃ©ma</A> vaut mieux qu'un long discours (attention SPOILERS)</LI>
+			<LI>11/03/06 : Corrections + Ajout d'une page <A href="references.xml">rÃ©fÃ©rences et inspirations</A> (attention SPOILERS)</LI>
+			<LI>28/02/06 : Corrections orthographiques. HomogÃ©nÃ©isation du vocabulaire.</LI>
+			<LI>17/02/06 : Ajout d'une page regroupant l'<A href="all_chapters_html.xml">intÃ©gralitÃ© des chapitres</A> dans une version imprimable</LI>
+			<LI>12/02/06 : Traduction complÃ¨te disponible dans une premiÃ¨re version. <A href="#TRADUCTION">Bonne lecture!</A></LI>
 
                </FONT>
             </P>
 
             <P>
                <FONT FACE="Arial,Helvetica" SIZE="-2">
-               		<U>Les musiques qui m'ont accompagnées dans mon travail:</U>
+               		<U>Les musiques qui m'ont accompagnÃ© dans mon travail:</U>
 			<xsl:apply-templates select="./MUSICS" />
                </FONT>
             </P>
@@ -58,7 +58,7 @@
                         <U>Chapitres :</U>
       <LI>
       <xsl:element name="A">
-      <xsl:attribute name="href"><xsl:text>persos.xml</xsl:text></xsl:attribute>Présentation des personnages
+      <xsl:attribute name="href"><xsl:text>persos.xml</xsl:text></xsl:attribute>PrÃ©sentation des personnages
       </xsl:element>
       </LI>
                         <xsl:apply-templates select="./AVAILABLE_CHAPTERS" />
