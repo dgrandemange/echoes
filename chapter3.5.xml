@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.5" title="Criminels" previous="3.4" next="3.6">
+<COMMENT>Poste de police de la Fédération, salle de briefing</COMMENT>
+<DIALOG character="Jan">...Personne n'aurait croisé le Chef?</DIALOG>
+<DIALOG character="Elrich">Pas depuis notre dernière conférence avec lui l'autre jour...il n'est pas la?</DIALOG>
+<DIALOG character="Jan">...Non, et il n'a pas contacté le poste depuis.</DIALOG>
+<DIALOG character="Elrich">Peut -être a-t-il des problèmes avec le Directeur? Dans une situation comme celle-ci, il est possible qu'il ai ressenti le besoin de se faire discret...Craignez-vous que l'information que nous lui avons donnée se soit ébruitée?</DIALOG>
+<DIALOG character="Jan">...On peut dire ça.</DIALOG>
+<DIALOG character="Lewis">Lequel d'entre vous est Jan Sauer, le commandant de ce détachement?</DIALOG>
+<DIALOG character="Michael">...Qui le demande? C'est pas un peu malpoli de poser des questions sans s'être tout d'abord présenté?</DIALOG>
+<DIALOG character="Lewis">Ah c'est comme ça? Je vais vraiment devoir me montrer malpoli alors.</DIALOG>
+<COMMENT>Lewis s'avance et bouscule Michael sur le côté.</COMMENT>
+<DIALOG character="Michael">Que!?</DIALOG>
+<DIALOG character="Lactis">!!</DIALOG>
+<DIALOG character="Jan">Je suis Sauer.</DIALOG>
+<DIALOG character="Lewis">Ainsi tu es le petit prodige de McCollum.</DIALOG>
+<DIALOG character="Jan">Où est le Chef?</DIALOG>
+<DIALOG character="Lewis">Je suis Earnest Lewis. A partir d'aujourd'hui, je prends mes fonctions de Chef des forces spéciales unité #1875.</DIALOG>
+<DIALOG character="Jan">Qu'est-il arrivé au Chef McCollum?</DIALOG>
+<DIALOG character="Lewis">McCollum est actuellement aux arrêts par ordre du Directeur.</DIALOG>
+<DIALOG character="Jan">Quoi!? Mais pourquoi?</DIALOG>
+<DIALOG character="Lewis">Pour actes terroristes contre la 6ème division - le département des télécommunications. ...McCollum n'est pas tout seul dans cette affaire. Meris Orthas, Michael Oltman, Elrich Webber... J'ai un mandat d'arrêt contre vous.</DIALOG>
+<DIALOG character="Elrich">Sur quelles charges?</DIALOG>
+<DIALOG character="Lewis">Elrich Webber. Accusé de possession de drogue et des programmes de drogue virtuel correspondants.</DIALOG>
+<DIALOG character="Elrich">...</DIALOG>
+<DIALOG character="Lewis">Michael Oltman! Accusé d'accès illégal à l'UMN. ...Meris Orthas, violation du protocole d'intervention lors de l'affaire du kidnapping des ambassadeurs. De surcroît, contact et acceptation d'informations provenant d'une organisation terroriste anti-UMN. Une vrai bande de criminels que voila. A se demander quel genre d'entraînement votre officier supérieur a bien pu vous soumettre...Emmenez les en cellule!</DIALOG>
+<DIALOG character="Jan">Vous ne pouvez nous arrêter sans preuves...</DIALOG>
+<DIALOG character="Lewis">Des preuves? Vous n'avez pas vu le mandat d'arrêt vous concernant? Conspiration avec McCollum, menace sur la personne du Directeur...Allez, mettez moi tout ça sous les verrous.</DIALOG>
+<DIALOG character="Jan">Bon sang!</DIALOG>
+<COMMENT>Jan et son équipe sont emmenés par des agents de police d'Archon. L'opérateur assistant de Michael s'approche d'eux.</COMMENT>
+<DIALOG character="Dewey">Michael... prends ça s'il te plait. C'est une copie d'un étrange log d'accès que nous avons trouvé dans les enregistrements de l'UMN.</DIALOG>
+<DIALOG character="Michael">Que veux-tu que j'en fasse? Ils nous emmènent, tu ne vois pas?</DIALOG>
+<DIALOG character="Dewey">Vous trouverez bien un moyen d'y jeter un oeil. Dépêchez, avant que le nouveau nous remarque!</DIALOG>
+<DIALOG character="Michael">Tu lui as caché ces informations? Hé, je savais bien que je vous avais appris un petit quelque chose les gars!</DIALOG>
+<DIALOG character="Dewey">Heu...moins fort...</DIALOG>
+<DIALOG character="Lewis">Michael Oltman! Quel est votre problème?</DIALOG>
+<DIALOG character="Lactis">Attendez!</DIALOG>
+<DIALOG character="Lewis">Lactis? Le Realian doté d'une base de renseignement...Il n'y a aucune charges retenues contre vous. Croyez en l'innocence de vos amis... tant que cela vous est possible.</DIALOG>
+<COMMENT>Industries Vector, bureau de Wilhelm</COMMENT>
+<COMMENT>Un Realian s'agenouille révérencieusement derrière Wilhelm.</COMMENT>
+<IMAGE src="07.gif"/>
+<DIALOG character="Keila">Il y a de nouveaux événements concernant Dimitri Yuriev...</DIALOG>
+<DIALOG character="Wilhelm">En effet, il est plutôt impatient n'est-ce pas?</DIALOG>
+<DIALOG character="Keila">Je me demande si nous ne devrions pas intervenir...</DIALOG>
+<DIALOG character="Wilhelm">Non, inutile de s'inquiéter. Je sais ce après quoi Dimitri court. Après tout, il est le seul survivant de de l'"horreur". A côté de ça, Lactis est du côté de l'enquêteur. Je suis sûr qu'il fera le choix d'aller lui porter secours.</DIALOG>
+<DIALOG character="Keila">Alors, les agissements de la police sont conformes aux prédictions de la Boussole de l'Ordre?</DIALOG>
+<DIALOG character="Wilhelm">Il se présente tout de même une difficulté inattendue.</DIALOG>
+<DIALOG character="Keila">Une difficulté?</DIALOG>
+<DIALOG character="Wilhelm">Son histoire est amusante en vérité...</DIALOG>
+<DIALOG character="Keila">Est-ce de bonne augure?</DIALOG>
+<DIALOG character="Wilhelm">Ca n'est pas un problème. L'âme de cet enquêteur brûle d'un feu sans pareil. ...Mais ce n'est pas la seule à brûler si ardemment.</DIALOG>
+<DIALOG character="Keila">Je vois. Vous avez l'intention de déployer dans le système stellaire le Realian portant "Canaan", et lui faire rechercher les humains possédant l'"essence"...</DIALOG>
+<DIALOG character="Wilhelm">C'est exact. Ceux-ci sont absolument nécessaires au tissage des fils de Zarathustra. Pour cette raison, nous reporterons à plus tard l'intervention de "Canaan"...je veux dire, Lactis...</DIALOG>
+<DIALOG character="Keila">Dans ce cas, je devrais reprendre le contrôle du Realian de modèle "Canaan".</DIALOG>
+<DIALOG character="Wilhelm">S'il vous plaît, oui. Maintenant, il me reste certains points dont je dois m'occuper. Peux-tu me laissez seul un moment?</DIALOG>
+<DIALOG character="Keila">Bien Monsieur</DIALOG>
+<DIALOG character="Wilhelm">...Yeshua...En arriver à obtenir l'aide d'autres, dans le seul but de me barrer la route, ne te ressemble pas...mais si c'est vraiment là ton intention, sache que j'ai moi aussi quelque chose en vue. Pendant que tu resteras caché parmi les ombres, je veillerai à ce que les choses soient faites à ma manière. ...Mais je me réjouis d'avance...du jour où, une nouvelle fois, tu reviendras sur le devant de la scène.</DIALOG>
+
+</CHAPTER>
+

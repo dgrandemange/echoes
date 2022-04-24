@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.13" title="Le Conseil des Pèlerins" previous="3.12" next="3.14">
+<COMMENT>Cathédrale, Conseil des Pèlerins</COMMENT>
+<DIALOG character="Sergius">...Maintenant prions. Peuple du Zohar, êtres élus. Lorsque vos prières atteindront l'oreille de Dieu, le Zohar ouvrira son oeil intérieur. La grande lumière qui en émanera se dispersera à travers la vile Fédération et purifiera leur esprit impur à tous!</DIALOG>
+<DIALOG character="Sharon">Cette prière rituelle...Le Pape n'essaierait-il pas de nous endoctriner? ... Non, ce n'est pas ça. Cette lumière. Et ce son. J'en ai un vague souvenir. Oui, ce sont ceux de nos origines ...</DIALOG>
+<DIALOG character="Joaquin">Maman...</DIALOG>
+<DIALOG character="Sharon">Joaquin!? Je t'avais dit de rester à la maison avec ta nounou!</DIALOG>
+<DIALOG character="Joaquin">Papa ne rentrait pas, alors je suis venu pour te protéger.</DIALOG>
+<DIALOG character="Sharon">Merci. Mais dès que la cérémonie est terminée, tu rentres à la maison. J'appellerai quelqu'un...</DIALOG>
+<COMMENT>Soudain, la lumière du Zohar commence à scintiller et brille d'une lueur blanche aveuglante. En relevant les yeux, Sharon et Joaquin aperçoivent un homme enveloppé d'une cape blanche.</COMMENT>
+<IMAGE src="2-03.gif"/>
+<DIALOG character="Sharon">Qui est là...? Vous êtes...</DIALOG>
+<COMMENT>Jan et les autres se sont déconnectés et sont retournés à la planque de Veritas.</COMMENT>
+<DIALOG character="Alexei">Vous êtes arrivés à temps! Il y a un holomail pour vous! ...Je voulais l'ouvrir, mais ... je ne voulais pas perdre votre confiance...</DIALOG>
+<DIALOG character="Meris">...Merci de l'attention que vous nous portez.</DIALOG>
+<DIALOG character="Jan">Un holomail...de qui? ...Lactis! Tu détectes un virus dans ce message?</DIALOG>
+<DIALOG character="Lactis">De ce que je peux en voir, non. Dois-je l'ouvrir?</DIALOG>
+<DIALOG character="Jan">S'il te plaît. Oh, Alexei! J'ai besoin d'une ligne privée! Vous en auriez-une que je puisse utiliser?</DIALOG>
+<DIALOG character="Alexei">Bien sûr, utilisez celle-ci.</DIALOG>
+<DIALOG character="Meris">C'est le Docteur Rosas que vous appelez?</DIALOG>
+<DIALOG character="Jan">Oui. J'espère qu'elle va répondre...Bon sang! Pas de réponse!</DIALOG>
+<DIALOG character="Lactis">Capitaine!!</DIALOG>
+<DIALOG character="Jan">...? Ce message...</DIALOG>
+<DIALOG character="Bagus">Elrich!?</DIALOG>
+<DIALOG character="Holomail d'Elrich">"le sixième répandit sa coupe sur le grand fleuve Euphrate, et ses eaux s'asséchèrent pour préparer la route des rois qui viennent d'Orient" Heh heh heh... Il serait préférable d'être à l'heure pour le Conseil des Pèlerins...Qu'en pensez-vous Capitaine?</DIALOG>
+<DIALOG character="Meris">...!Putain, c'est quoi ça?</DIALOG>
+<IMAGE src="2-04.gif"/>
+<DIALOG character="Jan">Il m'appelle à venir le rejoindre. Les vies de Sharon et Joaquin sont en danger...!</DIALOG>
+<COMMENT>Cathédrale, Conseil des Pèlerins</COMMENT>
+<DIALOG character="Sergius">Encore un peu plus longtemps. Un tout petit peu plus et notre voeu le plus cher sera exaucé...l'oeil du Zohar s'ouvrira, et il illuminera le chemin vers Dieu. Alors, les Salvateurs de la Fédération seront alors ... cet homme sera ...</DIALOG>
+<DIALOG character="Carter">Votre grâce! Le Zohar ...!</DIALOG>
+<DIALOG character="Sergius">Quoi!?</DIALOG>
+<COMMENT>Englobés de la lumière du Zohar, la foule assistant au Conseil des Pèlerins commence à se tordre de douleur. Soudain, aux cris fait place le silence.</COMMENT>
+<DIALOG character="Carter">Votre grâce! ...Il disparaissent tous, un par un!</DIALOG>
+<DIALOG character="Sergius">Qu'est-ce qui se passe!? Il ...n'y a mention de cela nulle part dans les écritures...!! Voyager!? Serait-il en quête du Zohar? Non, c'est impossible. Seul nous, issus du peuple élu, pouvons disposer du pouvoir du Zohar! Il est impossible...qu'U-DO soutienne Voyager...!</DIALOG>
+<DIALOG character="Carter">Votre grâce, il devient dangereux de rester ici!! Trouvons-nous rapidement un abri!</DIALOG>
+<DIALOG character="Sergius">...Bon sang! Les Salvateurs...Dimitri Yuriev. Essaie-t-il d'ouvrir la voie menant à Lost Jerusalem!?</DIALOG>
+<COMMENT>Bureau de Dimitri Yuriev.</COMMENT>
+<COMMENT>Yuriev se tient la tête entre ses mains.</COMMENT>
+<DIALOG character="Zora">Ca ne va pas? Vous ne semblez pas bien du tout...</DIALOG>
+<IMAGE src="2-05.gif"/>
+<DIALOG character="Yuriev">L-le Zohar vient ... d'être activé...Je le sens.</DIALOG>
+<DIALOG character="Zora">Comment!? Vous voulez dire que Sergius a ouvert la voie!?</DIALOG>
+<DIALOG character="Yuriev">Non, il ne s'agit pas de cela. ...La voie n'est pas encore ouverte. Voyager...Il en appelle à U-DO... Quelle folie...</DIALOG>
+<DIALOG character="Zora">...?</DIALOG>
+<DIALOG character="Yuriev">Voyager. Alors que nous parlons, il se propage...a travers tout le cosmos...</DIALOG>
+
+</CHAPTER>
+

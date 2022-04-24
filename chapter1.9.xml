@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.9" title="Réalité virtuelle, l'ordinateur central" previous="1.8" next="1.10">
+   <COMMENT>Devant l'ordinateur central du centre.</COMMENT>
+
+   <DIALOG character="Michael">Désolé de vous avoir fait attendre. Patientez un instant le temps que je prépare les ports de connexion.</DIALOG>
+
+   <DIALOG character="Jan">Ok. Vas y.</DIALOG>
+
+   <COMMENT>Michael met en place les couchettes pour la connexion.</COMMENT>
+
+   <DIALOG character="Michael">Pfouh! C'est bon.</DIALOG>
+
+   <DIALOG character="Jan">Désolé du dérangement...Comment se sent Elrich ?</DIALOG>
+
+   <DIALOG character="Michael">Il semble tenir une bonne forme. Peut-être n'était-ce qu'une fatigue passagère.</DIALOG>
+
+   <DIALOG character="Jan">Je l'espère. Je suis peut-être un peu paranoïaque.</DIALOG>
+
+   <DIALOG character="Lactis">Alors, quelle est notre destination ?</DIALOG>
+
+   <DIALOG character="Jan">Le point de déconnexion primaire de l'ordinateur central. Nous allons pister le suspect depuis ce point. Tenez-vous prêt.</DIALOG>
+
+   <DIALOG character="Michael">Ok, prêt à partir? Contactez-moi une fois l'objectif atteint. Je serai prêt pour vous faire revenir.</DIALOG>
+
+   <DIALOG character="Jan">Compris. Allons-y.</DIALOG>
+
+   <COMMENT>Réalité virtuelle : point d'accès à l'ordinateur central.</COMMENT>
+
+   <DIALOG character="Jan">On y est?</DIALOG>
+
+   <DIALOG character="Lactis">Affirmatif. Le criminel s'est déconnecté de ce point.</DIALOG>
+
+   <DIALOG character="Jan">Est-il possible de le tracer?</DIALOG>
+
+   <DIALOG character="Lactis">Tracer n'est pas le problème. Mais s'il a battu en retraite et s'est enfui dans le monde réel, il sera difficile de le retrouver. Espérons qu'il soit toujours là.</DIALOG>
+
+   <DIALOG character="Jan">Alors, nous devons faire vite.</DIALOG>
+
+   <DIALOG character="Lactis">Bien.</DIALOG>
+
+   <COMMENT>Lactis démarre l'analyse de l'ordinateur.</COMMENT>
+
+   <DIALOG character="Jan">Tu vois quelque chose ?</DIALOG>
+
+   <DIALOG character="Lactis">Non, je ne peux trouver trace de son accès. Nous aurait-il déjà échappé ?</DIALOG>
+
+   <DIALOG character="Jan">Nous sommes arrivés trop tard...</DIALOG>
+
+   <DIALOG character="Michael">Capitaine! J'ai une bonne nouvelle pour vous!</DIALOG>
+
+   <DIALOG character="Jan">Laquelle?</DIALOG>
+
+   <DIALOG character="Michael">Notre pirate tente actuellement une nouvelle exaction. Il est connecté!</DIALOG>
+
+   <DIALOG character="Jan">Il est toujours là?</DIALOG>
+
+   <DIALOG character="Michael">Ce point d'accès-ci doit être un leurre. Désolé, j'ai manqué de rigueur. Je surveillais les traces des logs et n'ai pas remarqué sa tentative de connexion. Il doit se trouver au nord de votre position actuelle.</DIALOG>
+
+   <DIALOG character="Jan">Compris.Trace-le le plus longtemps possible.</DIALOG>
+
+   <COMMENT>A un autre point d'accès à l'ordinateur central.</COMMENT>
+
+   <DIALOG character="Jan">Résultats d'analyse ?</DIALOG>
+
+   <DIALOG character="Lactis">...</DIALOG>
+
+   <DIALOG character="Jan">Lactis! Des signes de Voyager?</DIALOG>
+
+   <DIALOG character="Lactis">Comme vous pouvez vous en douter, rien.</DIALOG>
+
+   <DIALOG character="Jan">Michael! Il n'y pas trace de son passage ici. Et maintenant ?</DIALOG>
+
+   <DIALOG character="Michael">Etrange... jusqu'à maintenant, sa piste était facile à suivre, mais...dès que vous êtes arrivés, elle a disparu.</DIALOG>
+
+   <DIALOG character="Jan">Comment ça disparu!? Sans même l'avoir vu se déconnecter...</DIALOG>
+
+   <DIALOG character="Lactis">Qu'est-ce que c'est?</DIALOG>
+
+   <DIALOG character="Jan">Quoi? Tu as trouvé quelque chose?</DIALOG>
+
+   <DIALOG character="Lactis">Je crois qu'il s'agit d'informations sur les embryons...Ca ne peut être vrai.</DIALOG>
+
+   <DIALOG character="Jan">Expliques-toi.</DIALOG>
+
+   <DIALOG character="Lactis">Précisément, il s'agit de données de leur cerveau...c'est comme si le substantia nigra pars compacta... dans la zone ventral tegmental...comme si l'information de l'hippocampe était perdue!?...Je vais vérifier sur un autre embryon. Celui-là aussi!?...Et celui-là aussi!!! Tous sans exception...?</DIALOG>
+
+   <DIALOG character="Meris">Il y a quelque chose qui cloche...</DIALOG>
+
+   <DIALOG character="Jan">Tu veux dire que les informations contenues dans leur cerveau sont perdues?</DIALOG>
+
+   <DIALOG character="Lactis">Ces embryons. Ce n'est pas que leur cerveau qui est étrange...c'est plus fondamental que cela...je ne sais pas s'il s'agit d'une anomalie pré ou post-natale, mais elle est inscrite dans leur structure génétique de base...un grave défaut des cellules souches apparaît clairement.</DIALOG>
+
+   <DIALOG character="Jan">Tu peux faire une copie de tout ça ?</DIALOG>
+
+   <DIALOG character="Lactis">C'est en cours...mais ma capacité de stockage est insuffisante!!</DIALOG>
+
+   <DIALOG character="Jan">Michael! Fais une copie des informations que Lactis va te transférer.</DIALOG>
+
+   <DIALOG character="Michael">Compris. Ouverture d'une connexion vers Lactis...!</DIALOG>
+
+   <DIALOG character="Lactis">Dépêchez-vous...mon espace de stockage va bientôt saturer.</DIALOG>
+
+   <DIALOG character="Michael">Attendez...qu'est-ce qui se passe? Lactis! Coupes la connexion, tu m'entends? Coupes la connexion, tout de suite!</DIALOG>
+
+   <DIALOG character="Lactis">...?</DIALOG>
+
+   <COMMENT>Lactis ne semble plus connecté à l'ordinateur central.</COMMENT>
+
+   <DIALOG character="Jan">Lactis! Est-ce que ça va?</DIALOG>
+
+   <DIALOG character="Lactis">Je vais bien. Le système semble s'être verrouillé au beau milieu du transfert. Soyez vigilants!</DIALOG>
+
+   <DIALOG character="Jan">Quelque chose approche!</DIALOG>
+
+   <COMMENT>Combat contre Baldur. Tous se déconnectent à l'issue du combat. Ils s'extraient de leur couchette.</COMMENT>
+
+   <DIALOG character="Jan">Michael! Tu as pu récupéré ces données?</DIALOG>
+
+   <DIALOG character="Elrich">Les traces ont été corrompues lors du téléchargement, je ne suis donc pas sûr d'avoir pu tout récupérer...mais il doit y avoir tout de même des parties exploitables...Quoi qu'il en soit, il est impossible de procéder à une analyse depuis cette machine. Que devrions-nous faire maintenant, Capitaine?</DIALOG>
+
+   <DIALOG character="Jan">Je vois. Nous n'avons plus qu'à retourner au QG et essayer d'analyser ces données. Il y a peut-être un indice sur le prochain méfait de Voyager.</DIALOG>
+
+   <DIALOG character="Lactis">...A en juger par l'intervalle entre l'incident des ambassadeurs et celui-ci, il ne va sûrement pas nous laisser beaucoup de temps...Mais comment Voyager connaît-il toujours le moindre de nos mouvements? Depuis l'interception du transfert des données en passant par le déploiement éclair de cette unité de sécurité, tout se passe comme si ...</DIALOG>
+
+   <DIALOG character="Jan">Comme s'il nous épiait de très près.</DIALOG>
+
+   <DIALOG character="Lactis">J'ai ce sentiment là moi-aussi.</DIALOG>
+
+   <DIALOG character="Michael">V-vous rigolez? Au moment où vous êtes revenus, le niveau de mes traces était très verbeux. Je suis certain que personne d'autre que nous n'a eu accès à l'ordinateur central!!</DIALOG>
+
+   <DIALOG character="Meris">Mais cette unité anti-intrusion n'a pas pu surgir de nulle part...</DIALOG>
+
+   <DIALOG character="Jan">J'ai du mal à y croire, mais...il n'est pas impossible que Voyager contrôle l'UMN tout entier.</DIALOG>
+
+   <DIALOG character="Elrich">Capitaine! Il y a des informations intéressantes dans les traces collectées. Notamment la preuve de la tentative d'interception du transfert des données de Lactis...</DIALOG>
+
+   <DIALOG character="Michael">Ridicule! Je n'ai rien vu de pareil dans les logs...</DIALOG>
+
+   <DIALOG character="Elrich">Ne serait-ce pas dû à une erreur de sauvegarde dans le terminal que tu as utilisé...? De plus, il s'agit d'un point d'accès à l'ordinateur central. Il y a peut-être une corruption résiduelle dans les traces.</DIALOG>
+
+   <DIALOG character="Michael">Serais-tu en train de m'accuser d'avoir falsifié les traces du piratage de Voyager?</DIALOG>
+
+   <DIALOG character="Elrich">Je n'ai rien dit de pareil. Je dis juste que c'est une possibilité, c'est tout. Il y a réellement preuve d'une intérférence externe dans les données à ma disposition.</DIALOG>
+
+   <DIALOG character="Michael">...</DIALOG>
+
+   <DIALOG character="Jan">Calmez-vous, vous deux. L'intégrité de ces données peut-elle être garantie?</DIALOG>
+
+   <DIALOG character="Elrich">Tout à fait. L'interférence est très brève, mais j'ai pu y trouver les traces du programme d'extermination.</DIALOG>
+
+   <DIALOG character="Michael">Capitaine! Vous pensez vraiment que ...?</DIALOG>
+
+   <DIALOG character="Jan">Il 'est pas question de remettre en cause la confiance que je t'ai accordée jusqu'ici. Cependant, si Elrich a découvert de nouveaux indices, nous devrions y jeter un oeil.</DIALOG>
+
+   <DIALOG character="Michael">Je...Ce n'est pas mon genre de faire des erreurs aussi grossières que celle-là...!</DIALOG>
+
+   <DIALOG character="Jan">Retournons au QG et mettons nous au travail d'analyse. Michael! Je veux que tu répares et sauvegardes les données concernant les embryons. Dépêchons-nous! Je vais recommander au chef de la police de restreindre toutes les connexions à l'UMN jusqu'à ce que le Conseil des Pèlerins soit passé.</DIALOG>
+</CHAPTER>
+

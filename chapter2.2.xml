@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.2" title="Réalité virtuelle, sur le toit" previous="2.1" next="2.3">
+<COMMENT>Jan et son équipe se retrouvent nez à nez avec Klaus sur le toit d'un immeuble.</COMMENT>
+<DIALOG character="Meris">Ca y est, on le tient!</DIALOG>
+<DIALOG character="Jan">Klaus Thole?</DIALOG>
+<DIALOG character="Klaus">...</DIALOG>
+<DIALOG character="Lactis">Il n'y a pas d'échappatoire possible. Venez, doucement ...</DIALOG>
+<DIALOG character="Klaus">"Et j'entendis l'autel qui disait : 'Oui, Seigneur Dieu tout-puissant, véridiques et justes sont tes jugements.'"</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<COMMENT>Soudain, une énorme unité anti-intrusion surgit derrière Klaus.</COMMENT>
+<DIALOG character="Bagus">Capitaine! Regardez ça!</DIALOG>
+<DIALOG character="Jan">Un ennemi...!?</DIALOG>
+<COMMENT>Combat contre Egil</COMMENT>
+<DIALOG character="Jan">Echec et mat. Cet endroit est cerné.</DIALOG>
+<DIALOG character="Klaus">...</DIALOG>
+<DIALOG character="Jan">Vous êtes en état d'arrestation pour accès illégal à l'UMN et prise de contrôle de pensée via l'UMN.</DIALOG>
+<DIALOG character="Klaus">...</DIALOG>
+<DIALOG character="Jan">Vous pouvez garder le silence. Tout ce que vous direz pourra être retenu contre vous.</DIALOG>
+<DIALOG character="Klaus">"Le troisième répandit sa coupe sur les fleuves et les sources des eaux : ils devinrent du sang."</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Klaus">"Et j'entendis l'ange des eaux qui disait : 'Tu es juste, Toi qui es et qui étais, Toi le Saint, qui a exécuté ces jugements : parce qu'ils ont versé du sang de saints et de prophètes, tu leur as donné à boire du sang! Ils le méritent.'"</DIALOG>
+<DIALOG character="Meris">Aurait-il perdu la raison?</DIALOG>
+<DIALOG character="Klaus">"Et j'entendis l'autel qui disait : 'Oui, Seigneur Dieu tout-puissant, véridiques et justes sont tes jugements.'"</DIALOG>
+<DIALOG character="Jan">Thole. Comprenez-vous ce que nous sommes en train de vous dire ?</DIALOG>
+<DIALOG character="Klaus">Oh, je les comprends...ces mots qui sortent de votre bouche...de même que ceux qui sortent de la sienne...</DIALOG>
+<DIALOG character="Jan">La sienne ? Voyager?</DIALOG>
+<DIALOG character="Klaus">Il veut du sang! Oh, pas le vôtre. Celui des anges!</DIALOG>
+<DIALOG character="Jan">Du sang...pourquoi?</DIALOG>
+<DIALOG character="Klaus">Ah, seule une personne qui a héritée du sang des anges obtient de lui audience. Telle est sa volonté. Et ce sang coule dans mes veines! Même moi, héritier d'une famille riche et gâtée...</DIALOG>
+<DIALOG character="Meris">Capitaine, cet homme est mentalement très instable! Déconnectez le!</DIALOG>
+<DIALOG character="Jan">Attends Meris...</DIALOG>
+<DIALOG character="Klaus">Je vais me rendre à la Terre Promise. J'obéirai à ses volontés...</DIALOG>
+<DIALOG character="Jan">La Terre Promise...?</DIALOG>
+<DIALOG character="Klaus">Celle qui ne rejette personne. L'endroit où personne ne viendra plus m'ennuyer. Ces ambassadeurs devraient déjà s'y trouver au moment où je vous parle...</DIALOG>
+<DIALOG character="Jan">Alors, toi aussi...ce Voyager a vraiment...</DIALOG>
+<DIALOG character="Lactis">Capitaine, soyez prudent. Un suicide en réalité virtuelle a les mêmes conséquences dans la vie réelle...</DIALOG>
+<DIALOG character="Klaus">Je vous laisse maintenant. Quoi? Jaloux? Vous devriez également avoir un ticket aller pour cet endroit, les gars. Il vous le déchirerait et vous laisserait choir au milieu des morceaux...oui, vous semblez avoir les qualités minimum requises.</DIALOG>
+<DIALOG character="Jan">Hé attendez!!</DIALOG>
+<DIALOG character="Klaus">Nous nous reverrons un jour.</DIALOG>
+<DIALOG character="Jan">!</DIALOG>
+<COMMENT>Devant leurs yeux, Klaus se jette dans le vide.</COMMENT>
+<COMMENT>Salle de briefing du poste de police d'Archon. Jan est assis sur le côté d'une interface de plongée. Il est entouré de son équipe.</COMMENT>
+<DIALOG character="Meris">Une ... autre personne est morte!</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Lactis">... Capitaine.</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Lactis">Croyez-vous qu'il s'agissait de Voyager?</DIALOG>
+<DIALOG character="Jan">Peut-être pas. Tu l'as entendu comme moi. Je pense qu'il s'agissait d'une autre personne manipulée par Voyager. Et toi?</DIALOG>
+<DIALOG character="Lactis">Hé bien...de ce que nous savons de Voyager, ce n'est pas surprenant de sa part de mettre un terme à la vie d'un homme qu'il aurait su rallier à sa cause.</DIALOG>
+<DIALOG character="Michael">...Ouais. Et de mon point de vue d'opérateur, je ne pense pas que ce Klaus ait pu pirater cette fête tout seul.</DIALOG>
+<DIALOG character="Meris">Mais Klaus n'était-il pas le fils de la présidente de la Fondation Thole? Est-il possible qu'il ai reçu l'aide d'une personne infiltrée au sein de la Fondation?</DIALOG>
+<DIALOG character="Michael">Klaus a été rejeté par sa famille environ 10 ans de cela. De fait, il a dû être tenu à l'écart de toute information interne à la Fondation. Et puis ...</DIALOG>
+<DIALOG character="Meris">Et puis?</DIALOG>
+<DIALOG character="Michael">Le modèle du programme de réécriture utilisé montre clairement l'influence d'une tierce personne. Je verrais assez bien Voyager faire ce travail. Mais ça n'est que mon impression.</DIALOG>
+<DIALOG character="Meris">Ton impression, hein ?</DIALOG>
+<DIALOG character="Jan">Cette impression est sûrement bonne.</DIALOG>
+<DIALOG character="Meris">Oh...</DIALOG>
+<DIALOG character="Jan">Selon Michael, le processus de construction de cet espace virtuel est identique à celui du programme dans lequel les ambassadeurs étaient retenus. S'il a pu concevoir ce piège virtuel, c'est parce qu'il a pu analyser la logique utilisée pour l'implantation du programme.</DIALOG>
+<IMAGE src="jan on bed.gif"/>
+<DIALOG character="Elrich">Même processus de construction, même approche...probablement la même personne.</DIALOG>
+<DIALOG character="Meris">Ainsi, il est possible que Voyager soit l'un des développeurs de cet espace virtuel?</DIALOG>
+<DIALOG character="Michael">On s'est déjà renseigné là-dessus, et on a trouvé aucune trace d'un des développeurs habilités dans les enregistrements...</DIALOG>
+<DIALOG character="Jan">Il y a une forte probabilité que la personne qui a capturé les ambassadeurs ait lâché quelques détails du processus de construction à Klaus. Et il s'agit probablement de Voyager.</DIALOG>
+<DIALOG character="Meris">Si Klaus était en mesure d'écouter ses indications...</DIALOG>
+<DIALOG character="Michael">Tout ce que ce type savait est parti avec lui...</DIALOG>
+<DIALOG character="Meris">On a perdu la seule piste qu'on avait...et nous voilà revenus à la case départ...</DIALOG>
+<DIALOG character="Michael">Les morts ne parlent plus...c'est bien triste...ça n'était après tout qu'un petit délinquant qu'on a manipulé et sacrifié.</DIALOG>
+<DIALOG character="Elrich">Je ne dirais pas tout à fait ça...</DIALOG>
+<DIALOG character="Michael">Quoi?  'petit délinquant'?</DIALOG>
+<DIALOG character="Elrich">Non. Il ne parlera sans doute plus ... mais nous pouvons encore l'écouter. Sa mémoire est préservée et intacte.</DIALOG>
+<DIALOG character="Meris">Tu parles ... de nous connecter à l'esprit d'un défunt?</DIALOG>
+<DIALOG character="Jan">Est-ce réalisable?</DIALOG>
+<DIALOG character="Elrich">Oui, un corps est parfaitement conservé pendant les 48 heures suivant sa mort.</DIALOG>
+<DIALOG character="Meris">Ceci est illégal! Et de loin trop risqué!</DIALOG>
+<DIALOG character="Jan">Peut-être mais c'est notre seule piste désormais. Nous n'avons pas le choix.</DIALOG>
+
+
+   </CHAPTER>
+
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.3" title="Plongée post-mortem" previous="2.2" next="2.4">
+<COMMENT>Salle d'autopsie de l'hôpital de la Fédération.</COMMENT>
+<COMMENT>Jan et son équipe rendent visite à Sharon pour discuter du projet de plongeon dans le cerveau de Klaus.</COMMENT>
+<IMAGE src="hospital.gif"/>
+<DIALOG character="Sharon">Ainsi vous tenez à plonger dans la conscience d'un homme mort? En tant que médecin, je ne puis le permettre. Sachez que lorsque vous pénétrez le système nerveux d'un cadavre, il existe le risque que vous soyez influencés par de l'information provenant des systèmes vitaux en dégénérescence. En d'autres termes, cela pourrait très bien entraîner votre mort. Sans oublier que ceci est totalement illégal sans une autorisation spéciale.</DIALOG>
+<DIALOG character="Jan">Obtenir l'autorisation en question serait très difficile. Nous n'en avons pas le temps.</DIALOG>
+<DIALOG character="Sharon">...</DIALOG>
+<DIALOG character="Jan">Cet homme n'est peut être pas Voyager.</DIALOG>
+<DIALOG character="Sharon">Vous voulez dire que le véritable Voyager est toujours quelque part en liberté.</DIALOG>
+<DIALOG character="Jan">Exactement</DIALOG>
+<DIALOG character="Sharon">...45 minutes. Médicalement parlant, c'est la période pendant laquelle je peux garantir votre sécurité.</DIALOG>
+<DIALOG character="Jan">J'apprécie votre coopération.</DIALOG>
+<DIALOG character="Sharon">Ne me remerciez pas encore.</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Sharon">Vous ne le savez peut-être pas, mais vous aurez besoin d'un équipement adéquat pour superviser la plongée. L'équipement de classe judiciaire de la police de la Fédération sera suffisant.</DIALOG>
+<DIALOG character="Jan">Nous avons donc à y amener le corps ?</DIALOG>
+<DIALOG character="Sharon">Ah, le transporter sans autorisation ne sera pas tâche facile. Si quelqu'un découvrait que le corps n'est plus à sa place...</DIALOG>
+<DIALOG character="Jan">Pouvons-nous gagner du temps?</DIALOG>
+<DIALOG character="Sharon">Heureusement pour nous, il commence à se faire tard...seul deux gardes et moi-même ont accès à cette salle. Ils viennent juste pour la ronde de minuit...Je pense que vous êtes tranquilles jusqu'à la prochaine qui se tiendra à 02:00.</DIALOG>
+<DIALOG character="Jan">...Il est 00:15...ça nous prendra 1/2 heure pour nous rendre au poste de police. Aller-retour 1 heure....une durée de plongée de 45 minutes maximum. Encore une fois, un timing serré.</DIALOG>
+<DIALOG character="Sharon">Encore une fois?</DIALOG>
+<DIALOG character="Jan">On sera de retour pour 02:00. Il ne s'agirait pas de vous causer des ennuis.</DIALOG>
+<DIALOG character="Sharon">Attendez!</DIALOG>
+<DIALOG character="Jan">Oui?</DIALOG>
+<DIALOG character="Sharon">Je vous accompagne.</DIALOG>
+<DIALOG character="Jan">!?</DIALOG>
+<DIALOG character="Sharon">J'ai une connaissance dans le département judiciaire, je pourrai rapidement lui expliquer qu'il s'agit d'une importante expérience.</DIALOG>
+<DIALOG character="Jan">Vous n'êtes pas obligée de vous impliquer de la sorte. Nous faire gagner du temps ici est déjà plus que suffisant.</DIALOG>
+<DIALOG character="Sharon">Je vais juste refermer la porte sans la verrouiller. Mes collègues se contentent de faire de même.</DIALOG>
+<DIALOG character="Jan">Pourquoi nous apporter votre aide?</DIALOG>
+<DIALOG character="Sharon">Je suis médecin, je ne peux simplement rester assise à rien faire pendant que vous prenez de tels risques.</DIALOG>
+<DIALOG character="Jan">Etes-vous bien certaine de ce que vous faites?</DIALOG>
+<DIALOG character="Sharon">Absolument.</DIALOG>
+<COMMENT>Poste de police d'Archon, couloir du 1er étage.</COMMENT>
+<DIALOG character="Michael">Phew...On est enfin arrivé. Il nous reste à amener le corps dans la salle de briefing...</DIALOG>
+<DIALOG character="Jan">Ouais. Mais allons y prudemment. Nous devrons être discrets une fois entrés.</DIALOG>
+<DIALOG character="Elrich">Sommes-nous supposés atteindre la salle de briefing sans être remarqués par les autres agents?</DIALOG>
+<DIALOG character="Jan">Tout à fait.</DIALOG>
+<DIALOG character="Michael">Capitaine, c'est de la folie! Même en pleine nuit, le service grouille de monde.</DIALOG>
+<DIALOG character="Meris">Ce sera assez difficile de traverser le service jusqu'à la salle de briefing sans se faire remarquer...</DIALOG>
+<DIALOG character="Bagus">Meris, comment peux-tu être si pessimiste? On trouvera bien un moyen!</DIALOG>
+<DIALOG character="Michael">...Bon, si quelqu'un nous voit, il en référera à son supérieur et c'en sera fini de notre petite ballade. Alors, j'imagine que nous n'avons pas beaucoup d'options.</DIALOG>
+<DIALOG character="Jan">...Je suis du même avis. On n'a pas beaucoup de temps, alors faisons ce pourquoi nous sommes venus!</DIALOG>
+<COMMENT>Evitant d'attirer l'attention des autres agents, ils parviennent à la salle de briefing.</COMMENT>
+<DIALOG character="Jan">On dirait que personne ne nous a vu. Ok, Michael, prépare la plongée sur le champ. Elrich, assures-toi que l'armement niveau 6 de Bagus est opérationnel.</DIALOG>
+<DIALOG character="Michael">Je m'en occupe.</DIALOG>
+<DIALOG character="Elrich">Compris.</DIALOG>
+<DIALOG character="Jan">Merci...a vous deux.</DIALOG>
+<DIALOG character="Sharon">Je vous l'ai déjà dit et vous le répète : plonger dans l'esprit d'un défunt est très dangereux. Respectez bien votre timing.</DIALOG>
+<DIALOG character="Jan">Je le ferai. Je suis désolé, nous vous causons bien des ennuis.</DIALOG>
+<DIALOG character="Sharon">Ne vous inquiétez pas pour moi. Je ne veux plus voir défiler d'autres victimes.</DIALOG>
+<COMMENT>Jan et son équipe plonge dans une reconstitution virtuelle de l'esprit de Klaus.</COMMENT>
+<DIALOG character="Jan">Cet endroit, il me rappelle quelque chose...</DIALOG>
+<DIALOG character="Michael">Pour une surprise...Ca ressemble vraiment au piège que j'ai créé. Le processus de reconstitution a du s'appuyer sur la mémoire la plus récente de Klaus. Mais je ne peux rien affirmer, ceci étant ma première expérience de plongée post-mortem...</DIALOG>
+<DIALOG character="Meris">Il semble que les données soient endommagées par endroits...</DIALOG>
+<DIALOG character="Sharon">Soyez prudents. Des parties de votre environnement disparaîtront au fur et à mesure de la décomposition des cellules. Si vous entrez dans ces endroits, il ne vous sera plus possible de vous déconnecter en toute sécurité.</DIALOG>
+<DIALOG character="Meris">Avions -nous vraiment besoin de venir dans ce genre d'endroit ?</DIALOG>
+<DIALOG character="Jan">Cette réalité virtuelle est celle de Klaus au moment de sa mort...Michael, où est Klaus en ce moment?</DIALOG>
+<DIALOG character="Michael">Pour investir ses souvenirs, vous devrez trouver son ombre.</DIALOG>
+<DIALOG character="Jan">Son ombre?</DIALOG>
+<DIALOG character="Michael">Oui, son ombre. L'ombre est l'anti-thèse du moi qui est refoulée durant la vie d'une personne. Au fur et à mesure de la décomposition des cellules, la persona de Klaus s'effacera doucement. Je pense que les sentiments qu'il a refoulés durant sa vie feront alors surface.</DIALOG>
+<DIALOG character="Jan">Où est-elle?</DIALOG>
+<DIALOG character="Michael">Je ne peux vous donner de précisions. Essayez de l'imaginer comme une ombre au sens littéral du terme.</DIALOG>
+<DIALOG character="Jan">Je vois. Y a-t-il des cas de précédents contacts réussis de ce type ?</DIALOG>
+<DIALOG character="Michael">J'ai mis la main sur une étude datant de T.C. 4400. Sur un total de 1513 plongeons post-mortem, 88 furent couronnés de succès. Les 1425 autres aboutirent à une déconnexion pour ne pas mettre en péril la vie des plongeurs. Sur les 88, 21 disent avoir vu l'ombre en question. Et de ceux-la, 3 seulement purent en sous-tirer des informations. Les 18 autres ...</DIALOG>
+<DIALOG character="Jan">Que leur est-il arrivé?</DIALOG>
+<DIALOG character="Michael">Leur esprit fut contaminé.</DIALOG>
+<DIALOG character="Meris">...</DIALOG>
+<DIALOG character="Lactis">Ca ne va pas? Ca ne vous ressemble pas. Cette histoire vous rend-elle nerveuse?</DIALOG>
+<DIALOG character="Meris">Un peu. Mais ce n'est pas...</DIALOG>
+<DIALOG character="Lactis">Oui?</DIALOG>
+<DIALOG character="Meris">Avec le développement des technologies de communication, de vastes quantités d'information peuvent être partagées par des personnes éloignées de plusieurs années-lumière de distance...avec le développement de l'UMN, même les sentiments et les émotions peuvent être partagés...Mais que la mort elle-même puisse être partagée semble un peu arrogant...</DIALOG>
+<DIALOG character="Lactis">Le pouvoir de vie et de mort devraient selon vous être laissé aux Dieux?</DIALOG>
+<DIALOG character="Meris">Pas tout à fait. Je ne sais pas s'il s'agit du pouvoir des Dieux...mais...</DIALOG>
+<DIALOG character="Lactis">Mais?</DIALOG>
+<DIALOG character="Meris">J'y ai déjà réfléchi, il y a bien longtemps et en un lieu reculé... Je me demandais, avant notre arrivée dans l'existence, notre conscience existait-elle comme partie d'un esprit omniscient? Une conscience qui existerait partout, et qui au moment où nous acceptons la vie, nous détournerait de son cercle. "Rejoindre le cercle à nouveau", tel pourrait être le vrai sens de notre existence.</DIALOG>
+<DIALOG character="Lactis">Mais on ne peut rejoindre le cercle de son vivant, c'est bien cela?</DIALOG>
+<DIALOG character="Meris">Exact. Je pensais que la seule manière possible était de rompre tout lien avec sa propre existence...En y repensant, je crois que ce que nous faisons en ce moment est une violation de la Règle d'Or.</DIALOG>
+<DIALOG character="Lactis">En tant que Realian, même ma conscience est manufacturée. Peut-être ce genre de pensées n'est-il accordé qu'aux êtres humains?</DIALOG>
+<DIALOG character="Jan">Lactis, Meris!! Vous êtes prêts?</DIALOG>
+<DIALOG character="Meris">O-oui!</DIALOG>
+<DIALOG character="Michael">Ok? Démarrage du chrono dans une minute. quoi qu'il arrive, soyez de retour dans les 40 minutes. Si nous perdons le contact, ou en cas de complications imprévues, j'effectuerai une déconnexion forçée d'ici.</DIALOG>
+<DIALOG character="Jan">Bien, que tout le monde confirme qu'il est prêt.</DIALOG>
+<DIALOG character="Meris">Prête!</DIALOG>
+<DIALOG character="Lactis">Affirmatif!</DIALOG>
+<DIALOG character="Bagus">Prêt!</DIALOG>
+<DIALOG character="Jan">Ok. L'objectif est l'ombre de Klaus. En prenant en compte le temps prévu pour son audition, il nous reste 30 minutes pour la trouver. A tous, on y va!</DIALOG>
+
+   </CHAPTER>
+
+

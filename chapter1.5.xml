@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.5" title="Réalité virtuelle, point NG-PP6-42T8" previous="1.4" next="1.6">
+   <COMMENT>Réalité virtuelle, point NG-PP6-42T8</COMMENT>
+
+   <COMMENT>Dans leur progression, Jan et son groupe parviennent à une salle ressemblant à un tombeau.</COMMENT>
+
+   <DIALOG character="Jan">Michael...Michael, tu es toujours là?</DIALOG>
+
+   <DIALOG character="Michael">Je vous suis de très près. Avez-vous trouvé les ambassadeurs?</DIALOG>
+
+   <DIALOG character="Jan">Nous sommes arrivés au point NG-PP6-42T8. Je ne perçois aucun signe des ambassadeurs. Peux-tu lancer un scan pour les localiser de là où tu es?</DIALOG>
+
+   <DIALOG character="Michael">Un petit instant...Hmmm, je perçois des signes de vie à votre niveau. Um...pouvez-vous vous déplacer dans le périmètre et confirmer votre position? Ce point doit comporter plusieurs niveaux. Les ambassadeurs ne devraient-ils pas se trouver la?</DIALOG>
+
+   <DIALOG character="Jan">...Qu'est-ce que c'est là-bas?</DIALOG>
+
+   <COMMENT>A l'intérieur de la salle, la forme d'un autel se précise. Alors que Jan touche la barrière qui l'en sépare, une secousse parcourt son corps tout entier.</COMMENT>
+
+   <DIALOG character="Jan">Bon sang!</DIALOG>
+
+   <DIALOG character="Michael">Capitaine! Qu'est-ce qui se passe?</DIALOG>
+
+   <DIALOG character="Elrich">Capitaine. C'est une alarme! Quittez immédiatement les lieux!</DIALOG>
+
+   <DIALOG character="Jan">Elrich!? Quel genre d'alarme?</DIALOG>
+
+   <DIALOG character="Elrich">Quelqu'un est en train de pirater le système. Je suis quasiment sûr qu'il s'agit du même programme qui a supervisé la reconstruction de cette salle quelques temps plus tôt! Quelque chose d'autre se trouve au point de captivité des ambassadeurs...une unité anti-intrusion?...Non, c'est différent. Un virus de niveau 4! Un programme d'extermination!</DIALOG>
+
+   <DIALOG character="Jan">Capacités d'attaques?</DIALOG>
+
+   <DIALOG character="Elrich">Mes tentatives d'analyse de l'ennemi sont contrées!! Vous êtes en danger! Déconnectez-vous tout de suite!</DIALOG>
+
+   <DIALOG character="Jan">Compris! Il semble que quelqu'un de l'extérieur soit la cause de ces perturbations...il est temps de quitter les lieux. Déconnectez-vous un par un.</DIALOG>
+
+   <DIALOG character="Meris">Capitaine?</DIALOG>
+
+   <DIALOG character="Jan">Pas de discussion. Michael, ramènes-nous.</DIALOG>
+
+   <DIALOG character="Michael">Compris. Processus de récupération amorcé. ...? ...?</DIALOG>
+
+   <DIALOG character="Jan">Quelque chose ne va pas?</DIALOG>
+
+   <DIALOG character="Meris">Capitaine...</DIALOG>
+
+   <DIALOG character="Jan">Tu auras l'occasion de donner ton avis plus tard, Meris.</DIALOG>
+
+   <DIALOG character="Meris">Il ne s'agit pas de ça...c'est que...je ne peux plus bouger.</DIALOG>
+
+   <DIALOG character="Elrich">Vos consciences sont bloquées là-bas!?</DIALOG>
+
+   <COMMENT>Devant eux, un énorme programme d'extermination apparaît et leur barre tout passage.</COMMENT>
+
+   <IMAGE src="cloture.jpg"/>
+
+   <DIALOG character="Jan">Le programme d'extermination!</DIALOG>
+
+   <DIALOG character="Elrich">Merde!</DIALOG>
+
+   <COMMENT>De retour dans la salle des opérations du poste de police d'Archon. Elrich abandonne son poste pour prendre place dans un port de connexion à l'espace virtuel. Il s'apprête à se connecter.</COMMENT>
+
+   <IMAGE src="michaelelrich.gif"/>
+
+   <DIALOG character="Elrich">Je vais me connecter depuis ici et utiliser une approche direct pour forcer votre évacuation.</DIALOG>
+
+   <DIALOG character="Michael">A-attends une seconde! Tu n'es même pas équipé! C'est de la folie d'y aller sans être armé!</DIALOG>
+
+   <DIALOG character="Elrich">Il en va de la vie du Capitaine...Et puis ce programme perturbateur m'inquiète. Si je ne le vois pas de mes propres yeux...Michael, suis ma trace et tâche de me ramener au bercail!</DIALOG>
+
+   <DIALOG character="Michael">Hé!</DIALOG>
+
+   <COMMENT>Retour à la réalité virtuelle.</COMMENT>
+
+   <DIALOG character="Michael">Capitaine? Capitaine!!</DIALOG>
+
+   <DIALOG character="Jan">Quoi?</DIALOG>
+
+   <DIALOG character="Michael">Merde, quel abruti! ...Elrich s'est connecté pour essayer de forcer manuellement votre déconnexion!</DIALOG>
+
+   <DIALOG character="Jan">Comment!?</DIALOG>
+
+   <DIALOG character="Michael">Il n'est même pas armé!...Capitaine. Une fois Elrich connecté, prenez soin de l'écarter de tout combat.</DIALOG>
+
+   <DIALOG character="Bagus">Ridicule! Totalement ridicule! Elrich n'a suivi aucun entraînement au combat! Il devrait savoir plus que quiconque ici ce que signifie de se retrouver dans une situation pareille!!</DIALOG>
+
+   <DIALOG character="Jan">..Je vois. En tout cas, une chose est certaine : une fois sorti de ce bourbier, nous aurons à reconsidérer notre organisation actuelle. La question est de savoir si les ambassadeurs tiendront le coup jusque-là.</DIALOG>
+
+   <DIALOG character="Michael">Les préparatifs de votre récupération sont terminés. Suivez les indications d'Elrich et nous trouverons bien un moyen de vous en sortir.</DIALOG>
+
+   <COMMENT>Elrich se connecte et apparaît au beau milieu d'un combat.</COMMENT>
+
+   <DIALOG character="Elrich">Capitaine!</DIALOG>
+
+   <DIALOG character="Bagus">Elrich!</DIALOG>
+
+   <DIALOG character="Jan">...C'est vraiment la chose la plus stupide que je t'ai vue faire!</DIALOG>
+
+   <DIALOG character="Elrich">Comme je vous l'ai déjà dit, ce que vous vivez est le fruit d'une attaque menée par un pirate dans cet espace. Ce qui m'inquiète le plus est que vos consciences soient bloquées ici. Je vais utiliser une approche directe pour forcer votre déconnexion. Essayez juste de vous détendre.</DIALOG>
+
+   <COMMENT>Alors qu'il essaie de s'approcher de Jan, Elrich est intercepté et effacé par le programme d'extermination.</COMMENT>
+
+   <DIALOG character="Lactis">Bon sang!</DIALOG>
+
+   <DIALOG character="Meris">!!</DIALOG>
+
+   <DIALOG character="Jan">Elrich!?</DIALOG>
+
+   <DIALOG character="Bagus">Elrich!? Elrich...Non, non, c'est impossible...</DIALOG>
+
+   <DIALOG character="Meris">...Bagus...</DIALOG>
+
+   <DIALOG character="Bagus">Meris? Ce n'est pas vrai, n'est-ce pas? Comment Elrich aurait-il pu être effacé de la sorte?...Capitaine, c'est encore une de ces hallucinations, hein? Sinon, sans opérateur, comment pourrais-je ... Non, ce n'est pas réel, ceci n'est pas réel!</DIALOG>
+
+   <COMMENT>Combat contre le programme d'extermination "Auduhmla"</COMMENT>
+
+   <DIALOG character="Michael">Que se passe-t-il? Vu d'ici, les signes vitaux d'Elrich s'estompent à vue d'oeil! Il ne peut être ...</DIALOG>
+
+   <DIALOG character="Jan">Dans quel état est-il?</DIALOG>
+
+   <DIALOG character="Michael">On est en train de l'examiner. Il semblerait qu'il fasse un arrêt cardiaque.</DIALOG>
+
+   <DIALOG character="Jan">Je vois.</DIALOG>
+
+   <DIALOG character="Michael">Elrich...</DIALOG>
+
+   <DIALOG character="Jan">L'unité de sécurité a été mise hors d'état de nuire. Notre environnement a-t-il subi d'autres modifications?</DIALOG>
+
+   <DIALOG character="Michael">L'interférence extérieure semble avoir cessée. Vous semblez également désormais libres de tout mouvement.</DIALOG>
+
+   <DIALOG character="Jan">Bien. Pouvons-nous alors procéder à l'évacuation des ambassadeurs?</DIALOG>
+
+   <DIALOG character="Michael">Maintenant qu'il n'y plus de verrouillage, je ne vois pas ce qui pourrait nous en empêcher.</DIALOG>
+
+   <DIALOG character="Jan">Compris. Nous achèverons donc la mission, ton coéquipier ne sera pas mort en vain...</DIALOG>
+
+   <DIALOG character="Michael">Quoi?</DIALOG>
+
+   <DIALOG character="Jan">Rien... Rien du tout.</DIALOG>
+
+   <COMMENT>Après la destruction du programme d'extermination, des escaliers apparaissent, descendant dans un souterrain. Les silhouettes de sept enfants et d'une femme se distinguent.</COMMENT>
+
+   <DIALOG character="Jan">Est-ce bien là? Michael!!Ouvre une voie de transmission! Nous sommes arrivés au point NG-PP6-42T8. Sortons les de là.</DIALOG>
+
+   <DIALOG character="Michael">Circuit établi avec le quartier général de l'assemblée. Chargement des modèles de pensée pour authentification... ...Authentification confirmée, il s'agit bien des Ambassadeurs Bienveillants.</DIALOG>
+
+   <DIALOG character="Jan">Ce qui signifie que les ambassadeurs sont ... des enfants?</DIALOG>
+
+   <DIALOG character="Michael">... des enfants?</DIALOG>
+
+   <DIALOG character="Meris">Pure stratégie de communication? Serait-ce là l'image qu'ils veulent donner?</DIALOG>
+
+   <DIALOG character="Jan">Je savais que ces pourparlers avaient pour but de séduire l'opinion publique, mais de là à utiliser des enfants pour un jeu si dangereux.</DIALOG>
+
+   <DIALOG character="Lactis">Nous sommes agents de police. Nous sommes là pour vous sauver. Vous allez devoir subir une déconnexion forçée, alors tâchez juste de vous détendre, OK?</DIALOG>
+
+   <DIALOG character="Eleanor">Il n'y a rien à craindre, pas de peur à avoir. Nous allons vers la Terre Promise. "Cette personne" nous l'a annoncé, n'est-ce pas? ...Oui, après cela, nous irons vers la "Terre Promise".</DIALOG>
+
+   <DIALOG character="Jan">"Cette personne"? Qui est-elle?</DIALOG>
+
+   <DIALOG character="Lactis">Capitaine, attention! Elle a un système d'autodestruction sur son collier.</DIALOG>
+
+   <IMAGE src="collier_auto_destruction.jpg"/>
+
+   <DIALOG character="Jan">Auto-destruct...? Sortez moi ces gosses de là et vite!</DIALOG>
+
+   <DIALOG character="Lactis">Bien déconnexion forcée enclenchée! Michael!! Es-tu prêt à les récupérer?</DIALOG>
+
+   <DIALOG character="Michael">Je m'en occupe! A ton signal!</DIALOG>
+
+   <DIALOG character="Lactis">Déclenchez la déconnexion dans dix secondes. Et sortez nous de là dès que vous en avez fini avec les ambassadeurs.</DIALOG>
+
+   <DIALOG character="Eleanor">"Le premier s'en alla et répandit sa coupe sur la terre : une cruelle et horrible plaie frappa les hommes qui portaient la marque de la Bête et ceux qui adoraient sa statue."</DIALOG>
+
+   <DIALOG character="Jan">Attendez!</DIALOG>
+
+   <COMMENT>Ignorant l'injonction de Jan, Eleanor active son système d'autodestruction et disparaît dans un éclair de lumière.</COMMENT>
+</CHAPTER>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.2" title="Sharon" previous="3.1" next="3.3">
+<COMMENT>Dans la maison de Sharon</COMMENT>
+<IMAGE src="01.gif"/>
+<DIALOG character="Sharon">J'ai pu identifier un échantillon de cette drogue que vous m'avez confiée...Je crois que nous avons identifié ses effets.</DIALOG>
+<DIALOG character="Jan">Je suis désolé de vous faire travailler. Je n'ai jamais eu l'intention de vous voir autant impliquée...</DIALOG>
+<DIALOG character="Sharon">Oh, ne vous excusez pas. C'est le boulot d'un médecin que de s'opposer à l'émergence de nouvelles drogues.</DIALOG>
+<DIALOG character="Jan">Je suis désolé.</DIALOG>
+<DIALOG character="Sharon">Et vous voilà encore à vous excuser. Ecoutez, tous les humains sont entraînés dans une quête. C'est à chacun de décider ce qu'il doit faire. Ce n'est pas comme si vous semiez le trouble partout où vous allez.</DIALOG>
+<DIALOG character="Jan">Je suis désol.. euh, non...Je m'excuse trop souvent, désolé. Oups, ça recommence...</DIALOG>
+<DIALOG character="Sharon">Vous savez quoi?</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Sharon">Vous êtes quelqu'un de gentil. Mais vous avez peur de blesser les gens qui vous sont proches. C'est comme si quelque chose de terrible vous était arrivé par le passé et que vous ayez fermé votre coeur.</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Sharon">J'ai été comme ça un temps, juste après la mort de mon mari. Bien que vivant dans un monde si clairement coloré, je n'avais pour consolation qu'un monde de cendres.</DIALOG>
+<DIALOG character="Jan">Sharon...</DIALOG>
+<DIALOG character="Sharon">Je suis navrée. A propos de cette drogue...ça n'est qu'une estimation. Elle n'est pas fonctionnellement différente des autres. Après administration, elle se fixe aux récepteurs dans le cerveau et cause une sensation de bien-être. Cependant...</DIALOG>
+<DIALOG character="Jan">Cependant...?</DIALOG>
+<DIALOG character="Sharon">Cette drogue a comme propriété particulière d'hyper stimuler le cortex.</DIALOG>
+<DIALOG character="Jan">Une stimulation du cortex? Ca diminuerait potentiellement la retenue d'un comportement instinctif. Est-ce la seule différence par rapport aux autres drogues?</DIALOG>
+<DIALOG character="Sharon">...Oui. Mon souci est que le peuple de La Flotte Immigrante développe de manière innée le cortex, comme les abraxiens l'ont déjà fait. La capacité à contrôler les comportements instinctifs se développe également dans l'hypothalamus. Et cette partie du cerveau produit aussi des peptides à l'origine du plaisir et du désir.</DIALOG>
+<DIALOG character="Jan">Ainsi, ça déclencherait chez le sujet une sorte de poussée d'endorphine. Vous êtes donc en train de dire que Voyager pourrait utiliser cette drogue pour décupler sa propre soif. Mais le but actuel de Voyager est de récolter les programmes ...</DIALOG>
+<DIALOG character="Sharon">...Oui, je me suis posée la question à ce sujet. Ce qu'il tentait d'accomplir par cette récolte...Alors que j'autopsiais les victimes de cette drogue, une autre pensée m'a traversée l'esprit.</DIALOG>
+<DIALOG character="Jan">Laquelle?</DIALOG>
+<DIALOG character="Sharon">L'origine du peuple abraxien. Il fut un temps où le peuple de la Flotte Immigrante nous appelait avec un nom spécial...</DIALOG>
+<DIALOG character="Jan">Un nom spécial? C'est la première fois que j'entends parler de ça.</DIALOG>
+<DIALOG character="Sharon">Ce n'est pas surprenant...Je n'en ai moi-même entendu parler qu'une seule fois, par ma grand-mère. Jusqu'aux récents incidents, je l'avais complètement oublié. Le nom qu'ils nous donnaient était ... "le peuple du Zohar."</DIALOG>
+<DIALOG character="Jan">Le peuple du Zohar!?</DIALOG>
+<DIALOG character="Sharon">Enfant, je ne comprenais pas le sens de ce nom...mais je me souviens ma grand-mère en train de me l'expliquer. Il s'agissait d'un peuple qui était uni par une même foi.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<COMMENT>Le communicateur de Jan sonne.</COMMENT>
+<DIALOG character="Jan">Qu'y a-t-il?</DIALOG>
+<DIALOG character="Meris">L'information obtenue de Veritas dépasse nos espérances!!J'ai en gros tout l'historique des Descendants de Nestorius. Et devinez qui est derrière eux!?</DIALOG>
+<DIALOG character="Jan">Attends...cette communication est-elle sécurisée?</DIALOG>
+<DIALOG character="Meris">Détendez-vous...Michael m'a monté une ligne spécifiquement prévue à cet effet. Il est impossible que quelqu'un puisse nous écouter.</DIALOG>
+<DIALOG character="Jan">Bon...alors, le patron des Descendants est ...?</DIALOG>
+<DIALOG character="Meris">...Dimitri Yuriev.</DIALOG>
+<DIALOG character="Jan">Dimitri Yuriev? Le représentant du gouvernement?</DIALOG>
+<DIALOG character="Meris">Le seul et l'unique. Pas étonnant que nous n'ayons rien trouvé sur les Descendants. L'organisation elle-même est une façade pour ses soi-disant "activités"... Elle n'a en fait jamais eu d'existence propre, et cela depuis le début.</DIALOG>
+<DIALOG character="Jan">Je vois. Ca pourrait semer la pagaille. Je vais retourner au poste immédiatement. Cette information de Veritas...doit être manipulée avec précaution. Retournes au QG, et assures-toi que tu n'es pas filée!</DIALOG>
+<DIALOG character="Meris">Entendu. Oh, Capitaine! Est-ce que le Docteur Rosas est là?</DIALOG>
+<DIALOG character="Jan">Euh, oui. Comment le sais-tu?</DIALOG>
+<DIALOG character="Meris">Juste une intuition. Pouvez-vous lui parler des données perdues du centre d'incubation?</DIALOG>
+<DIALOG character="Jan">Oh, ça...</DIALOG>
+<COMMENT>Il passe le communicateur à Sharon.</COMMENT>
+<DIALOG character="Sharon">Meris? L'équipement de l'hôpital est en maintenance, et en y repensant, je n'ai pas pu beaucoup progresser. Mais ça devrait être prêt en début de semaine prochaine. Je pourrai alors rédiger mes résultats.</DIALOG>
+<DIALOG character="Meris">Merci, Docteur Rosas. Bon, je vous verrai à la base, Capitaine.</DIALOG>
+<DIALOG character="Jan">J'en prends bonne note...Attends, avant de partir, tu pourrais me passer Michael?</DIALOG>
+<DIALOG character="Meris">Ok, je te le passe.</DIALOG>
+<DIALOG character="Michael">Ah, Capitaine! Meris vous a tout dit sur Yuriev?</DIALOG>
+<DIALOG character="Jan">Oui. Est-ce que certains des officiels du gouvernement sont au courant de cela?</DIALOG>
+<DIALOG character="Michael">...Possible. Je suis convaincu que ceux qui le savent l'ont entendu de la bouche même de Yuriev...même si nous avons été capable de découvrir la vérité, je ne pense pas que nos collègues s'en soient rendus compte.</DIALOG>
+<DIALOG character="Jan">Oui, mais maintenant que nous savons, c'est juste une question de temps avant qu'ils ne se rendent compte de nos découvertes...Jusque la, nous ne pouvons être en mesure d'engager des actions.</DIALOG>
+<DIALOG character="Michael">Reçu. Nous rentrerons aussitôt que possible.</DIALOG>
+<DIALOG character="Jan">Et à propos de Meris...</DIALOG>
+<DIALOG character="Michael">Je me doutais que vous vous soucieriez d'elle! Vous savez, parfois elle semble aussi lunatique qu'une petite fille, mais dans le fond, c'est une jeune femme sur qui on peut compter. Je me demande si elle a raison de toujours vouloir agir à la mesure de ses convictions....Mais c'est elle qui tient les rênes de toute façon, alors...</DIALOG>
+<DIALOG character="Jan">...Accordes moi une faveur. Continues de l'aider du mieux que tu peux.</DIALOG>
+<DIALOG character="Michael">Pas de problème! Voilà bien notre Capitaine. Quoi qu'il arrive, vous vous souciez toujours de vos subordonnés! On se revoit au poste!</DIALOG>
+<COMMENT>Jan coupe la communication et s'assied sur une chaise.</COMMENT>
+<DIALOG character="Jan">...Pfouh</DIALOG>
+<DIALOG character="Sharon">Vous êtes un homme très occupé.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Sharon">Qu'est-ce qui ne va pas?</DIALOG>
+<DIALOG character="Jan">Ce n'est rien, je ne serai pas tranquille tant que je ne saurai pas Meris et Michael rentrés sains et saufs.</DIALOG>
+<DIALOG character="Sharon">Vous vous souciez vraiment de vos subordonnés. Bien, pourquoi ne pas avoir une conversation plus légère histoire de se détendre?</DIALOG>
+<DIALOG character="Jan">Une conversation légère? Comme quoi?</DIALOG>
+<DIALOG character="Sharon">Parler...de tout et de rien...</DIALOG>
+<DIALOG character="Jan">Je vois. Bon, il y a quelque chose que je voulais vous demander. Votre prénom est bien Sharon?</DIALOG>
+<DIALOG character="Sharon">Mon prénom? C'est un sujet intéressant tout d'un coup?</DIALOG>
+<DIALOG character="Jan">J'ai entendu dire que c'était un nom très ancien. Le nom d'une terre très ancienne...et très belle.</DIALOG>
+<DIALOG character="Sharon">Oui, c'est bien l'origine de ce nom.</DIALOG>
+<DIALOG character="Jan">Il est écrit que cette terre était une terre de paix éternelle. Que de tout le désert, elle était le seul endroit où de belles fleurs colorées poussaient.</DIALOG>
+<DIALOG character="Sharon">Hé...quand vous y mettez les formes, vous me donner envie de sourire.</DIALOG>
+<DIALOG character="Jan">Quand je suis près de vous...vous et Joaquin..je suis heureux. Ce...ce monde de cendres dont vous parliez...c'est comme si j'étais en train d'en sortir.</DIALOG>
+<DIALOG character="Sharon">...</DIALOG>
+<DIALOG character="Jan">Même moi, je ne comprends pas complètement cette impression. Mais...</DIALOG>
+<DIALOG character="Sharon">Hé, ça ressemble à une déclaration d'amour ça ...</DIALOG>
+<DIALOG character="Jan">Pour le reste du monde, peut-être que ça l'est. Désolé, je ne sais pas très bien exprimer...</DIALOG>
+<DIALOG character="Sharon">...Vous êtes désolé?</DIALOG>
+<DIALOG character="Jan">Bon sang, ça recommence...</DIALOG>
+<DIALOG character="Sharon">Hé bien ... sans vous excuser, nous laisseriez-vous, Joaquin et moi, veiller sur vous?</DIALOG>
+<IMAGE src="02.gif"/>
+<DIALOG character="Jan">...!</DIALOG>
+<DIALOG character="Sharon">Jour et nuit?</DIALOG>
+<DIALOG character="Jan">Oui...s'il vous plaît.</DIALOG>
+<COMMENT>Poste de police de la Fédération, bureau du Chef de police</COMMENT>
+<DIALOG character="McCollum">Tu vas te marier!? Toi!?</DIALOG>
+<DIALOG character="Jan">Vous n'avez pas l'air enthousiaste.</DIALOG>
+<DIALOG character="McCollum">Sans vouloir t'offenser, c'est assez surprenant. Tu as toujours maintenu une certaine distance avec les gens qui t'entouraient après ce qui est arrivé à tes parents.</DIALOG>
+<DIALOG character="Jan">Chef...</DIALOG>
+<DIALOG character="McCollum">Chacun a sa manière d'être. Tu suis une autre voie que celle de tes parents...Je suis sûr que tu feras tout pour que ça marche.</DIALOG>
+<DIALOG character="Jan">Merci</DIALOG>
+<DIALOG character="MCCollum">Le Docteur Rosas...J'ai entendu dire qu'elle avait un petit garçon...</DIALOG>
+<DIALOG character="Jan">Oui. Pourquoi m'en parler?</DIALOG>
+<DIALOG character="McCollum">Son père avait le même grade et le même âge que toi lorsqu'il est mort.</DIALOG>
+<DIALOG character="Jan">Vous avez dit que je suivais une autre voie que celle de mon père. Je compte bien survivre.</DIALOG>
+<DIALOG character="McCollum">Je l'espère...bonne chance pour l'avenir.</DIALOG>
+<DIALOG character="Jan">Merci beaucoup.</DIALOG>
+
+</CHAPTER>
+

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.12" title="Le contrat" previous="3.11" next="3.13">
+<COMMENT>Jan et les autres poursuivent Elrich, jusqu'à ce que celui-ci leur apparaisse à nouveau.</COMMENT>
+<DIALOG character="Meris">Elrich...</DIALOG>
+<DIALOG character="Elrich">...</DIALOG>
+<DIALOG character="Meris">Répond-moi...Peut-être pouvons-nous te protéger d'U-DO...?</DIALOG>
+<DIALOG character="Bagus">Elrich! Dis nous la vérité! Tu n'as jamais vraiment voulu devenir Voyager, n'est-ce pas?</DIALOG>
+<DIALOG character="Elrich">...Je n'en sais rien. Peut-être que je voulais simplement ... m'enfuir.</DIALOG>
+<DIALOG character="Meris">T'enfuir...?</DIALOG>
+<DIALOG character="Elrich">U-DO a provoqué chez moi des visions de mort. Je voulais juste fuir tout cela. Cette malformation innée, ce sentiment constant de solitude...et les choses enfouies au plus profond de cette solitude. J'ai choisi de devenir le terminal d'U-DO pour échapper à tout cela.</DIALOG>
+<DIALOG character="Meris">C'est tout que ce tu as pour te justifier? Je n'arrive pas à croire que tu aies endossé ce rôle uniquement pour ces raisons là!</DIALOG>
+<DIALOG character="Elrich">...Heh. Tu es vraiment quelqu'un de gentil. Si je t'avais rencontré 20 ans plus tôt, peut-être aurais-je choisi une autre voie...mais, le destin est cruel. Et c'est Yuriev que j'ai croisé en premier.</DIALOG>
+<DIALOG character="Jan">Toi et Yuriev...motivations différentes mais même objectif, hein?</DIALOG>
+<DIALOG character="Elrich">Oui...Je sentais que le sens de ma vie s'effaçait au sein du réseau. J'étais surtout effrayé de disparaître dans l'inconscient collectif. Dimitri Yuriev. ...Il était mon seul compagnon, la seule personne qui comprenait vraiment mes sentiments.</DIALOG>
+<DIALOG character="Bagus">...Ton seul compagnon!! N'étais-je pas moi aussi ton compagnon?</DIALOG>
+<DIALOG character="Elrich">Bagus...tu es entouré de nombreux amis merveilleux, n'est-ce pas? Tu ... tu es trop bien pour moi...</DIALOG>
+<DIALOG character="Bagus">...</DIALOG>
+<DIALOG character="Elrich">Bien, il est presque temps pour moi de partir. Il semble que "J" 'ai commencé à agir... "J" 'ai planifié d'utiliser le sang du peuple du Zohar pour remplir mon contrat avec U-DO.</DIALOG>
+<DIALOG character="Meris">Qu'est ce que tu racontes? Tu es ici avec nous en ce moment même, non?</DIALOG>
+<DIALOG character="Elrich">Le moi que vous avez devant vous n'est qu'une partie de ma conscience. Lorsque l'autre "moi" se manifestera pour de bon, il est probable que ce moi-ci disparaîtra à jamais.</DIALOG>
+<DIALOG character="Jan">Une dernière question.</DIALOG>
+<DIALOG character="Elrich">?</DIALOG>
+<DIALOG character="Jan">U-DO est-il vraiment la fin de toute chose?</DIALOG>
+<DIALOG character="Elrich">Hé bien, cela est très subjectif. C'est ce qu'il m'a paru à moi, mais chacun a sa propre raison de vivre... Dans un monde régit par le vide absolu, la mort est donnée équitablement à chacun. Voyager existe pour échapper à cela...</DIALOG>
+<COMMENT>Elrich disparaît.</COMMENT>
+<DIALOG character="Bagus">Elrich...</DIALOG>
+<DIALOG character="Meris">...Bagus.</DIALOG>
+<DIALOG character="Bagus">...Capitaine?</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Bagus">Vous aimiez le Chef Mc Collum comme un père ... n'ai-je pas raison?</DIALOG>
+<DIALOG character="Jan">Oui</DIALOG>
+<DIALOG character="Bagus">La famille ... un concept étranger aux robots... Je crois que je considérais Elrich comme un père.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Lactis">Bagus. Tu aimais Elrich à ce point?</DIALOG>
+<DIALOG character="Bagus">Oui. Quoi que soit Voyager, Elrich sera toujours Elrich pour moi! Comme il m'a protégé par le passé, je dois à mon tour le protéger!</DIALOG>
+<DIALOG character="Lactis">Protéger ... Elrich? A-Ah, ahh-!!</DIALOG>
+<DIALOG character="Jan">Qu'est ce qui se passe?</DIALOG>
+<DIALOG character="Voix mystérieuse">Protèges... le!</DIALOG>
+<DIALOG character="Lactis">...Qui êtes-vous?</DIALOG>
+<DIALOG character="Meris">Q-quoi?</DIALOG>
+<DIALOG character="Voix mystérieuse">Tu ne peux arrêter Voyager pour l'instant. Lactis... protèges "Canaan" de toute ta force!</DIALOG>
+<DIALOG character="Lactis">Qui? Je ne connais personne du nom de "Canaan"!!</DIALOG>
+<DIALOG character="Voix mystérieuse">"Canaan" est ... à l'intérieur de toi...</DIALOG>
+<COMMENT>Lactis s'effondre.</COMMENT>
+<DIALOG character="Meris">!?</DIALOG>
+<DIALOG character="Jan">Lactis!! Qu'y a-t-il? A qui parles-tu?</DIALOG>
+<COMMENT>Jan accourt vers Lactis, et l'aide à se relever.</COMMENT>
+<DIALOG character="Jan">...Lactis?</DIALOG>
+<DIALOG character="Lactis">Je suis désolé, Capitaine.</DIALOG>
+<DIALOG character="Jan">...Est-ce que ça va?</DIALOG>
+<DIALOG character="Lactis">Oui. Peut-être qu'une sorte de programme est venu interférer avec mon système nerveux autonome... Peu importe, si Elrich a dit vrai, Voyager est déjà en train de préparer son prochain coup...</DIALOG>
+<DIALOG character="Jan">Oui, mais où ...?</DIALOG>
+<DIALOG character="Lactis">D'après les dires d'Elrich, j'ai le sentiment qu'il essaie d'utiliser le pouvoir du Zohar pour remplir son contrat avec U-DO... Il recherche probablement un endroit dans lequel serait concentré un nombre important de personnes du peuple du Zohar, et  projette d'obtenir une large réserve de drogue cérébrale...</DIALOG>
+<DIALOG character="Jan">...Bon sang!! Le Conseil des Pèlerins!</DIALOG>
+<DIALOG character="Meris">Hé bien quoi?</DIALOG>
+<DIALOG character="Jan">Sharon devait assister au Conseil des Pèlerins!</DIALOG>
+<DIALOG character="Meris">Le Docteur Rosas? Mais pourquoi?</DIALOG>
+<DIALOG character="Jan">...Elle aussi est issue du peuple du Zohar. Nous devons l'empêcher d'y aller!</DIALOG>
+</CHAPTER>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.11" title="Elrich" previous="3.10" next="3.12">
+<COMMENT>Cathédrale, siège du Conseil des Pèlerins</COMMENT>
+<COMMENT>Sergius tient un discours devant une assemblée.</COMMENT>
+<DIALOG character="Sergius">... Lorsque Julius a pris ses fonctions papales, notre Flotte Immigrante a été forcée de suivre la voie de la faiblesse de par sa couardise! Les infidèles de la Fédération ne savent pas que cette vague de faiblesse s'est elle-même affaiblie! Maintenant, à l'heure où je vous parle, ils planifient d'arracher le pouvoir latent du Zohar de la terre sainte d'Abraxas. Mais il n'y a pas de crainte à avoir. Car le Zohar sera toujours avec nous!</DIALOG>
+<COMMENT>Le Zohar s'élève derrière Sergius. Il en émane une lumière dorée qui investit tout l'intérieur de la cathédrale.</COMMENT>
+<IMAGE src="2-01.gif"/>
+<DIALOG character="Sharon">Le Zohar...Quelque part, je le sens comme si ... en un temps lointain...cette lumière...</DIALOG>
+<COMMENT>Jan et les autres sont dans une pièce ne contenant qu'un seul port de plongée. D'étranges écrits parsèment les murs de la pièce.</COMMENT>
+<DIALOG character="Jan">Elrich...Non, Voyager...</DIALOG>
+<DIALOG character="Lactis">On dirait qu'il vient juste de plonger...</DIALOG>
+<DIALOG character="Meris">Si seulement Michael était encore la...Bagus!! Ne peux-tu, par je ne sais quel moyen, forcer Elrich à se déconnecter?</DIALOG>
+<IMAGE src="2-02.gif"/>
+<DIALOG character="Bagus">C'est-ce que j'essaie de faire! Mais le module de plongée refuse ma demande d'accès! Il a du trafiquer les paramètres de déconnexion...</DIALOG>
+<DIALOG character="Jan">Quel raison pouvait-il bien avoir d'y retourner...Pourquoi!?</DIALOG>
+<DIALOG character="Meris">Capitaine, ces écrits ...</DIALOG>
+<DIALOG character="Jan">Hé bien quoi? Sont-ils cohérents avec ceux laissés dans le cas des autres victimes!?</DIALOG>
+<DIALOG character="Meris">Cette fois-ci...il y en a deux!!</DIALOG>
+<DIALOG character="Lactis">Cela signifie-t-il deux autres victimes?</DIALOG>
+<DIALOG character="Jan">"le sixième répandit sa coupe sur le grand fleuve Euphrate, et ses eaux s'asséchèrent pour préparer la route des rois qui viennent d'Orient" Et aussi ""Le septième répandit sa coupe dans les airs, et du Temple, venant du trône, sortit une voix forte qui disait : C'en est fait !."</DIALOG>
+<DIALOG character="Meris">...Elrich n'a jamais eu l'intention de se déconnecter pour revenir dans l'espace réel...se pourrait-il qu'il ai déjà tué tous ces gens?</DIALOG>
+<DIALOG character="Jan">Ca ne peut-être...Cette écriture révèlerait-elle son intention de continuer à tuer au sein même de l'UMN...? Le corps d'Elrich commence à se détériorer. Il sera bientôt trop tard. Préparez-vous pour une plongée immédiate. Notre objectif est d"appréhender Voyager...je veux dire, Elrich!</DIALOG>
+<COMMENT>Réalité Virtuelle : cerveau d'Elrich</COMMENT>
+<DIALOG character="Jan">Que...mon champ de vision n'arrête pas de changer! Serait-ce l'influence des drogues résiduelles de son système?</DIALOG>
+<DIALOG character="Lactis">...Je pense oui. Si nous restons trop longtemps dans cet endroit, nous pourrions souffrir d' effets similaires sur nos systèmes limbiques.</DIALOG>
+<DIALOG character="Meris">Là-bas... qu'est-ce que c'est?</DIALOG>
+<COMMENT>Meris s'approche d'un coin avec précaution. Là, elle y trouve les consciences d'un nombre incalculable de personnes, sous la forme d'embryons humains.</COMMENT>
+<DIALOG character="Meris">!!</DIALOG>
+<DIALOG character="Lactis">C'est ici ... qu'il a entreposé toutes les âmes des personnes qu'il a tuées...Y a-t-il passe-temps plus malsain?</DIALOG>
+<DIALOG character="Bagus">...</DIALOG>
+<DIALOG character="Jan">Bagus! Je veux que tu sécurises une issue de secours!</DIALOG>
+<DIALOG character="Bagus">...</DIALOG>
+<DIALOG character="Jan">Bagus!! Tu entends ce que je te dis!?</DIALOG>
+<DIALOG character="Bagus">Oui, je vous écoute! Mais...sommes-nous bien certains qu...qu'Elrich et Voyager ne font qu'un?</DIALOG>
+<DIALOG character="Jan">Maintenant que Michael n'est plus, nous n'avons plus d'opérateur externe en soutien. Toi seul peut t'occuper de cette tâche.</DIALOG>
+<DIALOG character="Meris">...Bagus. Avant tout ceci, j'aurais ressenti la même chose que toi... mais le Elrich que tu as connu n'existe plus. Tu dois nous aider, en mémoire de l'Elrich que tu as connu et aimé.</DIALOG>
+<DIALOG character="Bagus">Je comprends. Je vais allonger la portée de mes senseurs et sécuriser une voie de retraite...</DIALOG>
+<DIALOG character="Meris">Bagus, courage...</DIALOG>
+<DIALOG character="Jan">Lactis!</DIALOG>
+<DIALOG character="Lactis">Oui, Capitaine!</DIALOG>
+<DIALOG character="Jan">Vérifies les programmes d'auto diagnostique... en particulier, recherches les circuits émotionnels qui n'auraient pas encore été corrompus par la conscience de Voyager... Le Elrich qui prenait soin de Bagus, il est possible qu'il ai encore quelques tours dans son sac.</DIALOG>
+<DIALOG character="Lactis">Compris</DIALOG>
+<COMMENT>Elrich apparaît.</COMMENT>
+<DIALOG character="Elrich">Merci de votre venue...</DIALOG>
+<DIALOG character="Bagus">Elrich!</DIALOG>
+<DIALOG character="Lactis">Pourquoi es-tu là?</DIALOG>
+<DIALOG character="Elrich">Je...En fait, je crois que j'attendais votre visite depuis un bon moment. Afin de vous faire part de la vérité...</DIALOG>
+<DIALOG character="Jan">La vérité? Voyager...non, Elrich. Il y a quelque chose que je dois savoir.</DIALOG>
+<DIALOG character="Elrich">Je comprends. Vous voulez savoir si oui ou non je suis réellement Voyager, pas vrai? ...C'est difficile à expliquer. En tout honnêteté, je suis moi-même un peu perdu. Il est vrai que Voyager existe. Cela étant dit, il n'est pas faux de dire que je suis Voyager. Pourtant, l'homme que vous connaissez est quelque peu différent, n'est-ce pas?</DIALOG>
+<DIALOG character="Jan">...Qu'essaies-tu de nous dire ?</DIALOG>
+<DIALOG character="Elrich">Je dois vous parler des origines de Voyager...Vous connaissez déjà probablement l'existence de ma malformation congénitale...Hé bien, déjà enfant, je compensais cela en créant de la mémoire de travail au sein même de la conscience de l'UMN. La mer infinie du réseau. Avec une énergie éblouissante d'informations la traversant. Elle brillait avec la beauté d'un joyau... Sans que je m'en aperçoive, j'étais devenu esclave de l'information. Vous savez ce qui arrive dans ce cas la?</DIALOG>
+<DIALOG character="Jan">A te voir aujourd'hui, je pense avoir saisi. Tu es devenu un accroc du réseau...</DIALOG>
+<DIALOG character="Elrich">Tout juste... je me suis affranchi de tout ce qui pouvait m'empêcher d'épancher ma soif d'information. Je ne pouvais stopper ma curiosité grandissante. Puis j'ai découvert cette existence.</DIALOG>
+<DIALOG character="Jan">Cette existence? Quelle existence?</DIALOG>
+<DIALOG character="Elrich">U-DO...</DIALOG>
+<DIALOG character="Jan">...U-DO?</DIALOG>
+<DIALOG character="Elrich">Tout a commencé par un événement banal. Conduit par ma curiosité, je naviguai parmi les données racines de l'UMN.</DIALOG>
+<DIALOG character="Lactis">Vous voulez dire que vous vous êtes introduit au coeur même de la structure du noyau de l'UMN? ...N'est-ce pas dangereux?</DIALOG>
+<DIALOG character="Elrich">Ca l'est. Je savais que la chose était stupide. Cet endroit est une boite de Pandore qui ne devrait jamais être ouverte par les humains... A chaque seconde qui passait, la structure du programme évoluait. Essayant de comprendre cela, je plongeais encore et encore, jour et nuit, jusqu'à ne plus reconnaître ma propre existence. Il y avait quelque chose entre moi et cette lointaine structure... Je devins persuadé que cela était comme 'la bordure du monde'.</DIALOG>
+<DIALOG character="Jan">Qu'était U-DO? En as-tu pris possession?</DIALOG>
+<DIALOG character="Elrich">Bien sûr que non! Il n'existe rien qui puisse contenir U-DO...Non, il était 'la bordure du monde'.</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Elrich">Ce fut U-DO qui me convainquit. U-DO était la vérité derrière l'information négative flottant au sein de l'UMN. L'incapacité à le comprendre était insupportable pour l'accroc au réseau que j'étais. J'étais constamment tourmenté par des visions cauchemardesques de U-DO.</DIALOG>
+<DIALOG character="Jan">L'anti-existence de la vérité se terre dans les profondeurs de la structure de l'UMN...mais pour les personnes vivant leur vie ordinaire, il n'y a rien de plus qu'un espace vide au delà de leur environnement...Est-ce là ce que tu as réalisé?</DIALOG>
+<DIALOG character="Elrich">Oui. Et alors, j'eus des cauchemars. L'UMN est une partie d'un système de réseaux qui applique les règles régissant l'univers dans lequel nous vivons...pas l'univers, mais l'existence que nous voyons comme l'univers. Que feriez-vous si une partie de ce système représentait la mort de ce monde?</DIALOG>
+<DIALOG character="Jan">...La mort du monde?</DIALOG>
+<DIALOG character="Elrich">U-DO est cette chose. Un choix s'offrit à moi... rester le témoin passif d'un monde en perdition, ou devenir quelqu'un pouvant apporter de nouvelles possibilités à celui-ci...il ne m'a pas fallu longtemps pour décider. En devenant le terminal de U-DO - ses yeux et ses oreilles - j'essayais d'échapper à la mort que j'avais vue à la fin du monde. Voyager est un voyageur naviguant sur la mer du réseau. Pour m'être lié à U-DO...je fus amené à parler à une certaine personne...</DIALOG>
+<DIALOG character="Jan">Dimitri Yuriev...</DIALOG>
+<DIALOG character="Elrich">Yuriev était le premier 'Voyager'. Lui aussi était tourmenté par U-DO et la bordure du monde. ...En y repensant, il serait plus exact de dire 'l'origine du monde'.</DIALOG>
+<DIALOG character="Meris">...Qu-qu'es-tu en train de dire? Est-ce que l'UMN n'est pas supposé donner de l'espoir à l'humanité...!</DIALOG>
+<DIALOG character="Bagus">Ce n'est pas vrai! Elrich, dis que tout ceci n'est pas vrai!</DIALOG>
+<DIALOG character="Elrich">Bagus, ce que j'accomplis est pour le salut de tous... En devenant Voyager, je peux donner au monde le repos, sans qu'il ait à supporter la vision d'horreur de la mort. Je veux que tu le comprennes ...</DIALOG>
+<COMMENT>Elrich disparaît.</COMMENT>
+</CHAPTER>
+

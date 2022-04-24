@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.1" title="Réalité virtuelle, le piège tendu par Michael" previous="2.0" next="2.2">
+      <COMMENT>Jan et son équipe se dirigent vers l'emplacement du piège.</COMMENT>
+
+      <IMAGE src="trapspace.gif"/>
+
+      <DIALOG character="Jan">Quelles sont les coordonnées de notre position actuelle?</DIALOG>
+
+      <DIALOG character="Michael">Point B-254-301. Le point de déconnexion leurre est une position isolée environ 3 km au nord.</DIALOG>
+
+      <DIALOG character="Lactis">Est-ce que cette horrible composition de couleurs est votre idée?</DIALOG>
+
+      <DIALOG character="Michael">Tu n'es décidément jamais satisfait...C'est supposé distraire le suspect pendant que je l'attire vers notre fausse issue. C'est un motif oriental de l'ère de Lost Jerusalem.</DIALOG>
+
+      <DIALOG character="Meris">Où donc as-tu déniché cette antiquité? Il va sûrement rebrousser chemin lorsqu'il va respirer cette odeur.</DIALOG>
+
+      <DIALOG character="Michael">Quelle perspicacité! Je suis heureux que tu saisisses.</DIALOG>
+
+      <DIALOG character="Jan">...3 km au nord. Ce ne sera pas long avant qu'il ne découvre la supercherie. On a pas le temps de traîner!</DIALOG>
+
+      <DIALOG character="Meris">Bien Capitaine!</DIALOG>
+
+      <DIALOG character="Jan">As-tu une vision précise du parcours menant au point leurre?</DIALOG>
+
+      <DIALOG character="Michael">Vous devriez savoir que les machinations de sieur Michael sont parfaites...du moins, c'est ce que j'aimerais pouvoir dire...</DIALOG>
+
+      <DIALOG character="Jan">Pourquoi? Il y a un problème?</DIALOG>
+
+      <DIALOG character="Michael">Nos informations sur les capacités de Voyager sont très insuffisantes. J'ai parlé de 40 minutes, mais s'il a déjà réalisé qu'il s'agit d'un piège...</DIALOG>
+
+      <DIALOG character="Jan">Que penses-tu qu'il fera alors?</DIALOG>
+
+      <DIALOG character="Michael">S'il avait préparé une embuscade, vous seriez déjà au courant. Dans le pire des cas, vous auriez à combattre une unité anti-intrusion. De toute façon, vous devriez vous préparer à cette éventualité.</DIALOG>
+
+      <DIALOG character="Jan">Entièrement d'accord. Bagus!! Prends la tête. Paramètres la portée de tes senseurs à 500 mètres. Lactis sécurisera une issue de secours. Attention à une reconstruction inopinée de l'espace virtuel. En avant!</DIALOG>
+
+      <COMMENT>Plus tard...</COMMENT>
+
+      <DIALOG character="Michael">...Capitaine? Vous m'entendez!?</DIALOG>
+
+      <DIALOG character="Jan">Quelque chose ne va pas?</DIALOG>
+
+      <DIALOG character="Michael">La surveillance du périmètre autour du point leurre a détecté une tentative d'accès du suspect. Le plan se déroule comme prévu.</DIALOG>
+
+      <DIALOG character="Jan">Je vois. Continues la surveillance.</DIALOG>
+
+      <DIALOG character="Bagus">Hein? Que...?</DIALOG>
+
+      <DIALOG character="Jan">Qu'est-ce qui se passe?</DIALOG>
+
+      <DIALOG character="Bagus">Mes senseurs détectent une reprogrammation de l'espace virtuel!</DIALOG>
+
+      <DIALOG character="Jan">On y est! Michael, confirmes-tu la reprogrammation ?</DIALOG>
+
+      <DIALOG character="Michael">Attendez, quelque chose de bizarre est ...</DIALOG>
+
+      <DIALOG character="Elrich">Que diable...!?</DIALOG>
+
+      <DIALOG character="Jan">Q'est-ce qui ne va pas? Elrich!</DIALOG>
+
+      <DIALOG character="Elrich">Interférence dans l'espace virtuel!</DIALOG>
+
+      <DIALOG character="Michael">Qu'est-ce que tu dis?</DIALOG>
+
+      <DIALOG character="Elrich">Le programme est réécrit à une très grande vitesse!</DIALOG>
+
+      <DIALOG character="Michael">Impossible! Ne peut-on rien faire à notre niveau?</DIALOG>
+
+      <DIALOG character="Elrich">C'est inutile, je ne peux pas le patcher aussi vite! De nombreuses unités anti-intrusion apparaissent. Capitaine, préparez vous au combat!</DIALOG>
+
+      <DIALOG character="Jan">Elrich! La connexion a des latences!</DIALOG>
+
+      <DIALOG character="Michael">...Capitaine. Je ... crois que le délai est causé par quelqu'un interceptant la connexion. Je vais tenter de me connecter...depuis le terminal de l'ordinateur...</DIALOG>
+
+      <DIALOG character="Jan">Compris...nous devrons donc atteindre la paramètre sans compter sur votre assistance. Fais en sorte de contenir les unités anti-intrusion avec des contre-mesures.</DIALOG>
+
+      <DIALOG character="Michael">Bien Capitaine! J'essaierai d'assurer, le temps pour vous d'atteindre la frontière du périmètre.</DIALOG>
+
+      <DIALOG character="Jan">Combien de temps pour les contre-mesures?</DIALOG>
+
+      <DIALOG character="Michael">Pour une préparation complète, environ 20 minutes...dans 20 minutes, je serai en mesure de les lâcher.</DIALOG>
+
+      <DIALOG character="Jan">Tu as 15 minutes.</DIALOG>
+
+      <DIALOG character="Michael">Mais ... c'est impossible.</DIALOG>
+
+      <DIALOG character="Jan">Es-tu en train de me dire que même toi, tu n'es pas capable de faire ça?</DIALOG>
+
+      <DIALOG character="Michael">Bien sûr que non! Ce sera prêt dans 14mn et 59 s!</DIALOG>
+
+      <DIALOG character="Jan">Alors, vas-y!</DIALOG>
+
+      <COMMENT>Jan atteint le périmètre et s'assied devant le terminal.</COMMENT>
+
+      <DIALOG character="Jan">Michael, tu m'entends?</DIALOG>
+
+      <DIALOG character="Michael">Vous êtes parvenus au périmètre! Bien joué!</DIALOG>
+
+      <DIALOG character="Jan">Où en sont les contre-mesures?</DIALOG>
+
+      <DIALOG character="Michael">Prêtes à être lâchées dans 3 mn. Ce sera tout juste suffisant pour vous maintenir hors d'atteinte un moment, n'espérez pas plus...s'il tentait une nouvelle reprogrammation...</DIALOG>
+
+      <DIALOG character="Jan">Ca suffira, tu as bien bossé. Quel est la situation actuelle des unités anti-intrusion?</DIALOG>
+
+      <DIALOG character="Michael">Je les ai perdues de vue très brièvement, mais ai réussi à retrouver leurs traces.</DIALOG>
+
+      <DIALOG character="Jan">Je vois. Peux-tu nous indiquer leur direction?</DIALOG>
+
+      <DIALOG character="Michael">Elrich y travaille. Elrich?</DIALOG>
+
+      <DIALOG character="Elrich">Capitaine, elles sont extrêmement calmes.</DIALOG>
+
+      <DIALOG character="Jan">Je n'aime pas beaucoup ça. Regardes si certaines sont dissimulées à proximité.</DIALOG>
+
+      <DIALOG character="Elrich">Ok. Pour l'instant, je ne vois aucune unité dans votre secteur. Elles se déplacent et se dispersent à une vitesse très importante.</DIALOG>
+
+      <DIALOG character="Meris">Attendez une minute, cela signifie-t-il ...</DIALOG>
+
+      <DIALOG character="Bagus">...que si nous suivons ces unités, nous trouverons notre suspect!</DIALOG>
+
+      <DIALOG character="Lactis">...Capitaine, jetez un oeil là-dessus.</DIALOG>
+
+      <COMMENT>Un senseur vibre au loin.</COMMENT>
+
+      <DIALOG character="Jan">Michael, un des senseurs du périmètre réagit, la cible doit être proche.</DIALOG>
+
+      <DIALOG character="Meris">Comme pour Hansel et Graetel, nous suivons notre mie de pain.</DIALOG>
+
+      <DIALOG character="Michael">Même s'il sait que c'est un piège, il devra se replier à partir du point de déconnexion que nous avons utilisé. Il est à nous!</DIALOG>
+
+      <DIALOG character="Jan">...</DIALOG>
+
+      <DIALOG character="Michael">J'ai restauré le signal de communication. Je devrais pouvoir vous contacter même si vous vous éloignez de ce terminal. Je vous recontacterai si j'ai du nouveau.</DIALOG>
+
+      <DIALOG character="Jan">Lactis...</DIALOG>
+
+      <DIALOG character="Lactis">Oui?</DIALOG>
+
+      <DIALOG character="Jan">Ne trouves-tu pas que quelque chose d'étrange se trame ici?</DIALOG>
+
+      <DIALOG character="Lactis">C'est un travail un peu négligé de la part de Voyager.</DIALOG>
+
+      <DIALOG character="Jan">Je suis d'accord. Des unités anti-intrusion ont été dispersées, mais elles ont laissé des traces de leur passage. Un vrai travail d'amateur.</DIALOG>
+
+      <DIALOG character="Lactis">Vous ne pensez donc pas que nous ayons a faire à Voyager?</DIALOG>
+
+      <DIALOG character="Jan">Ou alors il nous mène en bateau.</DIALOG>
+
+      <DIALOG character="Lactis">De toute manière, il n'y a pas à hésiter. Nous devons nous dépêcher.</DIALOG>
+
+      <DIALOG character="Jan">Tu as raison.</DIALOG>
+
+      <COMMENT>Jan et son équipe croise le chemin d'une importante unité anti-intrusion. Combat contre Garm.</COMMENT>
+
+      <DIALOG character="Bagus">Cette unité était énorme.</DIALOG>
+
+      <DIALOG character="Jan">Trop lente pour venir de Voyager. Comme je le pensais, ça doit...</DIALOG>
+
+      <COMMENT>De la forme inanimée de Garm émerge l'ombre d'une personne.</COMMENT>
+
+      <DIALOG character="Meris">Capitaine, regardez cette ombre!</DIALOG>
+
+      <DIALOG character="Lactis">Est-ce Voyager?</DIALOG>
+
+      <DIALOG character="Jan">Michael, un visage apparaît ici, tu confirmes?</DIALOG>
+
+      <DIALOG character="Michael">...</DIALOG>
+
+      <DIALOG character="Jan">Michael! Tu m'entends?</DIALOG>
+
+      <DIALOG character="Meris">Capitaine, suivons-là! Elle s'en va...</DIALOG>
+
+      <DIALOG character="Jan">Qu'est-ce qui se passe, bordel? La cible est en mouvement! Au rapport!</DIALOG>
+
+      <DIALOG character="Michael">C-capitaine! Une importante nouvelle vient de tomber ici!</DIALOG>
+
+      <DIALOG character="Jan">Quoi?</DIALOG>
+
+      <DIALOG character="Michael">Selon les dires de la police d'Archon, ils auraient localisé le suspect!</DIALOG>
+
+      <DIALOG character="Jan">S'agit-il de Voyager?</DIALOG>
+
+      <DIALOG character="Michael">Cela n'est pas encore confirmé, mais nous avons son identité.</DIALOG>
+
+      <DIALOG character="Jan">De qui s'agit-il?</DIALOG>
+
+      <DIALOG character="Michael">C'est...</DIALOG>
+
+      <DIALOG character="Jan">Qui? Répond-moi !</DIALOG>
+
+      <DIALOG character="Michael">Il se prénomme Klaus Thole...</DIALOG>
+
+      <DIALOG character="Jan">Thole? Un rapport avec la Fondation ?</DIALOG>
+
+      <DIALOG character="Michael">C'est le fils d'Irène Thole, la femme qui a été prise pour cible tout à l'heure.</DIALOG>
+
+      <DIALOG character="Jan">Tu es sérieux?</DIALOG>
+
+      <DIALOG character="Michael">Klaus Thole, 24 ans. Serait employé comme développeur système dans une maternité de la Foundation Thole...</DIALOG>
+
+      <DIALOG character="Jan">Serait-ce lié au centre Draper?</DIALOG>
+
+      <DIALOG character="Michael">Vraisemblablement, mais ça reste à confirmer. Il a commis de nombreux délits et infractions mineures. Adolescent, il a été pris plusieurs fois et a finalement quitté le cercle familial à l'age de 15 ans. Dans le même temps, il s'est rapproché des Descendants de Nestorius.</DIALOG>
+
+      <DIALOG character="Jan">Les Descendants de Nestorius? Pourquoi un abraxien serait-il impliqué dans une organisation de l'aile droite de la Fédération...?</DIALOG>
+
+      <DIALOG character="Michael">Je ne connais pas les détails, mais il ne semble pas être du genre fanatique : ses délits sont insignifiants, non planifiés et ne suivent pas de logique particulière. La Fondation n'avait d'autre choix que de se séparer de Klaus. Peut-être était-il un obstacle à l'agenda politique d'Irène Thole.</DIALOG>
+
+      <DIALOG character="Jan">Alors tout ceci ne serait qu'un règlement de compte personnel ...</DIALOG>
+
+      <DIALOG character="Michael">...tournant au drame à cause d'un manque affectif...schéma classique. Oh! J'ai la chambre de Klaus en visuel. Je vous envoie ça.</DIALOG>
+
+      <DIALOG character="Jan">C'est...</DIALOG>
+
+      <DIALOG character="Michael">Capitaine! Vous la voyez?</DIALOG>
+
+      <DIALOG character="Jan">C'est la chambre de Klaus?</DIALOG>
+
+      <DIALOG character="Michael">Oui.</DIALOG>
+
+      <DIALOG character="Jan">Des indices peuvent-ils l'identifier comme étant Voyager?</DIALOG>
+
+      <DIALOG character="Michael">L'écriture sur les murs est une langue datant de l'ère de Lost Jerusalem. La pièce est très exiguë. Il semble que des seringues traînent autour du lit.</DIALOG>
+
+      <IMAGE src="hebrew.gif"/>
+
+      <DIALOG character="Jan">Que disent les mots sur le mur?</DIALOG>
+
+      <DIALOG character="Michael">"La coupe fut versée sur les fleuves et sur les sources d'eau, et elles devinrent du sang."</DIALOG>
+
+      <DIALOG character="Jan">Cette citation...</DIALOG>
+
+      <DIALOG character="Michael">Oui.</DIALOG>
+
+      <DIALOG character="Jan">Irène a tenu ces mêmes paroles pendant la fête.</DIALOG>
+
+      <DIALOG character="Michael">Alors ce type serait finalement le vrai Voyager?</DIALOG>
+
+      <DIALOG character="Jan">J'en suis pas encore convaincu. Mais le même message a été laissé lors de l'incident des ambassadeurs et au centre Draper. Je suis certain qu'il existe une relation entre Voyager et Klaus. Mais une chose m'ennuie cependant.</DIALOG>
+
+      <DIALOG character="Michael">Quoi donc?</DIALOG>
+
+      <DIALOG character="Jan">Quelque soit l'incident, le message vient toujours de la victime.</DIALOG>
+
+      <DIALOG character="Meris">C'est ... c'est exact. D'habitude, c'est toujours la victime qui...</DIALOG>
+
+      <DIALOG character="Jan">Elrich est-il la?</DIALOG>
+
+      <DIALOG character="Elrich">Qu'y a-t-il?</DIALOG>
+
+      <DIALOG character="Jan">Les Ambassadeurs Bienveillants, les embryons du centre Draper, et maintenant Klaus. Cherche un point commun entre eux.</DIALOG>
+
+      <DIALOG character="Elrich">Compris.</DIALOG>
+
+      <COMMENT>Dans la salle de suivi des opérations, Elrich interrompt sa surveillance.</COMMENT>
+
+      <DIALOG character="Jan">Michael, répond sur une ligne sécurisée.</DIALOG>
+
+      <DIALOG character="Michael">Que se passe-t-il?</DIALOG>
+
+      <DIALOG character="Jan">Plus tôt, tu m'as parlé de seringues à côté du lit de Klaus. Tu peux me faire un gros plan?</DIALOG>
+
+      <DIALOG character="Michael">Bien sûr, un instant...la. C'est le maximum que je puisse vous avoir.</DIALOG>
+
+      <COMMENT>Le même médicament que celui qu'Elrich s'était injecté apparaît à l'écran.</COMMENT>
+
+      <DIALOG character="Jan">...!!</DIALOG>
+
+      <DIALOG character="Michael">Qu'y a-t-il?</DIALOG>
+
+      <DIALOG character="Jan">Non rien. Prépares la déconnexion forcée et ramènes Klaus.</DIALOG>
+
+      <DIALOG character="Michael">On a un léger problème...</DIALOG>
+
+      <DIALOG character="Jan">C'est à dire?</DIALOG>
+
+      <COMMENT>De retour de la réalité virtuelle.</COMMENT>
+
+      <DIALOG character="Jan">Quelle genre de problème?</DIALOG>
+
+      <DIALOG character="Michael">Un problème avec la déconnexion forcée...</DIALOG>
+
+      <DIALOG character="Jan">Lequel exactement?</DIALOG>
+
+      <DIALOG character="Michael">Je ne peux ramener sa conscience. Elle refuse la déconnexion. Par l'effet de quelque programme ou substance chimique....peu importe le moyen utilisé, tout retour vers son corps est bloqué.</DIALOG>
+
+      <DIALOG character="Jan">Reste-t-il là de son plein gré?</DIALOG>
+
+      <DIALOG character="Meris">Capitaine! C'est la même chose qui s'est produite avec les ambassadeurs.</DIALOG>
+
+      <DIALOG character="Jan">Y a-t-il une possibilité que Klaus s'autodétruise? Il ne doit pas s'agir de Voyager.</DIALOG>
+
+      <DIALOG character="Lactis">Son bouc-émissaire alors?</DIALOG>
+
+      <DIALOG character="Jan">Si c'est le cas, alors le véritable Voyager s'est échappé vers un endroit totalement inconnu de nous...</DIALOG>
+
+      <DIALOG character="Michael">Que devons-nous faire?</DIALOG>
+
+      <DIALOG character="Jan">Verrouilles le point de déconnexion leurre. Nous irons chercher Klaus tant que sa conscience y réside encore.</DIALOG>
+
+      <DIALOG character="Michael">Vous voulez jouer les kamikazes? Si le point réel de déconnexion est verrouillé, vous ne pourrez plus sortir.</DIALOG>
+
+      <DIALOG character="Jan">Ce n'est pas comme s'il ne pouvait plus sortir, mais comme si personne ne pouvait le rejoindre. Nous n'avons pas à nous inquiéter d'une intervention extérieure.</DIALOG>
+
+      <DIALOG character="Michael">Compris. Fermeture temporaire de toutes les voies d'accès externes.</DIALOG>
+   </CHAPTER>
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.15" title="Baisser de rideau" previous="3.14" next="3.16">
+<DIALOG character="Bagus">Elrich!!</DIALOG>
+<DIALOG character="Voyager">...!?</DIALOG>
+<DIALOG character="Bagus">Arrêtes!! Sais-tu seulement ce que tu fais ?</DIALOG>
+<DIALOG character="Voyager">Je ne suis pas tombé si bas que je devrais recevoir des leçons de morale d'un robot... Ecoute, écarte-toi. Tant que tu le peux.</DIALOG>
+<DIALOG character="Bagus">..Tant que je peux? Tu m'as appris beaucoup de choses durant ces années passées avec toi. Les choses à faire, et celles à ne pas faire...aujourd'hui, je sais que ce que tu fais est mal!</DIALOG>
+<DIALOG character="Voyager">Bagus... tu veux vraiment finir à la casse?</DIALOG>
+<DIALOG character="Jan">Bagus! Arrêtes!</DIALOG>
+<DIALOG character="Bagus">Je vois les chose différemment Elrich... je veux dire, Voyager... Je n'ai pas l'intention de finir à la casse! Mais je ne suis pas encore mort. Lorsque le temps sera venu pour moi, ce sera avec Elrich...</DIALOG>
+<DIALOG character="Voyager">Oh, tu crois pouvoir me tuer? Penses-tu vraiment que tu en es capable? ...A ta guise, vas-y essaies. Je m'insérerai dans tes circuits mémoires pour te rappeler ton statut de simple machine.</DIALOG>
+<DIALOG character="Bagus">Je t'en remercie...</DIALOG>
+<DIALOG character="Voyager">...H-hein-!?</DIALOG>
+<COMMENT>Voyager décoche un coup à Bagus. Bagus pare le coup et le charge dans une attaque suicide.</COMMENT>
+<DIALOG character="Jan">Bagus!!</DIALOG>
+<DIALOG character="Voyager">...Quel acte stupide! Qu'est-ce qu'un minable robot de soutien pourrait faire contre moi...Ah, ahhhhh-!</DIALOG>
+<DIALOG character="Jan">Voyager!!...Tu es...?</DIALOG>
+<DIALOG character="Voyager">C-e désagrément mineur ne signifie pas pour autant que je vais te laisser partir!! Tu tomberas avec moi, Jan Sauer!</DIALOG>
+<COMMENT>Combat contre Voyager.</COMMENT>
+<COMMENT>L'espace les environnant continue à se replier jusqu'à ne plus contenir que Voyager et le Zohar.</COMMENT>
+<DIALOG character="Voyager">Tu m'as assez fait perdre de temps...Oh Seigneur!! Par notre contrat, vient à moi!</DIALOG>
+<DIALOG character="U-DO">...</DIALOG>
+<DIALOG character="Voyager">Que ...? Seigneur, répond-moi! U-DO! U-DOOOOO!!</DIALOG>
+<DIALOG character="Wilhelm">C'est inutile tu sais. Il ne répondra pas, combien même tu persisterais à l'appeler.</DIALOG>
+<DIALOG character="Voyager">Qui êtes-vous?</DIALOG>
+<COMMENT>Wilhelm apparaît derrière Voyager.</COMMENT>
+<IMAGE src="2-06.gif"/>
+<DIALOG character="Wilhelm">Il a déjà atteint son but, tu comprends.</DIALOG>
+<DIALOG character="Voyager">Atteint son but? Je n'ai encore rien atteint du tout!</DIALOG>
+<DIALOG character="Wilhelm">Il a appris ce qu'il voulait savoir. Pour autant que l'"existence" soit concernée, le concept d'éternité n'est pas nécessairement indispensable.</DIALOG>
+<DIALOG character="Voyager">L'éternité n'est pas nécessaire...!? Alors...</DIALOG>
+<DIALOG character="Wilhelm">Il a appris cela au travers de ton existence. Il voulait juste en avoir confirmation...En d'autres termes, l'issue de ton contrat était jouée depuis le début.</DIALOG>
+<DIALOG character="Voyager">...Qui...êtes-vous?</DIALOG>
+<DIALOG character="Wilhelm">Je suis ton nouveau partenaire...Et si tu le veux, je peux te rendre très heureux...</DIALOG>
+<DIALOG character="Voyager">Je n'ai pas besoin d'un partenaire. Par mon seul esprit, je peux naviguer sur la mer de l'UMN, à jamais...</DIALOG>
+<DIALOG character="Wilhelm">J'ai du mal à croire que ces mots viennent d'un homme qui a été trahi par Yuriev et qui a vu son contrat rompu par U-DO devant mes propres yeux...</DIALOG>
+<DIALOG character="Voyager">...Vous, qui êtes-vous...!?</DIALOG>
+<DIALOG character="Wilhelm">Si je t'offre ce qu'eux n'ont pas été capables de t'offrir, peut être reconsidéreras-tu mon offre ?</DIALOG>
+<DIALOG character="Voyager">Qu'avez-vous à m'offrir vous et vos semblables?</DIALOG>
+<DIALOG character="Wilhelm">Je t'observe depuis fort longtemps...le rayonnement aveuglant de ta conscience...Oui, nous ferions une belle équipe, n'est-ce pas? Ne réalises-tu pas ? Tu n'aurais plus à souffrir de ton complexe d'infériorité...Voila ce que je t'offre. Un nouveau monde que tu n'imagines même pas...</DIALOG>
+<DIALOG character="Voyager">Cette existence... serait encore plus puissante que celle d'U-DO?</DIALOG>
+<DIALOG character="Wilhelm">Cela dépend de toi. Si tu coopères avec moi, je t'aiderai également à en sortir. ...Alors, as-tu une réponse à m'offrir?</DIALOG>
+<DIALOG character="Voyager">...Je n'ai pas le choix...n'est-ce pas?</DIALOG>
+<DIALOG character="Wilhelm">Je suis si heureux de t'avoir à mes côtés.</DIALOG>
+<COMMENT>La cape blanche de Voyager vire au noir.</COMMENT>
+<IMAGE src="2-07.gif"/>
+<DIALOG character="Wilhelm">Et maintenant, que faire ?</DIALOG>
+<DIALOG character="Voyager">Voulez-vous que je vous amène Sauer?</DIALOG>
+<DIALOG character="Wilhelm">Voila qui est intéressant... Bien, je te laisse prendre soin de t'occuper de cela.</DIALOG>
+<COMMENT>Voyager retourne dans l'espace normal.</COMMENT>
+<DIALOG character="Voyager">Hé, Jan Sauer. J'ai retrouvé mes forces ... ça mérite une petite démonstration!</DIALOG>
+<DIALOG character="Jan">...!!</DIALOG>
+<COMMENT>Combat contre Voyager.</COMMENT>
+<DIALOG character="Voyager">Alors, Jan. Petit à petit, nous nous rapprochons du dénouement final.</DIALOG>
+<DIALOG character="Lactis">A-arrêtez ça!!</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Voyager">...Heh. Te serais-tu soudainement rappelé quelque chose que tu avais à faire ... "Canaan" ?</DIALOG>
+<DIALOG character="Jan">...Canaan? Lactis!! Que...qui es-tu? Tu ne peux pas être ... du côté de Voyager...!?</DIALOG>
+<DIALOG character="Lactis">...N-non!! Bien sûr que non, Capitaine!</DIALOG>
+<DIALOG character="Voyager">Non? Voyez-vous ça...voila qui me déçoit. Ne t'a-t-il pas, à toi aussi, ordonné de rechercher les humains dotés de l'"essence"? Comme moi...ou Jan Sauer!</DIALOG>
+<DIALOG character="Jan">Moi...?</DIALOG>
+<DIALOG character="Lactis">Capitaine!! Ne l'écoutez pas!</DIALOG>
+<DIALOG character="Voyager">Même si tu le nies, tes instincts... non, tu n'as pas d'instincts. Tes systèmes de base te disent le contraire, n'est-ce pas? Sauer est dispensable désormais...</DIALOG>
+<DIALOG character="Lactis">C-c'est...</DIALOG>
+<DIALOG character="Voyager">"Le septième répandit sa coupe dans les airs, et du Temple, venant du trône, sortit une voix forte qui disait : C'en est fait !. <CR/>Il y eut alors des éclairs, des voix et des coups de tonnerre;puis un grand tremblement de terre, tel qu'il n'y eut jamais, depuis que l'homme a paru sur terre, tremblement de terre aussi violent.<CR/>La grande ville se brisa en trois, et les villes des nations s'écroulèrent. Ainsi Dieu se souvint de Babylone la grande pour lui donner la coupe de vin de sa furieuse colère.<CR/>Toutes les îles s'enfuirent, et il ne se trouve plus de montagnes.<CR/>Des grêlons énormes pesant près d'un talent tombèrent du ciel sur les hommes; mais les hommes blasphémèrent Dieu pour le fléau de cette grêle, car c'est là un terrible fléau."</DIALOG>
+<DIALOG character="Lactis">...</DIALOG>
+<DIALOG character="Voyager">Ha.. Mon contrat avec Dieu à fini par échouer. Ces mots ne sont rien de plus qu'un requiem pour libérer ton âme de sa prison... Alors, que comptes-tu faire? Deux choix seulement s'offrent à toi. Prendre ma main et accepter cette proposition...</DIALOG>
+<DIALOG character="Jan">Et ... devenir ton semblable?</DIALOG>
+<DIALOG character="Voyager">Je ne te forcerai pas. ...Mais je t'assure que tu seras en mesure de dompter la notion de 'mort'. La décision est tienne.</DIALOG>
+<DIALOG character="Jan">Tu me promets la vie éternelle...</DIALOG>
+<DIALOG character="Lactis">...Capitaine!!</DIALOG>
+<DIALOG character="Jan">Dans un monde... sans Sharon ni Joaquin...</DIALOG>
+<DIALOG character="Lactis">Ses paroles sont poison!</DIALOG>
+<DIALOG character="Voyager">Je vois. Si tu refuses son offre, je devrai te tuer... alors il ne reste réellement qu'un seul choix.</DIALOG>
+<DIALOG character="Jan">Un choix, dis-tu?</DIALOG>
+<DIALOG character="Voyager">Viens maintenant, il n'y a plus personne à pleurer. Les gens que j'ai tués sont toujours avec moi. A l'intérieur de moi, leur coeur ne cessera de battre. Tu peux appeler ça le Nirvana si tu veux. Tu devrais les rejoindre. Tu serais avec ceux que tu as aimé, pour toujours... Au final, la paix sera avec toi.</DIALOG>
+<DIALOG character="Jan">C'est une vie factice. Des lambeaux de mémoire, ce n'est pas ce que j'appelle 'vivre'.</DIALOG>
+<DIALOG character="Voyager">Où places-tu la frontière entre vérité et fiction? Avoir une fin misérable dans le monde que tu appelles réalité, ou obtenir la paix dans le monde de ta conscience. C'est un choix simple. ... Tu as vraiment pris ta décision, alors. Que comptes-tu faire de ce pistolet? Tu es dans mon monde maintenant. Tu crois vraiment pouvoir te battre contre moi avec ça?</DIALOG>
+<DIALOG character="Jan">Tu as trompé Sharon et Joaquin. Tu as exploité leur peur la plus profonde et leur a promis une fausse paix... Tu as masqué ta propre peur en jouant avec celles des autres...</DIALOG>
+<DIALOG character="Voyager">Personne ne peut refuser la paix éternelle...</DIALOG>
+<DIALOG character="Jan">Tu ne fais que manipuler mon esprit!</DIALOG>
+<DIALOG character="Voyager">Abandonnes ta futile résistance...Viens avec moi!</DIALOG>
+<DIALOG character="Jan">...Je refuse.</DIALOG>
+<DIALOG character="Meris">Capitaine, arrêtez--!!</DIALOG>
+<IMAGE src="2-08.gif"/>
+<COMMENT>Jan pointe son pistolet vers sa tempe et appuie sur la détente.</COMMENT>
+<DIALOG character="Meris">Nooooooooooooooon!</DIALOG>
+
+</CHAPTER>
+

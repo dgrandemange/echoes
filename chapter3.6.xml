@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.6" title="Cathédrale" previous="3.5" next="3.7">
+<COMMENT>Sharon est dans une église, agenouillée devant un prêtre.</COMMENT>
+<DIALOG character="Prêtre">Que donc désirez-vous?</DIALOG>
+<DIALOG character="Sharon">Le bonheur pour mon fils et la sécurité pour mon mari.</DIALOG>
+<DIALOG character="Prêtre">Votre mari n'est plus de ce monde...</DIALOG>
+<DIALOG character="Sharon">J'ai un nouveau compagnon, une personne qui nous a redonné de l'espoir, à moi et à mon fils.</DIALOG>
+<DIALOG character="Prêtre">Souhaitez-vous protéger la vie de cette personne?</DIALOG>
+<DIALOG character="Sharon">Oui, je prie pour qu'il ne soit pas touché par la malédiction entourant le Zohar.</DIALOG>
+<DIALOG character="Prêtre">Malédiction?...Le Zohar n'est en rien source de malheur.</DIALOG>
+<DIALOG character="Sharon">Vous semblez en savoir long sur cette chose. Mon Père, qu'est-ce que le Zohar?</DIALOG>
+<DIALOG character="Prêtre">Pourquoi voulez-vous savoir...?</DIALOG>
+<DIALOG character="Sharon">Je pensais que si je le savais, je pourrais protéger mon mari du malheur qui l'entoure...</DIALOG>
+<DIALOG character="Prêtre">...Le Zohar est appelé en cet endroit par Dieu. Si vous souhaitez toujours passer un pacte avec Dieu, vous devriez vous rendre au prochain rassemblement des pèlerins...</DIALOG>
+<DIALOG character="Sharon">Je ne comprends toujours pas l'objet de ce pacte. Mais...le Conseil des Pèlerins. Si je m'y rends, y apprendrai-je ce qu'est le Zohar?</DIALOG>
+<DIALOG character="Prêtre">...</DIALOG>
+<DIALOG character="Sharon">...Et si je me rends au Conseil, sera-t-il possible de vous y rencontrer, mon Père?</DIALOG>
+<DIALOG character="Prêtre">Qu'espérez vous apprendre en me parlant?</DIALOG>
+<DIALOG character="Sharon">Il y a des choses que j'aimerais vous demander.</DIALOG>
+<DIALOG character="Prêtre">Etes-vous préparée à ces questions, même au prix de la paix éternelle?</DIALOG>
+<DIALOG character="Sharon">Oui...Pour protéger les gens que j'aime.</DIALOG>
+<DIALOG character="Prêtre">Parce que vous possédez la voie de Dieu...vous serez en mesure de me voir sur le lieu de rassemblement des pèlerins...</DIALOG>
+</CHAPTER>
+

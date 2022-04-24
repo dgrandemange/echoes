@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.5" title="Réalité virtuelle, la fuite" previous="2.4" next="2.6">
+<COMMENT>De l'obscurité sortent Jan enfant accompagné de sa mère.</COMMENT>
+<DIALOG character="Jan-enfant">Maman, pourquoi papa ne revient pas à la maison?</DIALOG>
+<DIALOG character="Ingrid">Parce que son travail est de protéger la ville. Il travaille pour protéger tous les gens, tu comprends?</DIALOG>
+<DIALOG character="Jan-enfant">Alors pourquoi tu pleures tout le temps?</DIALOG>
+<DIALOG character="Ingrid">Parce qu'il ne rentre pas à la maison.</DIALOG>
+<COMMENT>Le temps passe...</COMMENT>
+<DIALOG character="Jan-adolescent">Maman, comment papa est-il mort?</DIALOG>
+<DIALOG character="Ingrid">En protégeant des gens, Jan. Pour remplir sa mission. C'est là le métier d'un policier.</DIALOG>
+<DIALOG character="Jan-adolescent">Je ne me rappelle plus son visage, Maman. Je ne me rappelle plus le genre de personne qu'il était. Parce qu'il n'était jamais là. Maman? Maman...où es-tu?</DIALOG>
+<COMMENT>Jan court dans l'obscurité, poursuivant le visage de sa mère, lorsqu'il vient à croiser une autre personne.</COMMENT>
+<DIALOG character="Jan-adolescent">Oncle Sean...</DIALOG>
+<DIALOG character="McCollum">Jan, ton père était un brave homme.</DIALOG>
+<DIALOG character="Jan-aujourd'hui">J'aspire à maintenir l'ordre public et à me mettre au service de la société.</DIALOG>
+<DIALOG character="McCollum">Jan, te sens-tu encore fier de ton père?</DIALOG>
+<DIALOG character="Jan">O-oui.</DIALOG>
+<DIALOG character="McCollum">Ton père était un brave homme. Mais, je me demande parfois...</DIALOG>
+<DIALOG character="Jan">...Que voulez-vous me dire?</DIALOG>
+<DIALOG character="McCollum">Il a protégé des gens, mais au dépend du bien-être de sa propre famille. Etant son ami, j'espérais...qu'il eusse été un peu plus lâche.</DIALOG>
+<COMMENT>McCollum s'éloigne dans l'obscurité. Confus, Jan se met à le suivre.</COMMENT>
+<DIALOG character="Jan">Chef! S'il vous plaît! Chef...</DIALOG>
+<DIALOG character="Voix mystérieuse">Arrêtes...Ne suis pas cette ombre.</DIALOG>
+<COMMENT>Bien que le visage accompagnant cette voix soit flou, le personnage de chaos est identifiable.</COMMENT>
+<IMAGE src="chaos.gif"/>
+<DIALOG character="Jan">Qui est là?</DIALOG>
+<DIALOG character="Voix mystérieuse">Aller au delà de cette ombre signifie la prison éternelle pour ton âme. C'est à dire ... la mort ... froide. Tes souvenirs ne t'amèneront pas la paix et le repos. Tu devrais le savoir. Il y a encore des personnes que tu dois protéger...</DIALOG>
+<DIALOG character="Jan">Des personnes à protéger? En tant que policier, je protège l'ordre public...</DIALOG>
+<DIALOG character="Voix mystérieuse">...Non. Je parle de personnes chères à l'homme et non au policier. De plus, l'endroit où nous sommes n'a pas besoin de ta présence.</DIALOG>
+<DIALOG character="Jan">Qui ....êtes-vous?</DIALOG>
+<DIALOG character="Voix mystérieuse">...</DIALOG>
+<COMMENT>Jan revient à lui dans la chambre de Klaus.</COMMENT>
+<DIALOG character="Bagus">Capitaine! Merci mon dieu, nous étions si inquiets!</DIALOG>
+<DIALOG character="Meris">Capitaine!</DIALOG>
+<DIALOG character="Jan">Ou suis-je...la conscience de Klaus...!! Le pape Julius est en danger! Sortons d'ici tout de suite. Michael!</DIALOG>
+<DIALOG character="Michael">Avec la destruction de l'ego de Klaus, la décomposition de sa conscience s'est accélérée! Je ne peux plus localiser le point de déconnexion...</DIALOG>
+<DIALOG character="Jan">Et Elrich? A vous deux, vous devriez être en mesure de ...</DIALOG>
+<DIALOG character="Michael">Hé bien, à l'heure qu'il est, Elrich doit assurer la sécurité du pape...</DIALOG>
+<DIALOG character="Jan">...Je vois. Nous n'avons plus qu'à trouver ce point par nos propres moyens. Michael, nous te recontacterons une fois ce point atteint. Sois alors prêt à nous ramener!</DIALOG>
+<DIALOG character="Michael">Bien Capitaine!</DIALOG>
+<COMMENT>Dans la salle de briefing.</COMMENT>
+<DIALOG character="Michael">Capitaine, vous me recevez?</DIALOG>
+<DIALOG character="Jan">Qu'y a t'il Michael?</DIALOG>
+<DIALOG character="Michael">Capitaine! Vous aviez raison! C'est la panique totale ici! Le pape...</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Michael">Le pape Julius vient d'être assassiné!</DIALOG>
+<DIALOG character="Jan">Je le savais! Comment ont-ils fait ça?</DIALOG>
+<DIALOG character="Elrich">Blessures neurologiques par piratage du cerveau! Ca a du se produire alors que sa garde rapprochée avait le dos tourné.</DIALOG>
+<DIALOG character="Jan">Et l'assassin? A t'il laissé des traces du crime?</DIALOG>
+<DIALOG character="Elrich">Oui. Mais ils ont bouclé le périmètre, et c'est de toute façon en dehors de notre juridiction. En plus de ça, ces traces sont protégées par un chiffrement de classe AAA. J'ai fourré mon nez dans l'ordinateur central du gouvernement et mes soupçons se confirment : il s'agit bien de Voyager.</DIALOG>
+<DIALOG character="Lactis">Les Descendants de Nestorius...seraient-ils derrière tout ça? Les choses semblent se compliquer pour eux.</DIALOG>
+<DIALOG character="Elrich">Peut être. Voyager savait que nous étions occupés à surveiller cette fête. En focalisant notre attention sur Klaus, il pouvait cracker tranquillement les codes de sécurité pour approcher Julius.</DIALOG>
+<DIALOG character="Jan">Je me demande si mon supérieur n'aurait pas subi de pression de la part de l'aile droite, ce qui l'aurait conduit à rejeter ma recommandation de désactiver tout accès à l'UMN...</DIALOG>
+<DIALOG character="Meris">Ce ne peut être! Quelqu'un de la police comploterait avec Voyager?</DIALOG>
+<DIALOG character="Jan">Vu la situation, ça me semble tout à fait plausible.</DIALOG>
+<DIALOG character="Michael">En tout cas, le service de police est en ébullition avec cet assassinat. Au moins, personne ne s'inquiète de votre absence...A part le Chef McCollum semble-t-il...</DIALOG>
+<DIALOG character="Jan">Je vois. Nous avons assez perdu de temps...Continuons à chercher le point de déconnexion.</DIALOG>
+<DIALOG character="Michael">Terminé.</DIALOG>
+<COMMENT>Au détour d'une allée, ils croisent Klaus, seul.</COMMENT>
+<DIALOG character="Jan">Klaus? Une partie de lui est encore ici, même avec sa conscience qui continue à se désagréger?</DIALOG>
+<DIALOG character="Klaus">Dites, est-ce de ça dont vous auriez besoin? Vous pouvez retourner à votre monde maintenant.</DIALOG>
+<DIALOG character="Jan">Le point de déconnexion? Pourquoi nous apporter ton aide?</DIALOG>
+<DIALOG character="Klaus">Il y a quelque chose dont je voudrais vous parler.</DIALOG>
+<DIALOG character="Bagus">Il semble différent du Klaus auquel nous avons eu à faire plus tôt.</DIALOG>
+<DIALOG character="Lactis">Oui. Comme si une partie de lui s'était détachée...</DIALOG>
+<DIALOG character="Jan">Que veux-tu nous dire?</DIALOG>
+<DIALOG character="Klaus">Il s'agit de cette personne, Voyager.</DIALOG>
+<DIALOG character="Jan">Voyager!?</DIALOG>
+<DIALOG character="Klaus">...Ah, je sais ce que vous ressentez. De moi aussi, il s'est joué... Bah, il n'y a plus assez de temps pour tout vous raconter. Après ma mort, je suis devenu conscient de tant de choses...si je vous avais rencontré plus tôt, cela m'aurait ouvert les yeux.</DIALOG>
+<DIALOG character="Jan">Que vous a dit Voyager?</DIALOG>
+<DIALOG character="Klaus">Il disait qu'il me guiderait vers un monde de paix. J'étais là pour lui remettre des accrocs aux drogues neurochimiques. Il disait que le Zohar arrangerait tout. Mais cette terre de paix n'existe pas. Il n'y a que la prison éternelle pour l'âme...</DIALOG>
+<DIALOG character="Jan">La prison pour l'âme? Etes-vous la personne qui avez pénétré mon esprit?</DIALOG>
+<DIALOG character="Klaus">Pénétré votre esprit? Non, ça n'était pas moi. Vous êtes de ceux qui ont atteint le mien. Vous avez expérimenté mon monde. Cette jeune femme a ressenti de la tristesse à la vue de mes souvenirs...</DIALOG>
+<DIALOG character="Meris">Moi...? Je... Ca n'était que... simple compassion...</DIALOG>
+<DIALOG character="Klaus">Simple, hein? Mais même ce petit geste m'a rendu heureux.</DIALOG>
+<DIALOG character="Jan">Dites-nous s'il vous plait!! Qu'est-ce donc que ce Zohar ?</DIALOG>
+<DIALOG character="Klaus">Vous devriez partir au plus vite. Je ne pourrai le contenir plus longtemps...</DIALOG>
+<DIALOG character="Jan">Hé!!</DIALOG>
+<DIALOG character="Klaus">Le Zohar est...!!!</DIALOG>
+<COMMENT>Klaus change soudainement et son côté sombre prend le dessus.</COMMENT>
+<DIALOG character="Jan">!!</DIALOG>
+<DIALOG character="Meris">La conscience de Klaus se divise-t-elle en deux?</DIALOG>
+<DIALOG character="Jan">Soyez prudents! ... nous n'avons plus a faire à la même personne!</DIALOG>
+<COMMENT>Deuxième combat contre Loki.</COMMENT>
+<DIALOG character="Jan">Bon sang!! Qui est là? Y a quelqu'un? Klaus!? Est-ce vous!?</DIALOG>
+<COMMENT>Jan est de nouveau plongé dans l'obscurité. Devant lui de dresse une silhouette masquée tout de blanc vêtue.</COMMENT>
+<DIALOG character="Jan">Qui diable êtes-vous donc?</DIALOG>
+<IMAGE src="whiterobe.gif"/>
+<DIALOG character="Voyager">Vous aussi êtes une personne qui désirez la paix...</DIALOG>
+<DIALOG character="Jan">Seriez-vous Voyager!?</DIALOG>
+<DIALOG character="Voyager">Si vous voulez, je vous donnerai ce que vous désirez...la paix éternelle...</DIALOG>
+<DIALOG character="Jan">Attendez! Je dois vous demander...</DIALOG>
+<COMMENT>Voyager disparaît dans l'obscurité. Le visage d'Elrich lui fait place.</COMMENT>
+<DIALOG character="Jan">Elrich? Comment es-tu venu jusqu'ici?</DIALOG>
+<DIALOG character="Elrich">...</DIALOG>
+<DIALOG character="Jan">Hé! Elrich, où vas tu?</DIALOG>
+<COMMENT>Elrich disparaît à son tour, et Jan est ramené a la réalité virtuelle.</COMMENT>
+<DIALOG character="Jan">Elrich!!</DIALOG>
+<DIALOG character="Meris">Capitaine!?</DIALOG>
+<DIALOG character="Jan">Où est Elrich?</DIALOG>
+<DIALOG character="Lactis">Elrich? Il n'est pas avec Michael?</DIALOG>
+<DIALOG character="Jan">Vous ne l'avez donc pas vu? Il était juste là...</DIALOG>
+<DIALOG character="Lactis">Capitaine, calmez-vous. Grâce à Klaus, nous avons obtenu les coordonnées du point de déconnexion. Déconnectons-nous d'abord.</DIALOG>
+<DIALOG character="Jan">Tu as raison...désolé. Ceci était le dernier acte amical de Klaus. Respectons son geste et partons d'ici.</DIALOG>
+
+   </CHAPTER>
+
+

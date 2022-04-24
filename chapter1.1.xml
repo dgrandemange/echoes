@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="1.1" title="Prologue" next="1.2">
+   <COMMENT>T.C. 4667- Planète Abraxas. A la nuit tombée, dans un studio donnant sur une rue de la ville, un enfant et une femme, qui paraît être sa mère, naviguent sur le net.</COMMENT>
+
+   <IMAGE src="planetabraxas.gif"/>
+
+   <DIALOG character="Joaquin">Maman! Regarde ça, maman!</DIALOG>
+
+   <DIALOG character="Sharon">Ne crie donc pas comme ça! Qu'est-ce qu'il y a?</DIALOG>
+
+   <DIALOG character="Joaquin">Un nouveau modèle de chien synthétique! On dirait vraiment un chien, pas un de ces stupides robots...</DIALOG>
+
+   <DIALOG character="Sharon">Ne sois pas si excité. C'est encore bien trop cher, on ne peut pas acheter ça. Que dirais-tu d'attendre que les prix soient un peu plus raisonnables?</DIALOG>
+
+   <DIALOG character="Joaquin">Vraiment? Quand ça alors?</DIALOG>
+
+   <DIALOG character="Sharon">Hé bien, disons quand tu seras plus grand que maman.</DIALOG>
+
+   <DIALOG character="Joaquin">Pfff...Hé maman!</DIALOG>
+
+   <DIALOG character="Sharon">Quoi encore?</DIALOG>
+
+   <DIALOG character="Joaquin">Je peux essayer la version d'essai sur le net. Hein dis ?</DIALOG>
+
+   <DIALOG character="Sharon">D'accord, mais pas plus d'1/2 heure de réalité virtuelle UMN par jour, OK?</DIALOG>
+
+   <DIALOG character="Joaquin">Super! Merci maman!</DIALOG>
+
+   <DIALOG character="Sharon">Et si tu rencontres des gens bizarres, je veux que tu te déconnectes tout de suite, d'accord?</DIALOG>
+
+   <IMAGE src="sharonandson.gif"/>
+
+   <DIALOG character="Joaquin">Ouais, ouais... Bon, alors, race papillon, un mâle de 6 mois, pourquoi pas? Pour le lieu, je te laisse choisir, c'est juste pour faire un essai.</DIALOG>
+
+   <DIALOG character="Opérateur réseau">Compris. Race papillon, mâle, âgé de 6 mois. Entrée correspondante confirmée : chien synthétique des industries Nexus Corporation. Lieu : Abraxas Central Park.</DIALOG>
+
+   <DIALOG character="Joaquin">Ben ça me paraît pas mal tout ça.</DIALOG>
+
+   <COMMENT>L'enfant se connecte dans Abraxas Central Park. Puis, derrière lui, apparaît sans un bruit une silhouette encapuchonnée vêtue de blanc.</COMMENT>
+
+   <DIALOG character="Inconnu">... "le sixième répandit sa coupe sur le grand fleuve Euphrate, et ses eaux s'asséchèrent pour préparer la route des rois qui viennent d'Orient"</DIALOG>
+
+   <COMMENT>L'inconnu fixe l'enfant puis s'en va, ne laissant que son énigmatique message.</COMMENT>
+
+   <DIALOG character="Joaquin">Hein? Y a quelqu'un? Bizarre. J'aurais cru qu'il y avait quelqu'un ... J'ai du rêver. L'écran m'indique bien que je suis tout seul à être connecté... Hé! viens ici mon chien!</DIALOG>
+
+   <DIALOG character="Papillon">Waf, waf!</DIALOG>
+
+   <IMAGE src="joachimandvoyager.gif"/>
+
+</CHAPTER>
+

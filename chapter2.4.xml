@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+   <CHAPTER no="2.4" title="Réalité virtuelle, l'esprit de Klaus" previous="2.3" next="2.5">
+<COMMENT>Du coin d'un immeuble, le décor change pour passer à celui d'une ruelle mal éclairée. Klaus s'y tient avec 3 hommes.</COMMENT>
+<DIALOG character="Jan">On dirait bien Klaus là-bas...</DIALOG>
+<DIALOG character="Michael">Non, ce n'est pas l'ombre de Klaus. C'est plus vraisemblablement une projection de certains fragments de sa mémoire.</DIALOG>
+<DIALOG character="Jan">Attendez, je peux entendre quelque chose...</DIALOG>
+<DIALOG character="Klaus">Ecoutez, on avait un marché.</DIALOG>
+<DIALOG character="Inconnu">Il me semble que, jusqu'à présent, la ligne de conduite que nous vous avions imposée pour faire votre travail vous convenait. Alors, après tout ce temps, pourquoi vous entêter à ne pas poursuivre votre récolte.</DIALOG>
+<DIALOG character="Meris">Récolte ? Quel genre de récolte?</DIALOG>
+<DIALOG character="Lactis">Chuuut...pas si fort...ne dérangeons pas ces souvenirs à l'équilibre si précaire...</DIALOG>
+<DIALOG character="Klaus">Attendez un peu! J'ai travaillé dur. Quand me mènerez-vous à lui?</DIALOG>
+<DIALOG character="Inconnu">C'est un homme très occupé. Vous ne pouvez pas le voir personnellement.</DIALOG>
+<DIALOG character="Klaus">...Occupé?</DIALOG>
+<DIALOG character="Inconnu">Bien sûr. Il est en train de rassembler la douzaine de programmes de drogue neurale que vous lui avez rapportés.</DIALOG>
+<DIALOG character="Jan">Des programmes de drogue neurale...</DIALOG>
+<DIALOG character="Klaus">Mais j'avais un marché avec lui! Je veux le voir, maintenant!</DIALOG>
+<DIALOG character="Inconnu">On vous a dit que ce n'était pas envisageable.</DIALOG>
+<DIALOG character="Klaus">Hmph...</DIALOG>
+<DIALOG character="Inconnu">Je suis navré. Le moment venu, j'essaierai d'arranger une entrevue.</DIALOG>
+<COMMENT>La projection disparaît et le décor change pour passer à celui d'une ville. Jan et son équipe continuent leur recherche et croisent 3 enfants jouant dans un parc.</COMMENT>
+<DIALOG character="Meris">...Des enfants? Est-ce une autre facette de la mémoire de Klaus?</DIALOG>
+<DIALOG character="Jan">Possible...</DIALOG>
+<DIALOG character="Amy">Hé Monsieur, venez jouer à chat perché avec nous!</DIALOG>
+<DIALOG character="Lactis">Ils peuvent nous voir? Capitaine, que faisons-nous?</DIALOG>
+<DIALOG character="Jan">Interférer avec la mémoire résidente peut s'avérer dangereux, mais d'un autre côté, cela peut nous aider dans notre quête de l'ombre de Klaus...</DIALOG>
+<DIALOG character="Jake">Vous venez?</DIALOG>
+<DIALOG character="Nicholas">Dépêchez-vous!</DIALOG>
+<DIALOG character="Jan">...Il n'y a rien d'autre à faire de toute façon, et puis le temps presse...</DIALOG>
+<COMMENT>L'équipe et les enfants jouent à chat perché.</COMMENT>
+<DIALOG character="Jake">Vous êtes trop cool. Plus tard, je serai policier!</DIALOG>
+<DIALOG character="Jan">Oh vraiment?</DIALOG>
+<DIALOG character="Jake">Bon, je crois qu'on devrait rentrer à la maison maintenant.</DIALOG>
+<DIALOG character="Jan">Attendez une seconde. Vous n'auriez pas entendu parler d'un dénommé Klaus par hasard?</DIALOG>
+<DIALOG character="Jake">Klaus...Klaus nous torture...</DIALOG>
+<DIALOG character="Nicholas">C'est pour ça qu'on besoin ...</DIALOG>
+<DIALOG character="Amy">...de vous pour nous sauver...</DIALOG>
+<DIALOG character="Jan">...</DIALOG>
+<DIALOG character="Nicholas">On y va maintenant. Encore merci!</DIALOG>
+<COMMENT>Les enfants disparaissent.</COMMENT>
+<DIALOG character="Meris">Klaus les torture? Qu'est-ce que qu'on est censé comprendre?</DIALOG>
+<DIALOG character="Lactis">Bonne question. Je suppose qu'il ne reste plus qu'à l'apprendre de Klaus lui-même.</DIALOG>
+<DIALOG character="Jan">Je crois oui. Le temps passe, dépêchons-nous.</DIALOG>
+<COMMENT>Réalité virtuelle : ombre de Klaus</COMMENT>
+<COMMENT>L'ombre de Klaus est assise au bord d'un lit, seul mobilier de la pièce.</COMMENT>
+<DIALOG character="Klaus">Qui êtes-vous? Pourquoi venir dans mon univers? Ah, peu importe. Vous êtes juste de passage de toute façon. Les humains ne sont que des larmes coulant le long d'une fenêtre. Ne vous mettez pas en travers de mon chemin. Je suis finalement arrivé au bout du tunnel.</DIALOG>
+<DIALOG character="Jan">Etes-vous Voyager?</DIALOG>
+<DIALOG character="Klaus">Voyager? Je ne connais personne de ce nom. J'ai toujours été seul. Je n'ai jamais vu qui que ce soit.</DIALOG>
+<DIALOG character="Jan">Avez-vous commis tous ces actes avec votre solitude pour seul mobile?</DIALOG>
+<DIALOG character="Klaus">Oh, je me souviens maintenant. Voyager. L'homme qui disait vouloir me donner la paix.</DIALOG>
+<DIALOG character="Jan">La paix?</DIALOG>
+<DIALOG character="Klaus">Ahh...oui. Cette personne...qu'est-ce qu'elle faisait déjà?...elle recherchait des programmes neuraux... elle disait que si je l'aidais dans sa tâche, elle me délivrerait du vide que j'avais en moi. "La paix absolue" disait-elle. Et vous? Avez-vous pour compagne cette solitude dont vous ne pouvez vous séparer? Probablement, si vous êtes homme.</DIALOG>
+<DIALOG character="Jan">Voyager vous a promis de vous délivrer de la solitude?</DIALOG>
+<DIALOG character="Klaus">Oui. C'est pour ça que j'ai travaillé pour lui. Et maintenant, j'ai finalement trouvé la paix...la Terre Promise qu'il citait.</DIALOG>
+<DIALOG character="Jan">La Terre Promise? Est-ce ici?</DIALOG>
+<DIALOG character="Klaus">Ici? Vous rigolez. J'en ai assez de ce sale endroit...préjudice, trahison, jalousie, haine...ça me rend malade. Bon débarras. </DIALOG>
+<DIALOG character="Jan">Y en a-t-il d'autres que vous?</DIALOG>
+<DIALOG character="Klaus">D'autres que moi?D'autres avec un aller vers la Terre Promise? Bien sûr qu'il y en a...il a besoin de sang abraxien pour atteindre son but.</DIALOG>
+<DIALOG character="Jan">Le sang d'Abraxas...qu'est-ce que ça signifie?</DIALOG>
+<DIALOG character="Klaus">Abraxas...le Zohar...</DIALOG>
+<DIALOG character="Jan">Qu'est-ce que tu viens de dire? "Zohar" ... qu'est-ce?</DIALOG>
+<DIALOG character="Klaus">"Le quatrième répandit sa coupe sur le soleil, et il fut donné à celui-ci de consumer les hommes par le feu."</DIALOG>
+<DIALOG character="Jan">Ces mots!?</DIALOG>
+<DIALOG character="Lactis">Prudence Capitaine! Un nouveau modèle!</DIALOG>
+<DIALOG character="Klaus">"Les hommes furent brûlés d'une terrible brûlure, mais ils blasphémèrent le nom de Dieu qui a pouvoir sur ces fléaux, ils ne se repentirent pas pour lui rendre gloire." Il a souillé le nom de Dieu et nous a déçu!!</DIALOG>
+<DIALOG character="Jan">Qui ça! Voyager?</DIALOG>
+<DIALOG character="Klaus">Non. Pourquoi lui alors qu'il nous a guidé vers la Terre Promise!? Non, je parle bien sûr de celui qui convoite la richesse d'Abraxas et agite ses foules...ce Julius devrait être condamné au bûcher pour sa vile et cupide existence.</DIALOG>
+<DIALOG character="Jan">Julius? Michael, tu enregistres ça?</DIALOG>
+<DIALOG character="Michael">Oui Capitaine!</DIALOG>
+<DIALOG character="Jan">Envois-ça tout de suite au QG!</DIALOG>
+<DIALOG character="Michael">Au QG? Vous êtes sûr? Je vous rappelle qu'on est en pleine illégalité la!</DIALOG>
+<DIALOG character="Jan">Je m'en fous! Nous devons nous assurer que le Pape Julius ne court aucun danger!</DIALOG>
+<DIALOG character="Michael">Le Pape?</DIALOG>
+<DIALOG character="Jan">Je t'expliquerai plus tard! Déconnectes-nous maintenant! As-tu fait une copie de l'enregistrement?</DIALOG>
+<DIALOG character="Michael">Ok...attendez, y a un problème!</DIALOG>
+<DIALOG character="Jan">Quoi encore!?</DIALOG>
+<DIALOG character="Michael">L'autre moi de Klaus commence à se comporter comme un programme d'extermination! Faites attention!</DIALOG>
+<DIALOG character="Meris">Aaaahh!</DIALOG>
+<DIALOG character="Jan">...!?</DIALOG>
+<COMMENT>Jan se retourne vers Meris, et derrière lui apparaissent deux unités anti-intrusion à côté de l'ombre de Klaus. Combat contre Loki.</COMMENT>
+<DIALOG character="Jan">Klaus...</DIALOG>
+<DIALOG character="Meris">Capitaine...</DIALOG>
+<DIALOG character="Jan">La conscience de Klaus accuse le contre-coup de la bataille. Elle ne sera bientôt plus.</DIALOG>
+<DIALOG character="Lactis">Il nous reste 10 minutes.</DIALOG>
+<DIALOG character="Jan">Michael, récupères...a-ahhh...</DIALOG>
+<DIALOG character="Lactis">Capitaine?</DIALOG>
+<DIALOG character="Meris">Capitaine!?</DIALOG>
+<DIALOG character="Jan">Je ...vais...bien...ahh...aaaaahh!</DIALOG>
+<COMMENT>Jan tombe à genoux.</COMMENT>
+<DIALOG character="Meris">Capitaine! Restez avec nous!</DIALOG>
+<COMMENT>La pièce s'assombrit.</COMMENT>
+
+
+   </CHAPTER>
+
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="pp_html.xsl" type="text/xsl"?>
+<?cocoon-process type="xslt"?>
+<CHAPTER no="3.9" title="Bloc 53" previous="3.8" next="3.10">
+<COMMENT>Abraxas, dans la banlieue d'Archon</COMMENT>
+<DIALOG character="Bagus">Capitaine...nous sommes des fugitifs maintenant...</DIALOG>
+<DIALOG character="Jan">Oui. Il devrait y avoir des agents de police dans le coin. Nous devrons les éviter autant que possible!</DIALOG>
+<DIALOG character="Meris">Bien Capitaine!</DIALOG>
+<COMMENT>Archon, Bloc 53</COMMENT>
+<COMMENT>Sharon accueille Jan et son équipe.</COMMENT>
+<DIALOG character="Jan">Désolé, on a du retard.</DIALOG>
+<DIALOG character="Sharon">...C'est bon, ce qui importe, c'est que vous soyez sains et saufs. Je suis soulagée de vous avoir tous ici.</DIALOG>
+<DIALOG character="Meris">Pour des fugitifs, on se débrouille pas trop mal.</DIALOG>
+<DIALOG character="Sharon">Hé hé, je confirme.</DIALOG>
+<DIALOG character="Jan">Et cette victime, quelle était la cause du décès?</DIALOG>
+<DIALOG character="Sharon">...Surexposition à l'UMN. Il avait seulement 18 ans.... A propos de l'écriture dans sa chambre...ça aurait été difficile d'en obtenir une photographie, alors j'ai amené ceci à la place.</DIALOG>
+<DIALOG character="Jan">...Qu'est-ce que c'est?</DIALOG>
+<DIALOG character="Sharon">Une traduction. Ca peut vous aider?</DIALOG>
+<DIALOG character="Jan">"Le cinquième répandit sa coupe sur le trône de la Bête, et le royaume de celle-ci fut plongée dans les ténèbres. Les hommes se mordirent la langue de douleur, mais ils blasphémèrent le Dieu du ciel pour leurs douleurs et leurs plaies, ils ne se repentirent pas de leurs oeuvres."</DIALOG>
+<DIALOG character="Lactis">Comme toujours, une citation dans une ancienne langue, et toujours cette histoire de coupe...</DIALOG>
+<DIALOG character="Jan">Est-ce que tu en connais l'origine?</DIALOG>
+<DIALOG character="Lactis">La police d'Archon planche toujours dessus, mais j'ai archivé des enregistrements de cet alphabet dans ma base de données interne.</DIALOG>
+<DIALOG character="Meris">Attendez une seconde, nous pourrions analyser ces enregistrements à la planque de Veritas?</DIALOG>
+<DIALOG character="Jan">Avec l'équipement qu'ils possèdent, on devrait obtenir des résultats avant même la police d'Archon. Lactis! Transfères ces données à Michael et Elrich, tout de suite!</DIALOG>
+<DIALOG character="Lactis">Bien! ...?</DIALOG>
+<DIALOG character="Jan">Quoi?</DIALOG>
+<DIALOG character="Lactis">Michael et Elrich. Ils refusent tous deux la connexion.</DIALOG>
+<DIALOG character="Jan">Bon, essaies encore! Sharon, tu as trouvé autre chose à l'hôpital?</DIALOG>
+<DIALOG character="Sharon">La victime a laissé le même sillage que Voyager dans les logs d'accès à l'UMN. Et puis...</DIALOG>
+<DIALOG character="Jan">...?</DIALOG>
+<DIALOG character="Sharon">...Je ne sais pas si cela est relié directement à Voyager, mais lors de l'autopsie sur la jeune victime, nous avons trouvé quelque chose d'extrêmement inhabituel.</DIALOG>
+<DIALOG character="Jan">Ces derniers mois, j'ai vécu moi-même des choses très inhabituelles. Je ne suis pas vraiment surpris.</DIALOG>
+<DIALOG character="Sharon">Bien sûr, mais dans le cas qui nous concerne...Des échantillons que nous avons collecté de ses tissus, l'âge qui a pu être estimé était de .... hé bien, en se basant sur ses tissus, il devait avoir 150 ans...</DIALOG>
+<DIALOG character="Meris">150 ans!?</DIALOG>
+<DIALOG character="Sharon">Oui, mais selon son état civil, c'était un jeune homme de 18 ans. Son âge exact n'est pas connu, mais je dirais que la marge d'erreur est de plus ou moins 10 ans. Et ce n'est pas tout. Certains échantillons étaient très similaires à ceux stockés par l'hôpital.</DIALOG>
+<DIALOG character="Meris">Ainsi, ce garçon pourrait être Voyager? Ou un de ses semblables?</DIALOG>
+<DIALOG character="Sharon">Je ne sais vraiment pas...dans le premier cas, l'affaire est close...dans le second, nous aurons prouvé que les personnes dotés des mêmes capacités que celles de Voyager forment un groupuscule...dans tous les cas, il s'agit vraiment de personnes très spéciales...</DIALOG>
+<DIALOG character="Meris">Y aurait-il pu avoir des divergences au sein de ce groupe?</DIALOG>
+<DIALOG character="Jan">Si on tient compte des écritures trouvées, il y a peu de chances...Pour chaque incident lié à Voyager que nous avons pu voir, il laisse ce type d'écriture sur le lieu du crime. ...Il choisit ses victimes. Si c'était une dispute interne, je ne pense pas qu'il aurait laissé ces écritures derrière lui. ...Au fait, au sujet de l'échantillon de tissus de 150 ans...est-il possible pour un humain de rester en vie dans cet état de conservation?</DIALOG>
+<DIALOG character="Sharon">Je suppose, oui, si le corps produit constamment cette substance permettant de contrôler le métabolisme...</DIALOG>
+<DIALOG character="Lactis">Un moment, Docteur Rosas! Examinons une autre hypothèse. Le contrôle des fonctions du cerveau et le contrôle de la détérioration du corps sont deux mécanismes à peu près équivalents.</DIALOG>
+<DIALOG character="Sharon">Hé bien, même en théorie, cela présente des difficultés significatives. Si je trouvais quelqu'un sachant mettre ça en pratique, je n'aurais pas la moindre idée de la manière dont il s'y prend, sauf à lui demander moi-même...</DIALOG>
+<DIALOG character="Jan">Quoi qu'il en soit, ces échantillons de tissus existent bel et bien...</DIALOG>
+<DIALOG character="Sharon">Je ne veux même plus y penser. Peut-être que le propriétaire de ces tissus est un monstre au dela de notre imagination...</DIALOG>
+<DIALOG character="Lactis">...Il y a une forte probabilité pour que leur propriétaire soit Voyager...</DIALOG>
+<DIALOG character="Sharon">C'est une possibilité, en effet...Mais nous aurons besoin d'autres preuves pour tirer cette conclusion...</DIALOG>
+<DIALOG character="Jan">Oui, ainsi nous en serions sûrs. A l'heure qu'il est, Michael devrait avoir ...</DIALOG>
+<COMMENT>Le communicateur de Jan sonne.</COMMENT>
+<DIALOG character="Sharon">Hm? Un message privé pour l'un d'entre vous?</DIALOG>
+<DIALOG character="Jan">C'est pour moi.</DIALOG>
+<DIALOG character="Michael">C-capitaine? Je-je suis dé...solé.</DIALOG>
+<DIALOG character="Jan">Où ça en est?</DIALOG>
+<DIALOG character="Michael">J'ai a-arrêté l'analyse...je sais qui est Vo-Voyager...</DIALOG>
+<DIALOG character="Jan">Qui est-il?</DIALOG>
+<DIALOG character="Michael">C-c'est...</DIALOG>
+<DIALOG character="Jan">Je te sens nerveux, mais essaies de te calmer un peu tu veux bien?</DIALOG>
+<DIALOG character="Michael">Je ne peux pas rester ici plus longtemps. Si je ne vous le dis pas en face...</DIALOG>
+<DIALOG character="Jan">Tu ne peux pas me le dire? Pourquoi tu ne pourrais-pas?</DIALOG>
+<DIALOG character="Michael">Il doit bien y avoir un moyen, un endroit ... un endroit... oui, il faut que nous nous retrouvions ailleurs qu'ici...</DIALOG>
+<DIALOG character="Jan">Ok. Rejoins-nous au point KC-537 dans 30 minutes, d'accord?</DIALOG>
+<DIALOG character="Michael">Dans 30 minutes? Ok, terminé!!</DIALOG>
+<DIALOG character="Lactis">Etrange, n'est-ce pas? Quand je l'ai appelé plus tôt, je n'avais pas obtenu de réponse...</DIALOG>
+<DIALOG character="Jan">Oui...il est tout aussi étrange qu'il utilise une ligne privée... On dirait...</DIALOG>
+<DIALOG character="Lactis">...?</DIALOG>
+<DIALOG character="Jan">Bah, rien. Sharon...ce monstre. Trouve quel était le donneur de ce tissu.</DIALOG>
+<DIALOG character="Sharon">Tout donneur est protégé par la loi. C'est une question de droit privé. Mais je vais regarder si je peux trouver un moyen.</DIALOG>
+<COMMENT>Elrich entre.</COMMENT>
+<DIALOG character="Jan">!</DIALOG>
+<DIALOG character="Lactis">Elrich!!</DIALOG>
+<DIALOG character="Elrich">Michael est-il là!?</DIALOG>
+<DIALOG character="Jan">Il nous a dit avoir découvert l'identité de Voyager...</DIALOG>
+<DIALOG character="Elrich">Oui. Michael était sur le point de vous contacter lui-même, alors il m'a dit de partir devant.</DIALOG>
+<DIALOG character="Jan">Je me demande pourquoi...</DIALOG>
+<DIALOG character="Elrich">Je suppose qu'il était pressé...</DIALOG>
+<DIALOG character="Jan">Je vois. Allons tout de suite à sa rencontre!</DIALOG>
+
+</CHAPTER>
+
