@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<xsl:stylesheet version="1.0"
+<xsl:stylesheet version="2.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:output method="text" />
 	<xsl:strip-space elements="*" />
@@ -42,7 +42,8 @@
 
 		<xsl:text>"index","en","jp","de",</xsl:text>
 		<xsl:text>"</xsl:text>
-		<xsl:value-of select="." />
+		<!-- Replace any quote char by tilde char to avoid messing up CSV structure -->
+		<xsl:value-of select="translate(.,'&quot;','~')" />
 		<xsl:text>"</xsl:text>
 		<xsl:value-of select="$newline" />
 
