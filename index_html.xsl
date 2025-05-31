@@ -32,6 +32,7 @@
             <P>
                <FONT FACE="Arial,Helvetica" SIZE="-2">
                		<U>Mises à jour :</U>
+            <LI>31/05/25 : Collaboration avec CycloneFox sur <a href="https://cyclonefox.itch.io/xenosaga-pied-piper">son projet de remake de Xenosaga Pied Piper</a> : la traduction a été intégralement revue et intégrée à partir de la release 1.2 du remake. Un honneur pour moi d'apporter ma contribution à ce superbe projet abouti, et un vrai plaisir de voir enfin ces dialogues prendre vie dans une version jouable attendue depuis plus de 20 ans, avec une ambiance magnifiée par les superbes musiques de Wow Bob Wow!</LI>
 		    <LI>24/04/22 : Remise à disposition du site sous la forme de projet Github</LI>
 			<LI>18/03/06 : Parfois, un <A href="connexions.html">schéma</A> vaut mieux qu'un long discours (attention SPOILERS)</LI>
 			<LI>11/03/06 : Corrections + Ajout d'une page <A href="references.xml">références et inspirations</A> (attention SPOILERS)</LI>
